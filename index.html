@@ -1,0 +1,174 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>美国数据中心建设 & 云企融资监控看板</title>
+<style>
+  :root {
+    --bg: #f5f6f8; --card: #ffffff; --border: #e5e7eb; --text: #1f2328;
+    --muted: #6b7280; --accent: #1a56db; --red: #d92d20; --green: #067647;
+    --amber: #b54708; --chip: #eef2ff; --chip2: #fdf6ec;
+  }
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body { font-family: "Segoe UI", "Microsoft YaHei", -apple-system, sans-serif; background: var(--bg); color: var(--text); padding: 24px 16px 60px; }
+  .wrap { max-width: 1180px; margin: 0 auto; }
+  h1 { font-size: 24px; margin-bottom: 4px; }
+  .sub { color: var(--muted); font-size: 13px; margin-bottom: 20px; }
+  .sub b { color: var(--accent); }
+  h2 { font-size: 17px; margin: 28px 0 12px; padding-left: 10px; border-left: 4px solid var(--accent); }
+  .cards { display: grid; grid-template-columns: repeat(auto-fill, minmax(340px, 1fr)); gap: 14px; }
+  .card { background: var(--card); border: 1px solid var(--border); border-radius: 10px; padding: 14px 16px; }
+  .card h3 { font-size: 15px; display: flex; justify-content: space-between; align-items: baseline; margin-bottom: 8px; }
+  .card h3 .tk { color: var(--muted); font-size: 12px; font-weight: normal; }
+  .capex-big { font-size: 22px; font-weight: 700; color: var(--accent); }
+  .kv { font-size: 13px; line-height: 1.75; }
+  .kv b { color: var(--text); }
+  .kv .lab { color: var(--muted); }
+  .pos { color: var(--red); font-weight: 600; }
+  .neg { color: var(--green); font-weight: 600; }
+  .tablebox { background: var(--card); border: 1px solid var(--border); border-radius: 10px; overflow-x: auto; }
+  table { width: 100%; border-collapse: collapse; font-size: 13px; min-width: 760px; }
+  th { background: #f0f3f8; text-align: left; padding: 9px 12px; white-space: nowrap; font-size: 12.5px; color: #374151; border-bottom: 1px solid var(--border); }
+  td { padding: 9px 12px; border-bottom: 1px solid #f0f0f0; vertical-align: top; line-height: 1.6; }
+  tr:last-child td { border-bottom: none; }
+  .chip { display: inline-block; background: var(--chip); color: var(--accent); border-radius: 20px; padding: 1px 9px; font-size: 12px; white-space: nowrap; }
+  .chip.warn { background: #fef0ef; color: var(--red); }
+  .chip.ok { background: #e8f5ee; color: var(--green); }
+  .chip.amber { background: var(--chip2); color: var(--amber); }
+  .summary { background: linear-gradient(135deg, #eef4ff, #f7f9ff); border: 1px solid #dbe6ff; border-radius: 10px; padding: 14px 18px; font-size: 14px; line-height: 2; }
+  .summary b { color: var(--accent); }
+  .news li { margin: 0 0 9px 0; list-style: none; font-size: 13.5px; line-height: 1.55; padding-bottom: 9px; border-bottom: 1px dashed #eee; }
+  .news li:last-child { border-bottom: none; }
+  .news a { color: var(--text); text-decoration: none; }
+  .news a:hover { color: var(--accent); }
+  .news .meta { color: var(--muted); font-size: 12px; margin-top: 2px; }
+  .note { background: #fffbeb; border: 1px solid #fde68a; border-radius: 8px; padding: 10px 14px; font-size: 13px; color: #92400e; margin-top: 24px; line-height: 1.7; }
+  .two { display: grid; grid-template-columns: 1fr 1fr; gap: 14px; }
+  @media (max-width: 900px) { .two { grid-template-columns: 1fr; } }
+  .loading { color: var(--muted); padding: 20px; text-align: center; }
+</style>
+</head>
+<body>
+<div class="wrap">
+  <h1>🇺🇸 美国数据中心建设 & 云企融资监控看板</h1>
+  <div class="sub">调研数据截至 <b id="asof">加载中…</b> ｜ 新闻自动更新于 <b id="newsat">…</b> ｜ <span id="updated">每日 GitHub Actions 自动更新</span></div>
+
+  <div class="summary" id="summary">加载中…</div>
+
+  <h2>💰 资本支出（CapEx）</h2>
+  <div class="cards" id="capex"><div class="loading">加载中…</div></div>
+
+  <h2>🏦 发债情况（金额 / 利率 / 期限）</h2>
+  <div class="tablebox" id="bonds">加载中…</div>
+
+  <div class="two">
+    <div>
+      <h2>📈 发股 / 股权融资</h2>
+      <div class="card" id="equity">加载中…</div>
+    </div>
+    <div>
+      <h2>⚠️ 资金缺口与信用风险</h2>
+      <div class="card" id="gap">加载中…</div>
+    </div>
+  </div>
+
+  <h2>🎛️ GPU 用卡台账（已部署 / 计划购买）</h2>
+  <div class="tablebox" id="gpus">加载中…</div>
+
+  <h2>🏗️ 数据中心建设进度</h2>
+  <div class="tablebox" id="construction">加载中…</div>
+
+  <h2>📰 最新动态（每日自动抓取）</h2>
+  <div class="card"><ul class="news" id="news"><div class="loading">加载中…</div></ul></div>
+
+  <div class="note">📌 <b>数据说明</b>：CapEx/建设进度/发债利率/GPU 台账等调研数据由 AI 调研后更新（对话中说"更新数据中心看板"即可）；新闻头条由脚本每日通过 Google News RSS 自动抓取。金额单位除注明外均为美元。涨跌色仅用于资金流向示意。</div>
+</div>
+
+<script>
+const fmt = (n) => n == null ? "—" : (n + " 十亿美元").replace("十亿美元", "亿美元");
+
+function esc(s){ const d=document.createElement("div"); d.textContent=s==null?"":String(s); return d.innerHTML; }
+
+async function load(){
+  const [cur, news] = await Promise.all([
+    fetch("data/curated.json").then(r=>r.json()).catch(()=>null),
+    fetch("data/news.json").then(r=>r.json()).catch(()=>null),
+  ]);
+  if(!cur){ document.body.innerHTML = "<p style='padding:40px'>数据加载失败</p>"; return; }
+  document.getElementById("asof").textContent = cur.as_of;
+  if(news) document.getElementById("newsat").textContent = news.updated_at || "—";
+
+  // 摘要
+  const s = cur.summary || {};
+  document.getElementById("summary").innerHTML = `
+    <div>🧮 <b>2026 四大 CapEx 合计</b>：${esc(s.capex_2026_big4||"—")}</div>
+    <div>🏛️ <b>行业发债</b>：${esc(s.bond_2026_sector||"—")}</div>
+    <div>🏗️ <b>建设盘子</b>：${esc(s.construction_sector||"—")}</div>
+    <div>🚨 <b>关键风险</b>：${esc(s.key_risk||"—")}</div>`;
+
+  // CapEx 卡片
+  document.getElementById("capex").innerHTML = cur.capex.map(c=>`
+    <div class="card">
+      <h3>${esc(c.company)} <span class="tk">${esc(c.ticker)}</span></h3>
+      <div class="capex-big">${esc(c.guide_2026)}</div>
+      <div style="font-size:12px;color:var(--muted);margin:2px 0 8px">2026 年指引（最新季度 ${esc(c.latest_quarter)}：${c.latest_capex_bn?c.latest_capex_bn+" 亿美元":""}，同比 ${esc(c.yoy)}）</div>
+      <div class="kv">
+        <span class="lab">指引说明：</span>${esc(c.guide_note)}<br>
+        <span class="lab">TTM 开支：</span><b>${c.ttm_capex_bn?c.ttm_capex_bn+" 亿美元":"—"}</b> ｜ <span class="lab">现金流：</span><span class="pos">${esc(c.fcf_note)}</span><br>
+        <span class="lab">其他：</span>${esc(c.extra||"—")}
+      </div>
+    </div>`).join("");
+
+  // 发债表
+  document.getElementById("bonds").innerHTML = `<table>
+    <thead><tr><th>主体</th><th>金额</th><th>类型</th><th>利率 / 定价</th><th>时间</th><th>期限</th><th>备注</th></tr></thead>
+    <tbody>${cur.bonds.map(b=>`<tr>
+      <td><b>${esc(b.company)}</b></td><td><b>${b.amount_bn?b.amount_bn+" 亿美元":"—"}</b></td>
+      <td>${esc(b.type)}</td><td>${esc(b.rate)}</td><td>${esc(b.date)}</td><td>${esc(b.maturity)}</td><td>${esc(b.notes)}</td>
+    </tr>`).join("")}</tbody></table>`;
+
+  // 发股
+  document.getElementById("equity").innerHTML = cur.equity.map(e=>`
+    <div style="padding:8px 0;border-bottom:1px dashed #eee;font-size:13px;line-height:1.65">
+      <span class="chip">${esc(e.company)}</span> <span style="color:var(--muted);font-size:12px">${esc(e.date)}</span><br>${esc(e.detail)}
+    </div>`).join("");
+
+  // 资金缺口
+  document.getElementById("gap").innerHTML = cur.funding_gap.map(g=>`
+    <div style="padding:8px 0;border-bottom:1px dashed #eee;font-size:13px;line-height:1.65">
+      <span class="chip warn">${esc(g.company)}</span><br>
+      <b>缺口/压力：</b>${esc(g.gap)}<br><b>风险：</b>${esc(g.risk)}
+    </div>`).join("");
+
+  // GPU 表
+  document.getElementById("gpus").innerHTML = `<table>
+    <thead><tr><th>公司</th><th>已部署</th><th>计划购买</th><th>备注</th></tr></thead>
+    <tbody>${cur.gpus.map(g=>`<tr>
+      <td><b>${esc(g.company)}</b></td><td>${esc(g.deployed)}</td><td>${esc(g.planned)}</td><td>${esc(g.notes)}</td>
+    </tr>`).join("")}</tbody></table>`;
+
+  // 建设进度表
+  document.getElementById("construction").innerHTML = `<table>
+    <thead><tr><th>项目</th><th>地点</th><th>容量</th><th>状态</th><th>时间线</th><th>参与方</th></tr></thead>
+    <tbody>${cur.construction.map(p=>{
+      let chip = '<span class="chip amber">'+esc(p.status)+'</span>';
+      if(/投运|运营/.test(p.status)) chip = '<span class="chip ok">'+esc(p.status)+'</span>';
+      if(/延期|诉讼|暂缓|瓶颈|不透明/.test(p.status)) chip = '<span class="chip warn">'+esc(p.status)+'</span>';
+      return `<tr><td><b>${esc(p.project)}</b></td><td>${esc(p.location)}</td><td>${esc(p.capacity)}</td><td>${chip}</td><td>${esc(p.timeline)}</td><td>${esc(p.partners)}</td></tr>`;
+    }).join("")}</tbody></table>`;
+
+  // 新闻
+  const ul = document.getElementById("news");
+  if(news && news.items && news.items.length){
+    ul.innerHTML = news.items.slice(0,60).map(n=>`
+      <li><a href="${esc(n.link)}" target="_blank" rel="noopener">${esc(n.title)}</a>
+      <div class="meta">${esc(n.source||"")}${n.published?" · "+esc(n.published):""}</div></li>`).join("");
+  } else {
+    ul.innerHTML = "<div class='loading'>暂无新闻（等待下次自动抓取）</div>";
+  }
+}
+load();
+</script>
+</body>
+</html>

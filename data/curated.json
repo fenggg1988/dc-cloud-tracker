@@ -1,0 +1,132 @@
+{
+  "as_of": "2026-10-26",
+  "summary": {
+    "capex_2026_big4": "约 7,350 亿美元（四大中值合计，较2025年约4,100亿 +77%）",
+    "bond_2026_sector": "AI 相关发债年内已约 5,000 亿美元；五大超大规模厂商公司债约 1,590-2,000 亿美元，全年预计约 3,200 亿（+60%）",
+    "construction_sector": "行业跟踪 104 个项目：在建 54、已公告 29、部分投运 16、完全投运 5；披露规模合计约 104.5 GW",
+    "key_risk": "电力与电网成为最大瓶颈：2026 年计划投产容量约 30-50% 延期或面临取消；Oracle 现金流预警、Meta 首现负自由现金流并宣布发新股融资"
+  },
+  "capex": [
+    {
+      "company": "亚马逊",
+      "ticker": "AMZN",
+      "latest_quarter": "2026Q2",
+      "latest_capex_bn": 54.2,
+      "yoy": "+68%",
+      "guide_2026": "约 2,200 亿美元",
+      "guide_note": "由约 2,000 亿上调，主因内存等零部件涨价及 AI 需求旺盛",
+      "ttm_capex_bn": 173.0,
+      "fcf_note": "TTM 自由现金流约 -76 亿美元（转负）",
+      "extra": "2025Q4 单季新增容量超 1.2 GW"
+    },
+    {
+      "company": "微软",
+      "ticker": "MSFT",
+      "latest_quarter": "FY26Q4(6月)",
+      "latest_capex_bn": 41.0,
+      "yoy": "+70%",
+      "guide_2026": "约 1,750 亿美元",
+      "guide_note": "由约 1,900 亿下调为会计口径调整（数据中心折旧年限 15→25 年、部分融资租赁转经营租赁），实际投资未缩减；FY2027Q1 预计超 500 亿",
+      "ttm_capex_bn": 145.3,
+      "fcf_note": "FY26 物业设备支出 1,159 亿美元",
+      "extra": "FY26 新开 88 座数据中心（其中 FY26Q4 开 31 座），单季新增约 1 GW；Azure 有约 800 亿美元订单因电力受限无法交付"
+    },
+    {
+      "company": "谷歌",
+      "ticker": "GOOGL",
+      "latest_quarter": "2026Q2",
+      "latest_capex_bn": 44.9,
+      "yoy": "+100%",
+      "guide_2026": "1,950-2,050 亿美元",
+      "guide_note": "由 1,800-1,900 亿上调，加快算力交付；预计 2027 年显著增长",
+      "ttm_capex_bn": 132.4,
+      "fcf_note": "Q2 自由现金流 -59 亿美元（史上首次转负）",
+      "extra": "Google Cloud 收入 +82% 至 248 亿美元，在手订单 5,140 亿"
+    },
+    {
+      "company": "Meta",
+      "ticker": "META",
+      "latest_quarter": "2026Q3",
+      "latest_capex_bn": 34.91,
+      "yoy": "+80%",
+      "guide_2026": "1,350-1,450 亿美元",
+      "guide_note": "10月21日上调下限（原 1,300-1,450 亿），因内存及组件涨价；称将持续激进投资",
+      "ttm_capex_bn": 92.4,
+      "fcf_note": "Q3 自由现金流 -21.2 亿美元（十年来首次转负）",
+      "extra": "10/22 宣布发行新无投票权股份类别为 AI 融资，单日市值蒸发约 1,240 亿美元"
+    },
+    {
+      "company": "甲骨文",
+      "ticker": "ORCL",
+      "latest_quarter": "FY27Q1(8月)",
+      "latest_capex_bn": 28.45,
+      "yoy": "+235%(TTM口径)",
+      "guide_2026": "FY27 毛资本开支最高约 950 亿美元",
+      "guide_note": "重申指引；单季交付 850 MW 新容量、30 万+ GPU",
+      "ttm_capex_bn": 75.7,
+      "fcf_note": "FY26 自由现金流 -237 亿美元",
+      "extra": "RPO（剩余履约义务）6,640 亿美元，同比 +363%；Abilene 8 座楼已交付 6 座（618 MW）"
+    },
+    {
+      "company": "CoreWeave",
+      "ticker": "CRWV",
+      "latest_quarter": "2026Q2",
+      "latest_capex_bn": 9.4,
+      "yoy": "+224%(TTM口径)",
+      "guide_2026": "350-390 亿美元",
+      "guide_note": "由更早指引上调",
+      "ttm_capex_bn": 27.2,
+      "fcf_note": "总债务已达约 350 亿美元，利息保障倍数仅 0.17",
+      "extra": "营收在手订单约 994 亿美元（含 Meta 约 210 亿合同至 2032）"
+    }
+  ],
+  "bonds": [
+    {"company": "Meta", "amount_bn": 30, "type": "公司债（投资级）", "rate": "—", "date": "2026", "maturity": "—", "notes": "2026 年AI基建融资大潮中发行约 300 亿美元公司债"},
+    {"company": "Meta (Hyperion SPV)", "amount_bn": 27, "type": "SPV 项目债", "rate": "收益率约 6.58%（约国债+225bp）", "date": "2025-10", "maturity": "2049", "notes": "Beignet Investor LLC 发行，S&P 评级 A+；Blue Owl 持 80%、Meta 持 20%，债务不入 Meta 表内；PIMCO 认购约 180 亿、BlackRock 约 30 亿；摩根士丹利安排"},
+    {"company": "甲骨文", "amount_bn": 18, "type": "投资级公司债", "rate": "10年期收益率约 6.5%", "date": "2025-09", "maturity": "—", "notes": "叠加 380 亿美元定期贷款（SOFR+250bp，JPM/MUFG 牵头）用于德州与威斯康星设施"},
+    {"company": "甲骨文 (新墨西哥 Project Jupiter)", "amount_bn": 18, "type": "项目贷款", "rate": "二级市场报价 89-91 美分（折价）", "date": "2025-2026", "maturity": "—", "notes": "辛迪加约 20 家银行；因电力与进度不确定已发不可抗力通知，银团分销困难"},
+    {"company": "甲骨文", "amount_bn": 43, "type": "FY26 全年债务融资", "rate": "—", "date": "FY2026", "maturity": "—", "notes": "FY26 合计举债 430 亿 + 股本 50 亿；截至 8/31 总借款 1,253 亿美元，另有 2,880 亿美元数据中心租赁未起租；FY27 计划再融约 400 亿"},
+    {"company": "亚马逊", "amount_bn": 54, "type": "公司债", "rate": "—", "date": "2026", "maturity": "—", "notes": "2026 年近期发行约 540 亿美元，为超大规模厂商单笔最大之一"},
+    {"company": "谷歌", "amount_bn": 31.5, "type": "公司债", "rate": "—", "date": "2026", "maturity": "—", "notes": "2026 年发行 315 亿美元"},
+    {"company": "CoreWeave", "amount_bn": 8.5, "type": "GPU 抵押延迟提款贷款", "rate": "获 Moody's A3（首个投资级 GPU 抵押融资）", "date": "2026-03", "maturity": "—", "notes": "8 月再增 26 亿美元授信；年内累计举债+股权超 300 亿美元；无抵押债收益率约 15%、5 年期 CDS 逼近 1,200bp"},
+    {"company": "行业合计", "amount_bn": 159, "type": "五大超大规模厂商公司债 2026YTD", "rate": "—", "date": "2026", "maturity": "—", "notes": "同比 +47%；BofA 将 2026 全年预测由 1,400 亿上调至 1,750 亿；AI 相关全部债务年内约 5,000 亿；数据中心 ABS 存量约 610 亿（2020 年的 15 倍）"}
+  ],
+  "equity": [
+    {"company": "Meta", "detail": "宣布创设新无投票权股份类别（A 类以外新结构）为 AI 与数据中心融资，10/22 单日市值蒸发约 1,240 亿美元", "date": "2026-10-21"},
+    {"company": "甲骨文", "detail": "FY2026 融资结构中包含约 50 亿美元股本；FY27 计划债务+股权再融约 400 亿美元", "date": "2026"},
+    {"company": "英伟达（供应商融资）", "detail": "对新云厂商(neocloud)供应商融资约 1,100 亿美元，客户买卡再以卡抵押举债回购，形成循环；对 OpenAI 最初拟投 1,000 亿未正式签约，已缩减为较小股权", "date": "2026"},
+    {"company": "CoreWeave", "detail": "年内债务+股权合计融资超 300 亿美元；获英伟达 63 亿美元兜底承诺（2032 年前购买未售容量）", "date": "2026"}
+  ],
+  "funding_gap": [
+    {"company": "甲骨文", "gap": "FY26 自由现金流 -237 亿美元；Barclays 预警按当前支出/举债节奏现金或在 2026 年 11 月前后耗尽", "risk": "S&P 下调至 BBB-（距垃圾级一步）；8/4 CDS 创历史新高，市场隐含 5 年违约率超 20%；10 年期国债收益率约 6.5%（垃圾级水平）；总债务约 960 亿+2,880 亿未起租租赁"},
+    {"company": "Meta", "gap": "Q3 自由现金流 -21.2 亿（十年首次）；不可撤销合同承诺 2,376.7 亿美元；Hyperion 已投入超 500 亿", "risk": "发行新无投票权股票类别引发稀释担忧；拟再购相邻土地约 1,400 英亩继续扩张"},
+    {"company": "CoreWeave", "gap": "总债务 350 亿+租赁 340 亿；利息保障倍数 0.17（利息支出为 EBIT 的近 6 倍）", "risk": "无抵押债收益率约 15%，5 年 CDS 约 1,200bp；Q1 流动债务 75 亿 + 非流动 173 亿"},
+    {"company": "微软", "gap": "约 800 亿美元 Azure 订单因电力受限积压无法交付（需求缺口而非资金缺口）", "risk": "资本开支三分之一以上为 GPU/CPU 短周期资产，折旧压力上升"},
+    {"company": "行业", "gap": "Morgan Stanley 估算 AI 基建相关表外融资/租赁结构约 3 万亿美元；2025-2028 私募信贷需求约 8,000 亿美元；JPM 预计至 2030 年 AI 基建 5.5 万亿中约 4.1 万亿需举债（贷款/成本比超 85%）", "risk": "Fitch 统计美国私募信贷违约率 6.0% 创纪录；UBS 压力情景 13%；2026 年 1 月四位美参议员致信监管机构要求调查 AI 债务风险；美联储/国会关注系统性风险"}
+  ],
+  "gpus": [
+    {"company": "亚马逊 AWS", "deployed": "1M+ 自研 Trainium（在役）", "planned": "承诺采购约 300 万块英伟达 GPU（2026-2028 交付，含 Blackwell Ultra/Rubin/Rubin Ultra，2026 年内从 100 万增至 300 万）", "notes": "Anthropic Project Rainier 在 AWS 部署超 100 万块 Trainium2"},
+    {"company": "Meta", "deployed": "已知 12.9 万 H100 大集群；Prometheus（俄亥俄 1GW）规划容纳约 130 万块 H200/Blackwell", "planned": "与英伟达签多年多代协议，覆盖数百万块 Blackwell 与 Rubin；自研 MTIA 第 300-500 代 2027 年部署", "notes": "设立 Meta Compute 部门统筹；Zuckerberg 目标本十年数十 GW"},
+    {"company": "微软", "deployed": "数十万块液冷 Grace Blackwell 已部署", "planned": "Fairwater AI 超级工厂将扩展至数十万块 Vera Rubin 超级芯片；自研 Maia 2 量产（号称性价比 +30%）", "notes": "FY26Q4 资本开支约 2/3 投向 GPU/CPU 等短周期资产"},
+    {"company": "谷歌", "deployed": "约 90 万块自研 TPU（Ironwood v7）", "planned": "TPU 持续扩产并首次外供（Q2 开始向客户数据中心交付）；同时采购英伟达", "notes": "称 Gemini 超过 3/4 算力由自研 TPU 承担；宣称 TCO 较 GB200 低约 44%（自报）"},
+    {"company": "甲骨文", "deployed": "FY27Q1 单季交付 30 万+ GPU（环比近 3 倍）；Abilene 单季出货 13.1 万块", "planned": "Abilene 园区规划 45 万+ GB200；RPO 6,640 亿美元对应持续大规模采购", "notes": "Stargate Abilene 1.2GW：交付 618 MW（75%）"},
+    {"company": "OpenAI", "deployed": "依托微软/OCI/CoreWeave 的 Hopper+Blackwell 阵列", "planned": "与英伟达新增 5GW 专用 Vera Rubin（3GW 推理 + 2GW 训练）；美国已锁定 10+ GW 算力", "notes": "GPT-6 Astra 在 Abilene 用 10 万+ Grace Blackwell 完成预训练"},
+    {"company": "xAI", "deployed": "Colossus 22 万+ H100/H200/GB200", "planned": "持续扩张（未披露具体数量）", "notes": "Spectrum-X 网络规模化部署"},
+    {"company": "自研芯片合计", "deployed": "四大超大规模厂商自研加速卡约 190 万块在役（2026）", "planned": "定制 ASIC 出货增速约 +44.6%/年，接近商用 GPU 增速 3 倍", "notes": "英伟达 AI 市场份额约 85%（自 92% 下滑）；锁定台积电 2026 年约 60% 先进封装产能"}
+  ],
+  "construction": [
+    {"project": "Stargate Abilene (旗舰)", "location": "德州阿比林", "capacity": "1.2 GW（另 900 MW 扩建已转给微软）", "status": "部分投运", "timeline": "8 座楼 2026 年底全部完工；截至 2026-09 交付 75%（618 MW/6 座）", "partners": "OpenAI、Oracle、Crusoe"},
+    {"project": "Stargate Shackelford (Vantage Frontier)", "location": "德州", "capacity": "约 1.4 GW（10 座楼）", "status": "在建", "timeline": "2027 上半年客户交付；首楼 2026 年底", "partners": "OpenAI、Oracle、Vantage、VoltaGrid"},
+    {"project": "Project Jupiter", "location": "新墨西哥州 Dona Ana", "capacity": "1 GW+", "status": "在建（空污/水井许可诉讼暂缓）", "timeline": "供电架构改用 Bloom Energy 燃料电池", "partners": "OpenAI、Oracle、STACK、BorderPlex"},
+    {"project": "Stargate Port Washington", "location": "威斯康星", "capacity": "约 0.9 GW", "status": "在建", "timeline": "2027 下半年首批交付，分期至 2028", "partners": "OpenAI、Oracle、Vantage"},
+    {"project": "Stargate Saline (The Barn)", "location": "密歇根州", "capacity": "约 1 GW", "status": "在建（已完成融资）", "timeline": "2026-04 融资落地、06 动工", "partners": "OpenAI、Oracle、Related Digital"},
+    {"project": "Stargate Milam", "location": "德州米拉姆县", "capacity": "1.2 GW（OpenAI 签 1.2 GW 租约）", "status": "首期在建", "timeline": "2026 年起交付", "partners": "OpenAI、SoftBank、SB Energy"},
+    {"project": "Stargate Lordstown", "location": "俄亥俄州", "capacity": "未完全披露", "status": "已动工（进度最不透明）", "timeline": "SoftBank 原目标 2026 年投运", "partners": "OpenAI、SoftBank"},
+    {"project": "PORTS-Pike", "location": "俄亥俄州派克县", "capacity": "租约约 8 IT-GW（追踪器最大新签站点）", "status": "签约 20 年租约", "timeline": "首期 800 MW 预计 2028；建设至 2032", "partners": "OpenAI、SB Energy、NVIDIA"},
+    {"project": "Project Camellia", "location": "佐治亚州 Effingham", "capacity": "3.2 GW（分阶段 2028-2032）", "status": "电力合同已获批，前期开发", "timeline": "2028 年起分期供电", "partners": "OpenAI、Georgia Power"},
+    {"project": "Prometheus", "location": "俄亥俄州 New Albany", "capacity": "1 GW", "status": "年内投运", "timeline": "2026 年内上线；规划容纳约 130 万块 H200/Blackwell", "partners": "Meta"},
+    {"project": "Hyperion", "location": "路易斯安那州 Richland", "capacity": "规划 5 GW", "status": "在建（已投入超 500 亿美元）", "timeline": "2030 年前约 2 GW 上线；全部建成约 2032；追加购置相邻约 1,400 英亩", "partners": "Meta + Blue Owl (80/20 JV)"},
+    {"project": "微软 FY26 扩张", "location": "五大洲", "capacity": "FY26 新开 88 座数据中心，单季新增约 1 GW", "status": "持续", "timeline": "FY27 资本开支继续增长；并接手 Abilene 邻近 900 MW 扩建", "partners": "Microsoft"},
+    {"project": "行业整体", "location": "美国", "capacity": "104 个跟踪项目合计约 104.5 GW（在建 54 / 公告 29 / 部分投运 16 / 投运 5）", "status": "电力瓶颈显著", "timeline": "2026 年计划投产容量约 30-50% 延期或取消；变压器交期最长 5 年、开关设备 2028 年前售罄、并网排队 4-7 年", "partners": "Sightline Climate / Supercycle Buildout Tracker"}
+  ]
+}

@@ -1,0 +1,43 @@
+name: Daily DC & Cloud Financing Update
+
+on:
+  schedule:
+    # 北京时间 09:30 (UTC+8) == 01:30 UTC（主链来自 purr-mnav-tracker 旁支触发，此处为兜底）
+    - cron: "30 1 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: pip install --no-cache-dir requests
+
+      - name: Run news scraper
+        run: python scrape_dc_cloud.py
+
+      - name: Commit updated data
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/news.json
+          if git diff --cached --quiet; then
+            echo "No data changes to commit"
+          else
+            git commit -m "chore: daily news update $(date -u +%F)"
+            git pull --rebase --autostash origin "$(git branch --show-current)" || true
+            git push
+          fi
+
+      # 推送 main 后 Pages 自动生效（legacy 模式，直接服务分支目录）
