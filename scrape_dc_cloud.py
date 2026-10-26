@@ -138,7 +138,7 @@ def fetch_fred(session: requests.Session):
         rows = []
         for attempt in range(3):
             try:
-                r = fred_session.get(url, params=params, timeout=60)
+                r = fred_session.get(url, params=params, timeout=15)
                 r.raise_for_status()
                 rows = []
                 lines = r.text.strip().splitlines()
