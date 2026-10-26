@@ -79,25 +79,113 @@
   <h2>🏗️ 数据中心建设进度</h2>
   <div class="tablebox" id="construction">加载中…</div>
 
+  <h2>📊 股价走势（近 6 个月，起点=100 相对表现）</h2>
+  <div class="card" id="stockinfo" style="margin-bottom:10px">加载中…</div>
+  <div class="card"><canvas id="stockChart" height="110"></canvas></div>
+
+  <h2>📉 债券利率与 CDS 走势</h2>
+  <div class="two" style="margin-bottom:10px">
+    <div class="card"><canvas id="yieldChart" height="150"></canvas></div>
+    <div class="card"><canvas id="spreadChart" height="150"></canvas></div>
+  </div>
+  <div class="tablebox" id="creditobs">加载中…</div>
+
   <h2>📰 最新动态（每日自动抓取）</h2>
   <div class="card"><ul class="news" id="news"><div class="loading">加载中…</div></ul></div>
 
   <div class="note">📌 <b>数据说明</b>：CapEx/建设进度/发债利率/GPU 台账等调研数据由 AI 调研后更新（对话中说"更新数据中心看板"即可）；新闻头条由脚本每日通过 Google News RSS 自动抓取。金额单位除注明外均为美元。涨跌色仅用于资金流向示意。</div>
 </div>
 
+<script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.1/dist/chart.umd.min.js"></script>
 <script>
 const fmt = (n) => n == null ? "—" : (n + " 十亿美元").replace("十亿美元", "亿美元");
 
 function esc(s){ const d=document.createElement("div"); d.textContent=s==null?"":String(s); return d.innerHTML; }
 
+const STOCK_COLORS = {MSFT:"#1a56db", AMZN:"#d97706", GOOGL:"#067647", META:"#7c3aed", ORCL:"#d92d20", CRWV:"#0ea5e9"};
+
+function renderStockChart(stocks){
+  const syms = Object.keys(stocks);
+  if(!syms.length){ document.getElementById("stockinfo").textContent = "暂无行情数据"; return; }
+  let info = syms.map(sym=>{
+    const s = stocks[sym], p = s.last_price, chg = s.last_change_pct;
+    const cls = chg==null?"":(chg>=0?"pos":"neg");
+    const sign = chg>=0?"+":"";
+    return `<b style="color:${STOCK_COLORS[sym]||'var(--accent)'}">${sym} ${esc(s.name)}</b>: ${p!=null?p:"—"} 美元 <span class="${cls}">${chg!=null?sign+chg.toFixed(2)+"%":""}</span>`;
+  }).join(" ｜ ");
+  document.getElementById("stockinfo").innerHTML = info;
+
+  const datasets = syms.map(sym=>{
+    const h = stocks[sym].history || [];
+    const base = h.length ? h[0].close : 1;
+    return {
+      label: sym,
+      borderColor: STOCK_COLORS[sym] || "#666",
+      backgroundColor: "transparent",
+      borderWidth: 1.8,
+      pointRadius: 0,
+      tension: 0.15,
+      data: h.map(r=>+(r.close/base*100).toFixed(2)),
+    };
+  });
+  const labels = stocks[syms[0]].history.map(r=>r.date);
+  new Chart(document.getElementById("stockChart"), {
+    type: "line",
+    data: { labels, datasets },
+    options: {
+      maintainAspectRatio: true, responsive: true,
+      interaction: { mode: "index", intersect: false },
+      scales: {
+        x: { ticks: { maxTicksLimit: 12, maxRotation: 0 }, grid: { display: false } },
+        y: { title: { display: true, text: "起点=100" } }
+      },
+      plugins: { legend: { position: "bottom", labels: { boxWidth: 14 } } }
+    }
+  });
+}
+
+function renderFredChart(canvasId, ids, fred, yTitle){
+  const colors = ["#1a56db", "#d97706", "#067647", "#7c3aed"];
+  const datasets = [];
+  let labels = [];
+  ids.forEach((sid, i)=>{
+    const f = fred[sid];
+    if(!f || !f.history || !f.history.length) return;
+    if(!labels.length) labels = f.history.map(r=>r.date);
+    datasets.push({
+      label: f.label || sid,
+      borderColor: colors[i % colors.length],
+      backgroundColor: "transparent",
+      borderWidth: 1.8, pointRadius: 0, tension: 0.15,
+      data: f.history.map(r=>r.value),
+    });
+  });
+  if(!datasets.length){ return; }
+  new Chart(document.getElementById(canvasId), {
+    type: "line",
+    data: { labels, datasets },
+    options: {
+      responsive: true,
+      interaction: { mode: "index", intersect: false },
+      scales: {
+        x: { ticks: { maxTicksLimit: 10, maxRotation: 0 }, grid: { display: false } },
+        y: { title: { display: true, text: yTitle } }
+      },
+      plugins: { legend: { position: "bottom", labels: { boxWidth: 14, font: {size: 11} } } }
+    }
+  });
+}
+
 async function load(){
-  const [cur, news] = await Promise.all([
+  const [cur, news, mkt] = await Promise.all([
     fetch("data/curated.json").then(r=>r.json()).catch(()=>null),
     fetch("data/news.json").then(r=>r.json()).catch(()=>null),
+    fetch("data/market.json").then(r=>r.json()).catch(()=>null),
   ]);
   if(!cur){ document.body.innerHTML = "<p style='padding:40px'>数据加载失败</p>"; return; }
   document.getElementById("asof").textContent = cur.as_of;
   if(news) document.getElementById("newsat").textContent = news.updated_at || "—";
+  if(mkt) document.getElementById("newsat").textContent = (news?news.updated_at+" · ":"") + "行情 " + (mkt.updated_at||"");
 
   // 摘要
   const s = cur.summary || {};
@@ -157,6 +245,23 @@ async function load(){
       if(/延期|诉讼|暂缓|瓶颈|不透明/.test(p.status)) chip = '<span class="chip warn">'+esc(p.status)+'</span>';
       return `<tr><td><b>${esc(p.project)}</b></td><td>${esc(p.location)}</td><td>${esc(p.capacity)}</td><td>${chip}</td><td>${esc(p.timeline)}</td><td>${esc(p.partners)}</td></tr>`;
     }).join("")}</tbody></table>`;
+
+  // 股价 + 利率走势（自动行情）
+  if(mkt){
+    renderStockChart(mkt.stocks || {});
+    renderFredChart("yieldChart", ["DGS10","BAA"], mkt.fred||{}, "%（收益率水平）");
+    renderFredChart("spreadChart", ["BAMLH0A0HYM2","BAMLC0A0CM"], mkt.fred||{}, "%（信用利差）");
+  } else {
+    document.getElementById("stockinfo").textContent = "行情数据暂不可用（等待下次自动抓取）";
+  }
+
+  // 个券利率 / CDS 关键点位（调研）
+  document.getElementById("creditobs").innerHTML = `<table>
+    <thead><tr><th>时间</th><th>主体</th><th>指标</th><th>关键点位 / 说明</th></tr></thead>
+    <tbody>${(cur.credit_obs||[]).map(c=>`<tr>
+      <td><b>${esc(c.date)}</b></td><td>${esc(c.company)}</td><td><span class="chip amber">${esc(c.metric)}</span></td><td>${esc(c.value)}</td>
+    </tr>`).join("")}</tbody></table>
+    <div style="padding:9px 12px;font-size:12px;color:var(--muted)">注：公司个券收益率与 CDS 无免费逐日数据源，以上为 AI 调研的关键点位记录（每次更新数据中心看板时补充最新观察）；上两张图为市场级利率/利差走势，每日自动更新，可作为信用环境基准。</div>`;
 
   // 新闻
   const ul = document.getElementById("news");

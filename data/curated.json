@@ -128,5 +128,17 @@
     {"project": "Hyperion", "location": "路易斯安那州 Richland", "capacity": "规划 5 GW", "status": "在建（已投入超 500 亿美元）", "timeline": "2030 年前约 2 GW 上线；全部建成约 2032；追加购置相邻约 1,400 英亩", "partners": "Meta + Blue Owl (80/20 JV)"},
     {"project": "微软 FY26 扩张", "location": "五大洲", "capacity": "FY26 新开 88 座数据中心，单季新增约 1 GW", "status": "持续", "timeline": "FY27 资本开支继续增长；并接手 Abilene 邻近 900 MW 扩建", "partners": "Microsoft"},
     {"project": "行业整体", "location": "美国", "capacity": "104 个跟踪项目合计约 104.5 GW（在建 54 / 公告 29 / 部分投运 16 / 投运 5）", "status": "电力瓶颈显著", "timeline": "2026 年计划投产容量约 30-50% 延期或取消；变压器交期最长 5 年、开关设备 2028 年前售罄、并网排队 4-7 年", "partners": "Sightline Climate / Supercycle Buildout Tracker"}
+  ],
+  "credit_obs": [
+    {"date": "2025-09", "company": "甲骨文", "metric": "公司债/贷款", "value": "$180 亿投资级公司债发行；$380 亿定期贷款定价 SOFR+250bp（JPM/MUFG 牵头）"},
+    {"date": "2025-10", "company": "Meta (Hyperion SPV)", "metric": "SPV 项目债", "value": "$270 亿 A+ 级债券，收益率 6.58%（约同期限国债+225bp），2049 年到期；PIMCO 认购 $180 亿"},
+    {"date": "2026-07", "company": "甲骨文", "metric": "评级", "value": "S&P 下调长期评级至 BBB-（距垃圾级一级）"},
+    {"date": "2026-08-04", "company": "甲骨文", "metric": "CDS", "value": "CDS 利差创历史新高（当日记录）"},
+    {"date": "2026-09", "company": "甲骨文", "metric": "债券收益率", "value": "10 年期公司债收益率约 6.5%（相当于更低评级水平）；新墨西哥 $180 亿项目贷二级市场报价 89-91 美分"},
+    {"date": "2026-10", "company": "甲骨文", "metric": "隐含违约率", "value": "市场隐含 5 年违约率超 20%"},
+    {"date": "2026-10-23", "company": "CoreWeave", "metric": "CDS/债券收益率", "value": "无抵押债收益率约 15%；5 年期 CDS 逼近 1,200bp；总债务约 $350 亿"},
+    {"date": "2026", "company": "Broadcom", "metric": "CDS", "value": "5 年期 CDS 创纪录 136bp（AI 供应链信用压力信号）"},
+    {"date": "2026", "company": "Meta / 亚马逊 / 谷歌", "metric": "公司债发行", "value": "Meta $300 亿、Amazon $540 亿、Alphabet $315 亿；五大厂商年内合计 $1,590-2,000 亿"},
+    {"date": "2026-10-22", "company": "市场基准", "metric": "无风险利率/信用利差", "value": "10 年期美债 4.96%（10/22 收盘，此前一度 5.13%）；投资级公司债利差 IG OAS 约 100bp 上方、高收益利差 HY OAS 约 3.4%，信用利差仍偏窄、尚未充分定价 AI 债务风险"}
   ]
 }
