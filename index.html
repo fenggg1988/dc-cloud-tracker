@@ -88,6 +88,10 @@
     <div class="card"><canvas id="yieldChart" height="150"></canvas></div>
     <div class="card"><canvas id="spreadChart" height="150"></canvas></div>
   </div>
+  <div class="card" style="margin-bottom:10px">
+    <div style="font-size:13px;font-weight:600;margin-bottom:6px">各家 5 年期 CDS 走势（bp，越高=违约保护越贵=信用越差；个券报价为调研点位）</div>
+    <canvas id="cdsChart" height="130"></canvas>
+  </div>
   <div class="tablebox" id="creditobs">加载中…</div>
 
   <h2>📰 最新动态（每日自动抓取）</h2>
@@ -262,6 +266,45 @@ async function load(){
       <td><b>${esc(c.date)}</b></td><td>${esc(c.company)}</td><td><span class="chip amber">${esc(c.metric)}</span></td><td>${esc(c.value)}</td>
     </tr>`).join("")}</tbody></table>
     <div style="padding:9px 12px;font-size:12px;color:var(--muted)">注：公司个券收益率与 CDS 无免费逐日数据源，以上为 AI 调研的关键点位记录（每次更新数据中心看板时补充最新观察）；上两张图为市场级利率/利差走势，每日自动更新，可作为信用环境基准。</div>`;
+
+  // 个券 CDS 走势（调研点位连线）
+  const cdsColors = {"ORCL":"#d92d20","Meta":"#7c3aed","GOOGL":"#067647","AMZN":"#d97706","CoreWeave":"#0ea5e9","NVDA":"#374151"};
+  if(cur.credit_series && cur.credit_series.series){
+    const cdsRows = cur.credit_series.series.filter(s=>/CDS/.test(s.metric));
+    const dates = [...new Set(cdsRows.flatMap(s=>s.points.map(p=>p.date)))].sort();
+    const cdsDatasets = cdsRows.map(s=>{
+      const map = Object.fromEntries(s.points.map(p=>[p.date, p.value]));
+      const key = Object.keys(cdsColors).find(k=>s.company.includes(k)) || "";
+      return {
+        label: s.company,
+        borderColor: cdsColors[key] || "#888",
+        backgroundColor: cdsColors[key] || "#888",
+        borderWidth: 1.8, pointRadius: 3, pointHoverRadius: 5, tension: 0.1,
+        spanGaps: true,
+        data: dates.map(d=>map[d] ?? null),
+      };
+    });
+    new Chart(document.getElementById("cdsChart"), {
+      type: "line",
+      data: { labels: dates, datasets: cdsDatasets },
+      options: {
+        responsive: true,
+        interaction: { mode: "index", intersect: false },
+        scales: { x: { ticks: { maxTicksLimit: 10, maxRotation: 0 }, grid: { display: false } },
+                  y: { title: { display: true, text: "bp" } } },
+        plugins: { legend: { position: "bottom", labels: { boxWidth: 14, font: {size: 11} } } }
+      }
+    });
+
+    // 点位明细表（CDS + 债券收益率/价格）
+    const allRows = cur.credit_series.series.flatMap(s=>s.points.map(p=>({company:s.company, date:p.date, value:p.value, note:p.note})));
+    document.getElementById("creditobs").innerHTML = `<table>
+      <thead><tr><th>时间</th><th>主体</th><th>报价</th><th>说明</th></tr></thead>
+      <tbody>${allRows.sort((a,b)=>a.date<b.date?-1:1).map(c=>`<tr>
+        <td><b>${esc(c.date)}</b></td><td>${esc(c.company)}</td><td><b>${c.value}</b></td><td>${esc(c.note||"")}</td>
+      </tr>`).join("")}</tbody></table>
+      <div style="padding:9px 12px;font-size:12px;color:var(--muted)">注：个券 5Y CDS 与债券价格无免费逐日数据源，上表为 AI 调研的带日期报价点位（每次「更新数据中心看板」时追加新报价，走势随之延伸）；CDS 单位为基点 bp，债券价格为每 100 美元面值的美分价，收益率为 %。上两张图为市场级利率/利差每日自动走势，可作信用环境基准。</div>`;
+  }
 
   // 新闻
   const ul = document.getElementById("news");

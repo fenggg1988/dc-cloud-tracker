@@ -129,6 +129,48 @@
     {"project": "微软 FY26 扩张", "location": "五大洲", "capacity": "FY26 新开 88 座数据中心，单季新增约 1 GW", "status": "持续", "timeline": "FY27 资本开支继续增长；并接手 Abilene 邻近 900 MW 扩建", "partners": "Microsoft"},
     {"project": "行业整体", "location": "美国", "capacity": "104 个跟踪项目合计约 104.5 GW（在建 54 / 公告 29 / 部分投运 16 / 投运 5）", "status": "电力瓶颈显著", "timeline": "2026 年计划投产容量约 30-50% 延期或取消；变压器交期最长 5 年、开关设备 2028 年前售罄、并网排队 4-7 年", "partners": "Sightline Climate / Supercycle Buildout Tracker"}
   ],
+  "credit_series": {
+    "note": "个券 5Y CDS 无免费逐日数据源，以下为 AI 调研的带日期报价点位（来源：FT/Morningstar/金十/Dow Jones Market Data），每次更新追加，形成走势",
+    "series": [
+      {"company": "甲骨文 ORCL", "metric": "5Y CDS (bp)", "points": [
+        {"date": "2026-01", "value": 144, "note": "年初水平"},
+        {"date": "2026-10-19", "value": 322, "note": "历史新高附近；隐含 5 年违约率超 20%，市场称'煤矿金丝雀'"}
+      ]},
+      {"company": "Meta", "metric": "5Y CDS (bp)", "points": [
+        {"date": "2026-04-20", "value": 68.2, "note": ""},
+        {"date": "2026-10-20", "value": 108, "note": "创历史新高"},
+        {"date": "2026-10-21", "value": 111.6, "note": "较 4 月 +62%"}
+      ]},
+      {"company": "谷歌 GOOGL", "metric": "5Y CDS (bp)", "points": [
+        {"date": "2026-10-21", "value": 80, "note": "历史最高水平"}
+      ]},
+      {"company": "亚马逊 AMZN", "metric": "5Y CDS (bp)", "points": [
+        {"date": "2026-10-21", "value": 80, "note": "历史最高水平"}
+      ]},
+      {"company": "CoreWeave", "metric": "5Y CDS (bp)", "points": [
+        {"date": "2026-10-20", "value": 1090, "note": "困境区间；购买 $1000 万保护需 $182 万预付 + $12.5 万/季"},
+        {"date": "2026-10-21", "value": 1082, "note": "Reuters 隐含 5 年违约率约 64%（一年前约 30%）"}
+      ]},
+      {"company": "英伟达 NVDA", "metric": "5Y CDS (bp)", "points": [
+        {"date": "2026-10-20", "value": 101, "note": "创历史新高（供应商融资敞口）"}
+      ]},
+      {"company": "甲骨文 ORCL", "metric": "债券收益率/价格", "points": [
+        {"date": "2026-09", "value": 6.5, "note": "10 年期公司债收益率约 6.5%（垃圾级水平）"},
+        {"date": "2026-10", "value": 77, "note": "2055 年到期长债价格约 77 美分（面值=100）"}
+      ]},
+      {"company": "CoreWeave", "metric": "债券收益率/价格", "points": [
+        {"date": "2026-10-23", "value": 15, "note": "无抵押债收益率约 15%"}
+      ]},
+      {"company": "Meta Hyperion SPV", "metric": "债券收益率/价格", "points": [
+        {"date": "2025-10", "value": 6.58, "note": "Beignet 债券发行收益率（A+，2049 到期）"},
+        {"date": "2026-07", "value": 100, "note": "7 月初尚在面值上方"},
+        {"date": "2026-10", "value": 91, "note": "跌至约 91 美分"}
+      ]},
+      {"company": "Excalibur (租予微软)", "metric": "债券收益率/价格", "points": [
+        {"date": "2026-10", "value": 87, "note": "跌破 87 美分，微软租约未能护住价格"}
+      ]}
+    ]
+  },
   "credit_obs": [
     {"date": "2025-09", "company": "甲骨文", "metric": "公司债/贷款", "value": "$180 亿投资级公司债发行；$380 亿定期贷款定价 SOFR+250bp（JPM/MUFG 牵头）"},
     {"date": "2025-10", "company": "Meta (Hyperion SPV)", "metric": "SPV 项目债", "value": "$270 亿 A+ 级债券，收益率 6.58%（约同期限国债+225bp），2049 年到期；PIMCO 认购 $180 亿"},
