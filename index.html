@@ -100,7 +100,7 @@
   <div class="note">📌 <b>数据说明</b>：CapEx/建设进度/发债利率/GPU 台账等调研数据由 AI 调研后更新（对话中说"更新数据中心看板"即可）；新闻头条由脚本每日通过 Google News RSS 自动抓取。金额单位除注明外均为美元。涨跌色仅用于资金流向示意。</div>
 </div>
 
-<script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.1/dist/chart.umd.min.js"></script>
+<script src="vendor/chart.umd.min.js"></script>
 <script>
 const fmt = (n) => n == null ? "—" : (n + " 十亿美元").replace("十亿美元", "亿美元");
 
@@ -118,6 +118,7 @@ function renderStockChart(stocks){
     return `<b style="color:${STOCK_COLORS[sym]||'var(--accent)'}">${sym} ${esc(s.name)}</b>: ${p!=null?p:"—"} 美元 <span class="${cls}">${chg!=null?sign+chg.toFixed(2)+"%":""}</span>`;
   }).join(" ｜ ");
   document.getElementById("stockinfo").innerHTML = info;
+  document.getElementById("stockinfo").dataset.done = "1";
 
   const datasets = syms.map(sym=>{
     const h = stocks[sym].history || [];
@@ -250,12 +251,22 @@ async function load(){
       return `<tr><td><b>${esc(p.project)}</b></td><td>${esc(p.location)}</td><td>${esc(p.capacity)}</td><td>${chip}</td><td>${esc(p.timeline)}</td><td>${esc(p.partners)}</td></tr>`;
     }).join("")}</tbody></table>`;
 
-  // 股价 + 利率走势（自动行情）
+  // 股价 + 利率走势（自动行情）——放在表格之后渲染，且图表失败不影响数据展示
+  const hasChart = typeof Chart !== "undefined";
   if(mkt){
-    renderStockChart(mkt.stocks || {});
-    renderFredChart("yieldChart", ["DGS10","BAA"], mkt.fred||{}, "%（收益率水平）");
-    renderFredChart("spreadChart", ["BAMLH0A0HYM2","BAMLC0A0CM"], mkt.fred||{}, "%（信用利差）");
-  } else {
+    const si = document.getElementById("stockinfo");
+    try {
+      renderStockChart(mkt.stocks || {});
+    } catch(e) {
+      if(si && !si.dataset.done) si.textContent = "图表组件加载失败，但数据已更新（行情 " + (mkt.updated_at||"") + "）";
+      console.error(e);
+    }
+  }
+  if(mkt && mkt.fred){
+    try { renderFredChart("yieldChart", ["DGS10","BAA"], mkt.fred, "%（收益率水平）"); } catch(e){ console.error(e); }
+    try { renderFredChart("spreadChart", ["BAMLH0A0HYM2","BAMLC0A0CM"], mkt.fred, "%（信用利差）"); } catch(e){ console.error(e); }
+  }
+  if(!mkt){
     document.getElementById("stockinfo").textContent = "行情数据暂不可用（等待下次自动抓取）";
   }
 
@@ -267,36 +278,10 @@ async function load(){
     </tr>`).join("")}</tbody></table>
     <div style="padding:9px 12px;font-size:12px;color:var(--muted)">注：公司个券收益率与 CDS 无免费逐日数据源，以上为 AI 调研的关键点位记录（每次更新数据中心看板时补充最新观察）；上两张图为市场级利率/利差走势，每日自动更新，可作为信用环境基准。</div>`;
 
-  // 个券 CDS 走势（调研点位连线）
-  const cdsColors = {"ORCL":"#d92d20","Meta":"#7c3aed","GOOGL":"#067647","AMZN":"#d97706","CoreWeave":"#0ea5e9","NVDA":"#374151"};
+  // 个券 CDS 走势（调研点位连线）——表格优先渲染，图表容错
   if(cur.credit_series && cur.credit_series.series){
     const cdsRows = cur.credit_series.series.filter(s=>/CDS/.test(s.metric));
     const dates = [...new Set(cdsRows.flatMap(s=>s.points.map(p=>p.date)))].sort();
-    const cdsDatasets = cdsRows.map(s=>{
-      const map = Object.fromEntries(s.points.map(p=>[p.date, p.value]));
-      const key = Object.keys(cdsColors).find(k=>s.company.includes(k)) || "";
-      return {
-        label: s.company,
-        borderColor: cdsColors[key] || "#888",
-        backgroundColor: cdsColors[key] || "#888",
-        borderWidth: 1.8, pointRadius: 3, pointHoverRadius: 5, tension: 0.1,
-        spanGaps: true,
-        data: dates.map(d=>map[d] ?? null),
-      };
-    });
-    new Chart(document.getElementById("cdsChart"), {
-      type: "line",
-      data: { labels: dates, datasets: cdsDatasets },
-      options: {
-        responsive: true,
-        interaction: { mode: "index", intersect: false },
-        scales: { x: { ticks: { maxTicksLimit: 10, maxRotation: 0 }, grid: { display: false } },
-                  y: { title: { display: true, text: "bp" } } },
-        plugins: { legend: { position: "bottom", labels: { boxWidth: 14, font: {size: 11} } } }
-      }
-    });
-
-    // 点位明细表（CDS + 债券收益率/价格）
     const allRows = cur.credit_series.series.flatMap(s=>s.points.map(p=>({company:s.company, date:p.date, value:p.value, note:p.note})));
     document.getElementById("creditobs").innerHTML = `<table>
       <thead><tr><th>时间</th><th>主体</th><th>报价</th><th>说明</th></tr></thead>
@@ -304,6 +289,35 @@ async function load(){
         <td><b>${esc(c.date)}</b></td><td>${esc(c.company)}</td><td><b>${c.value}</b></td><td>${esc(c.note||"")}</td>
       </tr>`).join("")}</tbody></table>
       <div style="padding:9px 12px;font-size:12px;color:var(--muted)">注：个券 5Y CDS 与债券价格无免费逐日数据源，上表为 AI 调研的带日期报价点位（每次「更新数据中心看板」时追加新报价，走势随之延伸）；CDS 单位为基点 bp，债券价格为每 100 美元面值的美分价，收益率为 %。上两张图为市场级利率/利差每日自动走势，可作信用环境基准。</div>`;
+
+    if(typeof Chart !== "undefined"){
+      try {
+        const cdsColors = {"ORCL":"#d92d20","Meta":"#7c3aed","GOOGL":"#067647","AMZN":"#d97706","CoreWeave":"#0ea5e9","NVDA":"#374151"};
+        const cdsDatasets = cdsRows.map(s=>{
+          const map = Object.fromEntries(s.points.map(p=>[p.date, p.value]));
+          const key = Object.keys(cdsColors).find(k=>s.company.includes(k)) || "";
+          return {
+            label: s.company,
+            borderColor: cdsColors[key] || "#888",
+            backgroundColor: cdsColors[key] || "#888",
+            borderWidth: 1.8, pointRadius: 3, pointHoverRadius: 5, tension: 0.1,
+            spanGaps: true,
+            data: dates.map(d=>map[d] ?? null),
+          };
+        });
+        new Chart(document.getElementById("cdsChart"), {
+          type: "line",
+          data: { labels: dates, datasets: cdsDatasets },
+          options: {
+            responsive: true,
+            interaction: { mode: "index", intersect: false },
+            scales: { x: { ticks: { maxTicksLimit: 10, maxRotation: 0 }, grid: { display: false } },
+                      y: { title: { display: true, text: "bp" } } },
+            plugins: { legend: { position: "bottom", labels: { boxWidth: 14, font: {size: 11} } } }
+          }
+        });
+      } catch(e){ console.error(e); }
+    }
   }
 
   // 新闻
