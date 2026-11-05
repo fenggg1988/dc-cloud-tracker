@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-05 07:35 UTC",
+  "updated_at": "2026-11-05 07:38 UTC",
   "count": 120,
   "items": [
     {
@@ -70,16 +70,6 @@
       "ts": "2026-11-05T01:35:07+00:00",
       "queries": [
         "data center financing billion",
-        "Microsoft OR Amazon OR Google OR Meta data center capex"
-      ]
-    },
-    {
-      "title": "Microsoft’s $5B Capex Shortfall Tied in Part to IREN Delays - FourWeekMBA",
-      "source": "FourWeekMBA",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQY1Vjc0c5aU8taGFMSUFPdGo0M3liRmdSbkZ4c2lJaGNMRThPLWxoQVVkczAtMlN4QUFPSWdUVEdkaDNuSXp1aEp5b2ZEdDFyQ0xRWnNZMDd1M2RIWnQwcEsyMENqT3BTNlF0Qlo2N3QwSWt0d2pnNWt1d3hTbTVaN1NFTU11Z1VSU0ZuU05R?oc=5",
-      "published": "2026-11-05",
-      "ts": "2026-11-05T01:02:02+00:00",
-      "queries": [
         "Microsoft OR Amazon OR Google OR Meta data center capex"
       ]
     },
@@ -836,16 +826,6 @@
       ]
     },
     {
-      "title": "Donald Trump Stocks: 8 Stocks Owned by the President | Investing - U.S. News - Money",
-      "source": "U.S. News - Money",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1OM0theVZwbDJHb2Y5M2txNkxtajIwaVFMNk55ZlRuWjR0cnVOTEwyRk9CMU9NbnpLSHRtXzc4N1VrR2ZfZkdnTDhEVzVobThVWVZaNURmTExwNGVEMzEtZmkzMS11VTVFWkFPWHBaSlNaemk3T3RzdzNTclk?oc=5",
-      "published": "2026-10-07",
-      "ts": "2026-10-07T07:00:00+00:00",
-      "queries": [
-        "GPU purchase Microsoft Amazon Meta Google Oracle"
-      ]
-    },
-    {
       "title": "Best AI Stocks to Buy in 2026: 10 Top Picks & How to Invest - The Motley Fool",
       "source": "The Motley Fool",
       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQcTN4SWRQbVZpY1lwSnJjN3YxWmY5LU5Qck5ia2psWWRwcWplZ0RGTFo3ZmJrZDZ1S1RQZFF2NUcwOTh0NXA3NlM0a25ieHhPWHprdTBmbWxzY2FtdHRIMlpSY1pzcTU5ZkhfN0wtcF9UeDg4WnZVYTZPSkRtcDNZaUJ1djdPQ1RVRkVQeVFUTnJrMFJ5VXdj?oc=5",
@@ -1206,6 +1186,27 @@
       "ts": "2026-08-13T07:00:00+00:00",
       "queries": [
         "AI data center bond issuance"
+      ]
+    },
+    {
+      "title": "North America Data Center Report Midyear 2026 - JLL",
+      "source": "JLL",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQSTR3MXpqUDdJc1MxNXl1RlQySjhtaHBxUVJyWndQd1l4MmdGa0lkNFJ1YmVyd3JHMC1TYkJnRGEwcFg5b2xKa1c5Um5hbWlmUlZmc0x5cmxYbi11UG1vSDhGdFdWcVVMTk5NMGN3YzdWUWxBUXhKQzc4R2hJVjFtMGlyVQ?oc=5",
+      "published": "2026-08-11",
+      "ts": "2026-08-11T07:00:00+00:00",
+      "queries": [
+        "data center financing billion",
+        "data center construction gigawatt"
+      ]
+    },
+    {
+      "title": "Data center demand exceeds expectations as H1 2026 absorption hits record 25 GW - JLL",
+      "source": "JLL",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPR09mYXRETmo0UlJJMUdva09vdFVmeEQwcG12bmN2Rll4ZnNxOGNYcDllZXJOQW8zSkE5TnBIcEJHbVQ4VjN5RWtVSlJPLUVaU0tVclBLNkZuQ0lHcklaTE1UNlVrcTJMWW5LRXZlMGJJeGUzcHhpeTRtTXg1TTBhdlNUX0k1X3NhVzRUVkpB?oc=5",
+      "published": "2026-08-11",
+      "ts": "2026-08-11T07:00:00+00:00",
+      "queries": [
+        "data center construction gigawatt"
       ]
     }
   ]
