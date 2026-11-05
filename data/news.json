@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-05 07:38 UTC",
+  "updated_at": "2026-11-05 07:46 UTC",
   "count": 120,
   "items": [
     {
@@ -515,6 +515,16 @@
       ]
     },
     {
+      "title": "Blackstone-backed data center operator tests AI debt fears - Yahoo Finance",
+      "source": "Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOWTFISEpCeEFHWHVtM3NJWXF5RV9jblFpVTVveXVuYlhkZkVTMFNPNWxhQS05a1VwcUJIUlJNMEpqd3lYalJOVHg1bzAyRnA5V3liNnAzdnczbkh4bkhvYXpObGpTQmdNeDFycDhsMW9INWRQLXJ2T0dJdTd5SENDYVdjNHllRVl6WU9aRkZMWlpOenJpd1hkUFNndFNqYmtzbW9jbw?oc=5",
+      "published": "2026-11-02",
+      "ts": "2026-11-02T12:44:18+00:00",
+      "queries": [
+        "AI data center bond issuance"
+      ]
+    },
+    {
       "title": "The Best AI Stocks to Buy Now - Morningstar",
       "source": "Morningstar",
       "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5MSWticmVUcmhzVVpBMWg0bFpvRGpXR1FIdzhKMmVOdVVETlV0MzVfemFuMzBwX3Q2Ykh4TFRjakstUDZVX2N6NEpsSWxZZU54bTZnQmNMal9Fdkw3ei04N2htZldJYkhl?oc=5",
@@ -823,6 +833,16 @@
       "ts": "2026-10-09T07:00:00+00:00",
       "queries": [
         "Oracle CoreWeave data center debt"
+      ]
+    },
+    {
+      "title": "Donald Trump Stocks: 8 Stocks Owned by the President | Investing - U.S. News - Money",
+      "source": "U.S. News - Money",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1OM0theVZwbDJHb2Y5M2txNkxtajIwaVFMNk55ZlRuWjR0cnVOTEwyRk9CMU9NbnpLSHRtXzc4N1VrR2ZfZkdnTDhEVzVobThVWVZaNURmTExwNGVEMzEtZmkzMS11VTVFWkFPWHBaSlNaemk3T3RzdzNTclk?oc=5",
+      "published": "2026-10-07",
+      "ts": "2026-10-07T07:00:00+00:00",
+      "queries": [
+        "GPU purchase Microsoft Amazon Meta Google Oracle"
       ]
     },
     {
@@ -1186,27 +1206,6 @@
       "ts": "2026-08-13T07:00:00+00:00",
       "queries": [
         "AI data center bond issuance"
-      ]
-    },
-    {
-      "title": "North America Data Center Report Midyear 2026 - JLL",
-      "source": "JLL",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQSTR3MXpqUDdJc1MxNXl1RlQySjhtaHBxUVJyWndQd1l4MmdGa0lkNFJ1YmVyd3JHMC1TYkJnRGEwcFg5b2xKa1c5Um5hbWlmUlZmc0x5cmxYbi11UG1vSDhGdFdWcVVMTk5NMGN3YzdWUWxBUXhKQzc4R2hJVjFtMGlyVQ?oc=5",
-      "published": "2026-08-11",
-      "ts": "2026-08-11T07:00:00+00:00",
-      "queries": [
-        "data center financing billion",
-        "data center construction gigawatt"
-      ]
-    },
-    {
-      "title": "Data center demand exceeds expectations as H1 2026 absorption hits record 25 GW - JLL",
-      "source": "JLL",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPR09mYXRETmo0UlJJMUdva09vdFVmeEQwcG12bmN2Rll4ZnNxOGNYcDllZXJOQW8zSkE5TnBIcEJHbVQ4VjN5RWtVSlJPLUVaU0tVclBLNkZuQ0lHcklaTE1UNlVrcTJMWW5LRXZlMGJJeGUzcHhpeTRtTXg1TTBhdlNUX0k1X3NhVzRUVkpB?oc=5",
-      "published": "2026-08-11",
-      "ts": "2026-08-11T07:00:00+00:00",
-      "queries": [
-        "data center construction gigawatt"
       ]
     }
   ]
