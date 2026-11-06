@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-06 07:44 UTC",
+  "updated_at": "2026-11-06 08:05 UTC",
   "count": 120,
   "items": [
     {
@@ -264,6 +264,16 @@
       ]
     },
     {
+      "title": "Bank of England Questions Lenders About Risky Data Center Loans - Bloomberg.com",
+      "source": "Bloomberg.com",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQMmZZYmk4VTg4RWpMWnRHTXZ2VU9oNHZqa3AwdjdwSVU5YVhQaVM4bkFLT2VnSmZ0OHNlWE5qWlI0WmtnaC1rYVpSUXRULWJ5UUQtcG1GMFoxMzFZa1lUd1ZtWU50RlZ4WTNnOW1BbjZ6OWxhNUotcUpOazZ5QmtrMXdsaXFuWGhCeGVRbmtGTnRJLXV4X2RvdmtSLWNuMG16aUhfbU1EOXpUVmR4VE9SX21kSkw?oc=5",
+      "published": "2026-11-05",
+      "ts": "2026-11-05T10:00:01+00:00",
+      "queries": [
+        "data center financing billion"
+      ]
+    },
+    {
       "title": "Meta Starts Debut Euro Bond Sale After $15 Billion Dollar Deal - Bloomberg.com",
       "source": "Bloomberg.com",
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQcXhwQkR0LUFOSWlobVppZHRBRDdqbWd6QmI1NTIwM25yVHhuUmNBUTVBQ3RiZkRTaXNObW4wVUVGUC1KTWNXZ1V6eFl2aEF2Vy1sTXlDc0JYOEhBd2NiNEtsTk5Yd2phbURMWGUyd2dzZzBVYzNBajBON2J5MUEzWmFWaEZtWkNYLXk4b3NmN3NwcXBTYm9pUmRQd0NQTXRlZUc3cm94bWtaUmpYbzdFT3RB?oc=5",
@@ -308,7 +318,7 @@
       "source": "Yahoo Finance",
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNUXZxNDFGcEV5RGlOdkFvbVRRYmZELVMtODBNR1NXaXdkQVFDZ1dPb0RGSk5YMzFmQWpDdGpQZ1ZjQW52R1JPQ1FpQk9FOWgtWnhwN2kwek1xemxTUlJCemN5MEcyOHFCSy1zbkJ2RHdES2RMcGtzaVNmRVIybHAyS3FWMEV0M2JwclAzckNmVFRlTDhGX3p6Zg?oc=5",
       "published": "2026-11-05",
-      "ts": "2026-11-05T04:08:23+00:00",
+      "ts": "2026-11-05T03:53:00+00:00",
       "queries": [
         "Microsoft OR Amazon OR Google OR Meta data center capex"
       ]
@@ -1194,16 +1204,6 @@
       "queries": [
         "AI data center bond issuance",
         "Oracle CoreWeave data center debt"
-      ]
-    },
-    {
-      "title": "AI’s Absurd Spending Boom? Hyperscalers Are Spending 102% of Cloud Revenue on Capex - Yahoo Finance",
-      "source": "Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQaHJCSHJwUHhwUW5ndFZDYmtXQi1iWXJCMS1NRTZSM2ZQWHFVRTRKbnVhV0dwcnExdl8xTVFhRmxiVEJqcVVOSUJ1OGE3bGtOc2hIS0xhU3Nkdk5MZWV3U3VVTDhVZ3JSTVlYcl9nd1liNzhGSFhoSmtTekFVS3lTUHZQMUQzdWxKM0c5UW5fZGFiLVdNUDlscDZYbU9mMV9VUUE?oc=5",
-      "published": "2026-08-22",
-      "ts": "2026-08-22T07:00:00+00:00",
-      "queries": [
-        "hyperscaler capex data center"
       ]
     }
   ]
