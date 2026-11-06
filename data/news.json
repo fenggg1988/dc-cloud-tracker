@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-06 07:31 UTC",
+  "updated_at": "2026-11-06 07:33 UTC",
   "count": 120,
   "items": [
     {
@@ -645,16 +645,6 @@
       ]
     },
     {
-      "title": "The Best AI Stocks to Buy Now - Morningstar",
-      "source": "Morningstar",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5MSWticmVUcmhzVVpBMWg0bFpvRGpXR1FIdzhKMmVOdVVETlV0MzVfemFuMzBwX3Q2Ykh4TFRjakstUDZVX2N6NEpsSWxZZU54bTZnQmNMal9Fdkw3ei04N2htZldJYkhl?oc=5",
-      "published": "2026-11-02",
-      "ts": "2026-11-02T08:00:00+00:00",
-      "queries": [
-        "GPU purchase Microsoft Amazon Meta Google Oracle"
-      ]
-    },
-    {
       "title": "Nvidia's $5 Trillion Run Isn't Over, Bulls Say, as Hyperscaler Capex Heads Past $1 Trillion - BigGo Finance",
       "source": "BigGo Finance",
       "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFB0dUhnQjRSTFczMVBqT3RzLW1lRGxnZGtZQWtmVE9ZNTJfbW5Vc1dYb0ZnMEVDcHFnbDdqMi1YU2NaYm13X3NRQnhrNExreW5qR1FWRXVTS24zZ0k0ekowT3doMEN5amttVVNxZGtLSWpjYlFsR1E?oc=5",
@@ -815,9 +805,9 @@
       ]
     },
     {
-      "title": "AI credit worries send default insurance to record high - Reuters",
-      "source": "Reuters",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOa21Bbk9kN3JUMWZXLWNLVWFlRkQ1dDFSYnRQQzBRNDVudTYtaDhjcjcyenBQM0prdHlYY2ZxY25fZzdYQk9FYkh1N043NW83amxZbHVvZUxYUXk5YnVtR3NtaXdPMFFNa3Z4UUpYdWlXQzhmbjV2bF96TktQQ3VNOFFhLWMtcUE2NllOMzNsN3I?oc=5",
+      "title": "Cracks emerge in AI borrowing boom as CoreWeave, Oracle and SoftBank debt worries grow - The Business Times",
+      "source": "The Business Times",
+      "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPUzMtUnB6RHNkbDdZcXFHSTQ0WjlybVI0UjItNnVrQWR4R2VJX29NV0JnWnBLXzk1MWlIcjFvajdWMjRMVTl4S2wxVnc5TWR2bnMyQjFCMFozeWw3VXFqRTEwRHJRQlZPZ3duX3BiUUxIWkstY1pkY2VGY1lrdk95dHVuOGNvblFmTXdCZUtzeGVIUk8tV1o0VERwNjhVNXRtLXhpWmdNcGJ3SE5jazRwdk1aaWFBalpLLUpTZzU2aC1CaUtTQ1VwTEVpN0x1eExPSkxtSXZJTEl1V2JoTFlsQl9lZ2RYMGZEc2h1dEJn?oc=5",
       "published": "2026-10-18",
       "ts": "2026-10-18T07:00:00+00:00",
       "queries": [
@@ -825,11 +815,11 @@
       ]
     },
     {
-      "title": "Weak Links Start to Show in A.I. Borrowing - The New York Times",
-      "source": "The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNaG5jQ0JtclR4S2w1dzdJeFNQWmdXLTlwaDJ0SWhseFFKTHdUb2tHaHIzd0R4cEhobmFjV21TRXVDdS1HeUVGZm5RbDRCcGRMYlhCMnB0QkYzV3FrX2hhLXB2X0lnSUI3c2QzQWpTREdxLVRaUjVfOEtHQ2VrMlZrV0c5VHNTNjV0OVE?oc=5",
-      "published": "2026-10-17",
-      "ts": "2026-10-17T07:00:00+00:00",
+      "title": "AI credit worries send default insurance to record high - Reuters",
+      "source": "Reuters",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOa21Bbk9kN3JUMWZXLWNLVWFlRkQ1dDFSYnRQQzBRNDVudTYtaDhjcjcyenBQM0prdHlYY2ZxY25fZzdYQk9FYkh1N043NW83amxZbHVvZUxYUXk5YnVtR3NtaXdPMFFNa3Z4UUpYdWlXQzhmbjV2bF96TktQQ3VNOFFhLWMtcUE2NllOMzNsN3I?oc=5",
+      "published": "2026-10-18",
+      "ts": "2026-10-18T07:00:00+00:00",
       "queries": [
         "Oracle CoreWeave data center debt"
       ]
@@ -1200,6 +1190,16 @@
       "title": "AI’s Absurd Spending Boom? Hyperscalers Are Spending 102% of Cloud Revenue on Capex - Yahoo Finance",
       "source": "Yahoo Finance",
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQaHJCSHJwUHhwUW5ndFZDYmtXQi1iWXJCMS1NRTZSM2ZQWHFVRTRKbnVhV0dwcnExdl8xTVFhRmxiVEJqcVVOSUJ1OGE3bGtOc2hIS0xhU3Nkdk5MZWV3U3VVTDhVZ3JSTVlYcl9nd1liNzhGSFhoSmtTekFVS3lTUHZQMUQzdWxKM0c5UW5fZGFiLVdNUDlscDZYbU9mMV9VUUE?oc=5",
+      "published": "2026-08-22",
+      "ts": "2026-08-22T07:00:00+00:00",
+      "queries": [
+        "hyperscaler capex data center"
+      ]
+    },
+    {
+      "title": "AI's Absurd Spending Boom? Hyperscalers Are Spending 102% of Cloud Revenue on Capex - 24/7 Wall St.",
+      "source": "24/7 Wall St.",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOYzNEZWx5U0l4Y1pCTm10eUJLWnpZWVVvMzNfaF96TVhMYTBBbTFWbzBlOC1oWGtSSDhqMnNrOUpLbDRKclhjQkRwblBfNWNuRmpoS1dOR3pEdXY4SGpfcjZMSTMtUkFBbWxTWXN2ZzNlRi1sYkNNSWVJdHVCdlkwMTJ1ejFSMzJXem1QNERtb05zYmktYml1S1hhMXZfMXhTZUhrQkdmd2c5dWwza0M3cnl1NkxGeXpXVWd5OEs1X1R5Zw?oc=5",
       "published": "2026-08-22",
       "ts": "2026-08-22T07:00:00+00:00",
       "queries": [
