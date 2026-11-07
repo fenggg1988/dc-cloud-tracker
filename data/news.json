@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-07 06:46 UTC",
+  "updated_at": "2026-11-07 06:53 UTC",
   "count": 120,
   "items": [
     {
@@ -201,16 +201,6 @@
       "ts": "2026-11-06T10:35:00+00:00",
       "queries": [
         "data center construction gigawatt"
-      ]
-    },
-    {
-      "title": "Thai AI data center secures US$590 million loan - ET Datacenters",
-      "source": "ET Datacenters",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOSzBnaXZrMDkzS0JCZ3ZlMlFnZ1ZrdmZTbHNwWXhHOW9YMG5pS0lVMjhNWXljUnIxMUdpRGI3RmJUUTZjSk5Xd0ROV1hDNHRjWUJCVDN5MnI4MzhRcVo0bmZqZnZaU2o5eWM3SDZlb211UGVzRWpXRU5KUlQ2U1Bqdm5LeHhZTXAxMTVJNG50NmtjeGNWcXYyMFdYa1VWbkVJRFY2LTlQb3YyYTc3b3RjcGJMYnNqQWs3TGNfbFN1MU5YS2VRT2Zr0gHLAUFVX3lxTE1BdkdiSDdaSFRaXzljdkV6bXI5a0RvQk9XdHN1SEZTSFlwbXNnT1NwcnBvOVBIdTFVTm1rZ3BEUTlrY2haZk5rUmp3amh5dE5semRscmtqbTVDdUo0X2MzTU9penlYamtuek1SdG1sTGl0MzlJUFdJaHNnMDB2VURRWmZKQnl1YWRUaGxlVUc2YzVidEJjMndEMGZ4ZThOT0FxNzBLeDc2U21mS2VRQnEwY3hfYUtfQVRKY2gxUXlrU3drVGZUR01LZmJN?oc=5",
-      "published": "2026-11-06",
-      "ts": "2026-11-06T09:50:28+00:00",
-      "queries": [
-        "data center financing billion"
       ]
     },
     {
@@ -1204,6 +1194,16 @@
       "queries": [
         "AI data center bond issuance",
         "Oracle CoreWeave data center debt"
+      ]
+    },
+    {
+      "title": "AI’s Absurd Spending Boom? Hyperscalers Are Spending 102% of Cloud Revenue on Capex - Yahoo Finance",
+      "source": "Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQaHJCSHJwUHhwUW5ndFZDYmtXQi1iWXJCMS1NRTZSM2ZQWHFVRTRKbnVhV0dwcnExdl8xTVFhRmxiVEJqcVVOSUJ1OGE3bGtOc2hIS0xhU3Nkdk5MZWV3U3VVTDhVZ3JSTVlYcl9nd1liNzhGSFhoSmtTekFVS3lTUHZQMUQzdWxKM0c5UW5fZGFiLVdNUDlscDZYbU9mMV9VUUE?oc=5",
+      "published": "2026-08-22",
+      "ts": "2026-08-22T07:00:00+00:00",
+      "queries": [
+        "hyperscaler capex data center"
       ]
     }
   ]
