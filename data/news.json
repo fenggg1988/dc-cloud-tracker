@@ -1,7 +1,17 @@
 {
-  "updated_at": "2026-11-07 06:53 UTC",
+  "updated_at": "2026-11-07 07:25 UTC",
   "count": 120,
   "items": [
+    {
+      "title": "Microsoft cuts neocloud reliance, prioritizes own data centers - scanx.trade",
+      "source": "scanx.trade",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQMmxTYkhXZHM0QWRfSGdSblZvenJWejlhbjdYblVJR0tnX2hZdGMxcy1qNnB4bjdUbzk2eHpqc19oWE1DRjI5WWZXa0k5WjlhWnY5dGZDN3h4UDEyakRLY1h2ZzltNmZUNHUtLVNyVWJsajBoQjZiMUVDaEJyZ0JwWHl3bFRwUTE5T1hYY2ZGZ1BJNnNDNlhpYzFMSGJkUXZoMGtVc29mTGcxem1rTHQxQ2ZMcGZSZ0VDY2ktd0hn?oc=5",
+      "published": "2026-11-07",
+      "ts": "2026-11-07T06:46:05+00:00",
+      "queries": [
+        "Microsoft OR Amazon OR Google OR Meta data center capex"
+      ]
+    },
     {
       "title": "The AI ‘credit card’ is getting costlier as CoreWeave bond yield tops 16% - Rich Picks Daily",
       "source": "Rich Picks Daily",
@@ -93,6 +103,16 @@
       ]
     },
     {
+      "title": "IREN’s $20 Billion Backlog Masks the Financial Risks of Its AI Data Center Boom - Investing.com",
+      "source": "Investing.com",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQLVlxMHZvaWcxV2NkQWxLcjR3dmlDdjM2Q05zb2V3a3d6NXp3UmVkcldLTEJuTkxOVVBoTzlrMmphZFNfOWlsWkVlaVJabzZrT1VZY3BjMVR0VFRyemhvYlVTeElBVzA3UjRWcDlWckFTOFE3TUF2S1pvZzRiOHljSlhVVkV6VjRiaEJJN1dGaG53UHZIVkV2QzJpTmxTbXVWa0szZmVVelBVNFZmNHFKdlREbEZsMlNfNGtuRlNuYw?oc=5",
+      "published": "2026-11-06",
+      "ts": "2026-11-06T19:06:54+00:00",
+      "queries": [
+        "data center financing billion"
+      ]
+    },
+    {
       "title": "Bitcoin miner IREN’s AI revenue milestone slips into 2027 as expansion seeks $6 billion - CryptoSlate",
       "source": "CryptoSlate",
       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPRk1lTzJMVFBEVWFDUVFkekVkYmZ1czdoRnR0YldUMHZmd0QwNW1QSjFxVkpKcXIxcXd4bDBjQ1hBbUpoNWd6Mk0xeDZqVi1fcDgtTUJIM2dZUzBCa0RocW1fbWhodEEyZ1VlR2xxZHhZT2ZNRjhvZFBHY0JZNVg3MDctdVVPaTdsRG9VWUdMNnBoeGx2eXk0cTJzVTgxWUFDMUFzV09ZUmVfaFhqVE5N?oc=5",
@@ -128,16 +148,6 @@
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNXzBOaXBVRVgyQnZ4dEJKNnY0bGd0MmZEajFwRm5ad3VkUTlia2tXSDg0TWROMndjbmxsWEFHSTlnbGhRWXBIbFNQWTBhYWJqQ053V1AxeU9jcXRNV1JQbXdNRW5CeWowN2J3aXFBZEZvd0xySTZwbE1pZGRqV25zY09MSloteGVCNkdUS1B1OGFNMUR2ZUsyOXd4TDVnR3NUdG5qMGxLdkhJWl85cWpYbzlNMA?oc=5",
       "published": "2026-11-06",
       "ts": "2026-11-06T16:09:55+00:00",
-      "queries": [
-        "data center financing billion"
-      ]
-    },
-    {
-      "title": "Alphabet Invests $548M in Qualcomm to Boost Data Center Expansion - Global Banking & Finance Review",
-      "source": "Global Banking & Finance Review",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNZTk2aXdNem04SFpiLUFFa2lqRmlHUk5EcVhJMWtIbVdaNVBrSXZrTmxJd0UxUVhDVVItc19WYlkxcDdqLXNTcnlGLVU0NW1ScXM5YnVwbTJFaFgxMVhGT0pIdDFZZkF0YlI0UGgyQmtORHBPQmo3elI5dnlRM0plUEN0el8yN0pTWTFiQVk5cGYxN3NkbTVV?oc=5",
-      "published": "2026-11-06",
-      "ts": "2026-11-06T13:22:57+00:00",
       "queries": [
         "data center financing billion"
       ]
@@ -245,11 +255,11 @@
       ]
     },
     {
-      "title": "ING puts $500 million of data-center loans up for sale, Bloomberg News reports - The Standard (HK)",
-      "source": "The Standard (HK)",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNelVhSWNEWXBBMzVlMHREWW92WlcxN2FTLXpRQ3pvSUJlTmM5Ymt5elpfeTNHMXpkRmZSZm5zTk9hNWNObmJzaWdDdDdLdUpYQnNGTkFrUmtPTlV6RFYzZVN0X0xwZHlLektiSmNQR1phUWtXQWIxNWRFbU1kUVB6QTE5YXBvWkV5Nk5Ld25iSG1fMmRuOUFTdEx0V2xtRENMYVg3bnNMQjQxU0U4LUZmcXhCenFfMDF4QzB1NUZmN1YwRS05b01fTjd3?oc=5",
+      "title": "ING puts $500 million of data-center loans up for sale, Bloomberg News reports - Reuters",
+      "source": "Reuters",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOdW45UENNN0lBd0ZnWEU4MzdlZjlvY1JaMWYyeWhsQjZQQVBqcGFfSnhWN2ItcU9BOEI1RzBWRnVfZHplbWlaU3F5VlB4LTIyUFBDcFBQQkFOaE8yUHFtNWZiYVdWbElNWWRLM1JDdm1uNHZhOTFwZHhuSWMwUzZDUXlCUUNmdE03MUFVR293dlhlR1NrYU1LQnVLekFJQUx3c0dLeVRTdjYyV2dtM1ZHSms4Z2ZISXMzTGwwNVhERQ?oc=5",
       "published": "2026-11-06",
-      "ts": "2026-11-06T06:49:56+00:00",
+      "ts": "2026-11-06T06:05:50+00:00",
       "queries": [
         "data center financing billion"
       ]
@@ -282,16 +292,6 @@
       "ts": "2026-11-06T03:49:15+00:00",
       "queries": [
         "AI infrastructure funding gap"
-      ]
-    },
-    {
-      "title": "ING puts $500 million of data-center loans up for sale, Bloomberg News reports - Reuters",
-      "source": "Reuters",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOdW45UENNN0lBd0ZnWEU4MzdlZjlvY1JaMWYyeWhsQjZQQVBqcGFfSnhWN2ItcU9BOEI1RzBWRnVfZHplbWlaU3F5VlB4LTIyUFBDcFBQQkFOaE8yUHFtNWZiYVdWbElNWWRLM1JDdm1uNHZhOTFwZHhuSWMwUzZDUXlCUUNmdE03MUFVR293dlhlR1NrYU1LQnVLekFJQUx3c0dLeVRTdjYyV2dtM1ZHSms4Z2ZISXMzTGwwNVhERQ?oc=5",
-      "published": "2026-11-06",
-      "ts": "2026-11-06T03:41:00+00:00",
-      "queries": [
-        "data center financing billion"
       ]
     },
     {
@@ -362,6 +362,16 @@
       "ts": "2026-11-05T11:30:00+00:00",
       "queries": [
         "data center construction gigawatt"
+      ]
+    },
+    {
+      "title": "Pure DC secures $1.9 billion financing for data center build-out - BeBeez International",
+      "source": "BeBeez International",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQWll2XzJXdzYwT3I2R0k2NEFNX3E3ZHY5Nm13eUhaWU9LS0w3SXhZNUZzN1k3Vm5iSGtERy14RDVHNUJNRWprSXJNU3Y0bVNpUEUzcGoxOTZ0dmZoS08zWG5vRXNHZTUxc1NsTWktOGxVckRWSkZBaFNwNHBfbGNpU0plSWh5OXlyc1ptZk16b1k4NUxjMTBsYg?oc=5",
+      "published": "2026-11-05",
+      "ts": "2026-11-05T11:08:23+00:00",
+      "queries": [
+        "data center financing billion"
       ]
     },
     {
@@ -1194,16 +1204,6 @@
       "queries": [
         "AI data center bond issuance",
         "Oracle CoreWeave data center debt"
-      ]
-    },
-    {
-      "title": "AI’s Absurd Spending Boom? Hyperscalers Are Spending 102% of Cloud Revenue on Capex - Yahoo Finance",
-      "source": "Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQaHJCSHJwUHhwUW5ndFZDYmtXQi1iWXJCMS1NRTZSM2ZQWHFVRTRKbnVhV0dwcnExdl8xTVFhRmxiVEJqcVVOSUJ1OGE3bGtOc2hIS0xhU3Nkdk5MZWV3U3VVTDhVZ3JSTVlYcl9nd1liNzhGSFhoSmtTekFVS3lTUHZQMUQzdWxKM0c5UW5fZGFiLVdNUDlscDZYbU9mMV9VUUE?oc=5",
-      "published": "2026-08-22",
-      "ts": "2026-08-22T07:00:00+00:00",
-      "queries": [
-        "hyperscaler capex data center"
       ]
     }
   ]
