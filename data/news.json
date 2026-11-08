@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-08 06:59 UTC",
+  "updated_at": "2026-11-08 07:35 UTC",
   "count": 120,
   "items": [
     {
@@ -70,16 +70,6 @@
       "ts": "2026-11-07T08:25:00+00:00",
       "queries": [
         "AI infrastructure funding gap"
-      ]
-    },
-    {
-      "title": "Microsoft cuts neocloud reliance, prioritizes own data centers - scanx.trade",
-      "source": "scanx.trade",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQMmxTYkhXZHM0QWRfSGdSblZvenJWejlhbjdYblVJR0tnX2hZdGMxcy1qNnB4bjdUbzk2eHpqc19oWE1DRjI5WWZXa0k5WjlhWnY5dGZDN3h4UDEyakRLY1h2ZzltNmZUNHUtLVNyVWJsajBoQjZiMUVDaEJyZ0JwWHl3bFRwUTE5T1hYY2ZGZ1BJNnNDNlhpYzFMSGJkUXZoMGtVc29mTGcxem1rTHQxQ2ZMcGZSZ0VDY2ktd0hn?oc=5",
-      "published": "2026-11-07",
-      "ts": "2026-11-07T06:46:05+00:00",
-      "queries": [
-        "Microsoft OR Amazon OR Google OR Meta data center capex"
       ]
     },
     {
@@ -195,7 +185,7 @@
     {
       "title": "The AI ‘credit card’ is getting costlier as CoreWeave bond yield tops 16% - CNBC",
       "source": "CNBC",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQZmJ2R19jOTVNbkRoM3U5RWlNUXVuZzdFaWFwR1FEUFBsaTlxZmF4dkdFYjZ1aV9UNzJ3WE54MTFlNnpiR0pXbUZ6ZnYtVG1UdmVSUVNEd1dpbU9zVHdqVlBtOWdZN0pTUjhXdEpya1ZyY2FvTkd6VWZlczhEWVM4R2VONkRGWTdfNmVzV0otYTNIMUVCRXdxemk4QmNjVjg?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQZmJ2R19jOTVNbkRoM3U5RWlNUXVuZzdFaWFwR1FEUFBsaTlxZmF4dkdFYjZ1aV9UNzJ3WE54MTFlNnpiR0pXbUZ6ZnYtVG1UdmVSUVNEd1dpbU9zVHdqVlBtOWdZN0pTUjhXdEpya1ZyY2FvTkd6VWZlczhEWVM4R2VONkRGWTdfNmVzV0otYTNIMUVCRXdxemk4QmNjVjjSAaQBQVVfeXFMTjR1MnllbFk3RW1NZ0N4b3ZZR09VV0lrTmpuOTdKclVwMlpsbThLXzRPQy1EUHdBX1NZclJrQ25IWmI5V2RUbDg3SHozeUJmbUZXSXdSWnVlbTZZeGNmemNnY3BsZWJ5c1U0bE00MTJ1U292Qnp1Z1M5S1RjUEpWNDFEZnpNMzN2RG9EMXVOeGRYNk0wa0JmVl9Od2dxUjhkcmF0ZGE?oc=5",
       "published": "2026-11-06",
       "ts": "2026-11-06T17:02:24+00:00",
       "queries": [
@@ -344,6 +334,16 @@
       ]
     },
     {
+      "title": "U.S. Data Center Tracker: Power, Facilities & Growth (2026) - Electric Choice",
+      "source": "Electric Choice",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9acDEzM3A0SWNlUWl6NjN3UXUyZkxpRE9hZ3BtNVJkMUZ2M2dyVWkyQ0RESC1OLWZHY2oxYzlXMW1vSHdXUjNHWjZIMmNLRjhtU2d4dk53?oc=5",
+      "published": "2026-11-06",
+      "ts": "2026-11-06T05:14:48+00:00",
+      "queries": [
+        "data center construction gigawatt"
+      ]
+    },
+    {
       "title": "Applied Digital (APLD) Stock Dropped, What Is Driving Attention Today? - Simply Wall St",
       "source": "Simply Wall St",
       "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNV2kyb3VrU2NzVG9NaXZ6R3BZZTdEc3V3akM5ZWUzekRFOGlUZWctOW1jRGV4eG02OHJXOXpJeno3cF9qVmFVeENjcEpaclF6UV8xaWJLZVBaazZpbVQxZEU5NVBJeTBJUUh3ZS14RndIbUlJc0NOSGllMzZqaHhmR0pTcS1RTDN5S0lvTl9GNE1jUnpldXo2MWRZZE5NU0htV2VkUGNaTW5VX25GeW9hSDFHOUYyWFBZQ0dtUWdSN2N0cjl5azd5WmZHTC1KSGvSAdQBQVVfeXFMTTJ2Qk5RdS00TTNGb1VDWUxZanp3TkZHMHVHNXV3TEUxbHUzbWZTRzBGRXA4d3hUamRHZ1U1UGZGQkw3WFFaSDdZSTFRczBCR2Zmbkg1WEQtRGRhSnBHZnVQWFdIQkZLakkxLS03ZDlXaFZjWmJwVGlMRlFVVkExSFotTklHeFotVjdYV2Ewbmx1N1hIV0Y0ZHdOMW1pODRIcVJzUG1TV2pDY1Eta0N1Rkxic2lQZmgyNTQ2SnI5U1dsMVNPSzV0WFRPZzBtUzdLNS03XzE?oc=5",
@@ -471,16 +471,6 @@
       "ts": "2026-11-05T10:30:55+00:00",
       "queries": [
         "AI infrastructure funding gap"
-      ]
-    },
-    {
-      "title": "APAC operator PDG secures $1.3 billion for Malaysia build-out - Data Center Dynamics",
-      "source": "Data Center Dynamics",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNd2ZvdV93MnNKOWQwaWg4UTFkUzA1RjZRRVZtOUZhOS1DS3psNU5LNXAxbThuYk9Ubl91RTg3ajVQTWZnRVN1YjZZVG5waXhULTlCTkNCNmpUd3JlTWZzODE4dU5hd2VzdENwUDhmdzFibzdmQWMxTHI2WnZ1Q2ZsaUgtRDVGZFVNVmhwUS0xTkpPZ0tIVkFoTElsUFhVY2djYTBBMXNB?oc=5",
-      "published": "2026-11-05",
-      "ts": "2026-11-05T10:13:06+00:00",
-      "queries": [
-        "data center financing billion"
       ]
     },
     {
@@ -664,6 +654,16 @@
       ]
     },
     {
+      "title": "Nvidia Stock Price Forecast — NVDA ($206.86) Holds 200-Day Line at 13x FY2028 Earnings Into Nov. 17 Report — $221.75 Target - TradingNEWS",
+      "source": "TradingNEWS",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNWWhUSVU1S20xT3d4eVRzdko5YzR3ekNKUlI1czNxY2V2WE8yX3FtaDQwOWNWeDN1UTduTUt5NnYwS2RRV2FabHRqQVNHTkdzNVpLLUNQV2c4aHRzU3ROckNnZ3JkUmtBc0ZiRkN2RnN6dTQ4UkxtQlQwUmN4bVM2dWUyeThNOVRHSzM3VUJEVjM3alpRV2MtenZUOFc0WGVzTi1sV2xGaU9aUTdHb19pOURrSTg?oc=5",
+      "published": "2026-11-02",
+      "ts": "2026-11-02T18:04:56+00:00",
+      "queries": [
+        "hyperscaler capex data center"
+      ]
+    },
+    {
       "title": "Oracle Declines 4% as $10 Billion Bond Sale Revives AI Debt Worries; CoreWeave Advances 2%, Microsoft Holds Steady - 24/7 Wall St.",
       "source": "24/7 Wall St.",
       "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPNF80VWlicUpTdDRRTkhfREt2R1NUNTdGQTVIdFpBUklHckhEY3BVXzRmb1lDZFQwcno1SkJJbERwYlR6ZnktOHRqaElCMWE4WnNOQmgzODllUW9uc0JBdnE5MGtYLXFlNFdud2wtNEVrN3hwV3dTQ2szMDJIeHUzSWQ0d0pJVGZ0dzUwLWpIWk9oRkJEd1doZUNHdWlzUGw5Q0xBZFI2M2x2blExckc2RGY3TlpXa19Xb2dreTJCVm5fVGZrbUV6c3FUa1NnbjgyWHF6Mzd6YlA5c1h4S2dtSDFKOU1pV0x5?oc=5",
@@ -794,6 +794,16 @@
       ]
     },
     {
+      "title": "CoreWeave Jumps 6% on Goldman Sachs Upgrade; Nebius Rises 7%, Oracle Edges Higher - 24/7 Wall St.",
+      "source": "24/7 Wall St.",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNcnZiYWJTajViOHoxT1Bkb3lnSnROZFR2VTdnNG1PRkZoa0ZQUWZxTWc1azNMYlB2UldrRHd4eHRYYnlTc1gxS2s3ZnQ5bUg5end6bXB1bHB6NnEyekVoS3NFa25lam5UTXB2dUJpUjQtNGhfYXVpV04xZW9TSUFTYUgwZ0owZ2dONVl0NHlqMzdCcHRKV0pPeVdNb1RjelVwZzhqTWFYemN6TllkYTBBeUY0bl9BS3g5Z28zM3Nn?oc=5",
+      "published": "2026-10-19",
+      "ts": "2026-10-19T07:00:00+00:00",
+      "queries": [
+        "Oracle CoreWeave data center debt"
+      ]
+    },
+    {
       "title": "CoreWeave, Oracle have an interest rate problem - TheStreet",
       "source": "TheStreet",
       "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQTjJhSE02TTk1elJzVnJzbmIzMG93aW5wN3RGV2otUmQ4WS1PUWRxcVB5aG5rRWVUMVVILWZpcnlnTWNDc3U0N0hwS2FNQ3plcU5vZld4TE01US1zM0FvS001M3VZcl9aaThtODd5WjQtUHYwN0dqbVZZaXN1Y25mSldTSlR6ODZhRmNNVUdVSTFiOVk?oc=5",
@@ -872,16 +882,6 @@
       "ts": "2026-10-15T07:00:00+00:00",
       "queries": [
         "Microsoft OR Amazon OR Google OR Meta data center capex"
-      ]
-    },
-    {
-      "title": "How Much CoreWeave and Nebius Owe, and When It Comes Due - Stock Titan",
-      "source": "Stock Titan",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPV25hRmRSNTQzZ2hsZC1DX00xYlBuZXBoODcyOHdsNWYyV0M4clJMZWFZRkZzblJSbjBzWjdua2dlZ2hrVlJhakxOWGtYV3hqNmJKcmZ1eU8xWG1XSk4za2loRUE5ODFsY1FNMTNFanNxd3QxUzZGSk9mMmlfT0h2TGJjb1FKeWJ0dFVYVQ?oc=5",
-      "published": "2026-10-15",
-      "ts": "2026-10-15T07:00:00+00:00",
-      "queries": [
-        "Oracle CoreWeave data center debt"
       ]
     },
     {
