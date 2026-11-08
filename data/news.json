@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-08 07:35 UTC",
+  "updated_at": "2026-11-08 08:31 UTC",
   "count": 120,
   "items": [
     {
@@ -160,6 +160,16 @@
       "ts": "2026-11-06T19:06:54+00:00",
       "queries": [
         "data center financing billion"
+      ]
+    },
+    {
+      "title": "ING Is Reportedly Selling $500 Million In Data Center Loans. OpenAI's Stargate Project Is Among Them. - inkl",
+      "source": "inkl",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQRkhLWklUSGdiYmdtcFJiSGZNbHFmeVlndHhQcVlpWV8yV09YcjFvajJIRDc0ME41cXo2TmlZWTNZczdVTnh0cEtTSWVzXzZ4UmpVVnd4UEpwNjVFdkt3ZnotS3dKdk9DcHdRSUFHTGN3OVNCc1lSUlRVVkRfYmpLSkI2VDBwU1o2ZVZJeXZ3bnpsMW5SNWpsTlV3dER2bC1RQUd6Q0R0bkZWUXhhMzJxU3FScWRrMVZoYzY1QmZLSzI?oc=5",
+      "published": "2026-11-06",
+      "ts": "2026-11-06T18:51:34+00:00",
+      "queries": [
+        "AI data center bond issuance"
       ]
     },
     {
@@ -331,16 +341,6 @@
       "ts": "2026-11-06T06:49:56+00:00",
       "queries": [
         "data center financing billion"
-      ]
-    },
-    {
-      "title": "U.S. Data Center Tracker: Power, Facilities & Growth (2026) - Electric Choice",
-      "source": "Electric Choice",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9acDEzM3A0SWNlUWl6NjN3UXUyZkxpRE9hZ3BtNVJkMUZ2M2dyVWkyQ0RESC1OLWZHY2oxYzlXMW1vSHdXUjNHWjZIMmNLRjhtU2d4dk53?oc=5",
-      "published": "2026-11-06",
-      "ts": "2026-11-06T05:14:48+00:00",
-      "queries": [
-        "data center construction gigawatt"
       ]
     },
     {
@@ -885,6 +885,16 @@
       ]
     },
     {
+      "title": "How Much CoreWeave and Nebius Owe, and When It Comes Due - Stock Titan",
+      "source": "Stock Titan",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPV25hRmRSNTQzZ2hsZC1DX00xYlBuZXBoODcyOHdsNWYyV0M4clJMZWFZRkZzblJSbjBzWjdua2dlZ2hrVlJhakxOWGtYV3hqNmJKcmZ1eU8xWG1XSk4za2loRUE5ODFsY1FNMTNFanNxd3QxUzZGSk9mMmlfT0h2TGJjb1FKeWJ0dFVYVQ?oc=5",
+      "published": "2026-10-15",
+      "ts": "2026-10-15T07:00:00+00:00",
+      "queries": [
+        "Oracle CoreWeave data center debt"
+      ]
+    },
+    {
       "title": "AI Credit Default Insurance Costs Surge as Investors Assess Data Centre Debt Risks - Yahoo Finance",
       "source": "Yahoo Finance",
       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOYTY4czZFUndNUzNqbF9aVUY3a2F2NlBsQ2FIeGdjSk9oNmZqdlRwU09RalRZN1BxTW1HSVVPYTdsdld4dEdWclgtTmdBVnBLempiNHRFQlJYS3Rnamc2dFpfNmFJd3pHVTNTUm9RazI4U0M4MUROU095Tks3V2FVXy16Smdja3FXUTBxR2dQT1JhR3NGb2w4NGJnV180R0E?oc=5",
@@ -1193,16 +1203,6 @@
       "ts": "2026-08-22T07:00:00+00:00",
       "queries": [
         "GPU purchase Microsoft Amazon Meta Google Oracle"
-      ]
-    },
-    {
-      "title": "US corporate AI debt surge tests investor limits as fatigue emerges - Reuters",
-      "source": "Reuters",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNR0I5VXZyeVp4RlV6cnhVdXFwZ2RNZUU0Q1czQ2c0WkpZUUJuRV9PNEg0VHkzLVlnSUdZMWVOalJzNkNXdlNtamlGSzRLbVRXb0VkVzl3dm5Uc3hPV21Cb3BIdTNyOWZQSDRGQ1ZvV2xUVUZ6eExfeGpRM0hQck8wSDlzR3ViRDJHS25NaGxwNHdVYWN5cHRUcWJvb0hybjRtclNxMFFGT18tMmc2SEw5RFNYb3ZrSWZpS0VYTw?oc=5",
-      "published": "2026-08-21",
-      "ts": "2026-08-21T07:00:00+00:00",
-      "queries": [
-        "AI data center bond issuance"
       ]
     }
   ]
