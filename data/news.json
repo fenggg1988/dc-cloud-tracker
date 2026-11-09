@@ -1,23 +1,23 @@
 {
-  "updated_at": "2026-11-09 07:43 UTC",
+  "updated_at": "2026-11-09 08:12 UTC",
   "count": 120,
   "items": [
+    {
+      "title": "Banks offload AI data center loans to mitigate risks - 조선일보",
+      "source": "조선일보",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNM3JPc0Jhbkh6eDE4WFdaZ3J2RlV3Q3pQYkZyVXlseWlkV1k5Sks0WURIREN2QzlpSFd4M1NIZy1HQ0ZzNE1BLUxMYWlGMmw1cVZ6RWJTeUtRM21QeGZVVkV4dUhpY1h2aTcxN2tyM1g4VGpEdklYUE5WSnFfd096YU1UQTZBelhN?oc=5",
+      "published": "2026-11-09",
+      "ts": "2026-11-09T06:22:01+00:00",
+      "queries": [
+        "AI data center bond issuance"
+      ]
+    },
     {
       "title": "Microsoft (MSFT) Stock May Be 33% Undervalued Following $25 Billion AI Bond Raise - Simply Wall St",
       "source": "Simply Wall St",
       "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQOGEwcGgybldTbnNVZ1RsSWdzYV9mQUotWXY3Uk9BelFWNm4tMG5mc2IySFRKNzJybHIyaDNqVms0aFBSWV9sSFNQdkxBQTlOY1pYYzN5Nkw2S25wU044UGtvVjAtZUlObGtDOUNhVjNuTjlXVVBJQWYyT0xJVkpCdjdyc2dKc2FienVCSUJuS19KRXRWd21DS21rTE9adnROWU5PRmY0MXVhZ0ktZEJBTjRUbm9yZGh2bW1vTHRxbjZuV0luTWJj0gHMAUFVX3lxTE9ENkxxeWFQZG1qc2xkRTdvRnZ4ek1IS2pCZG9BYTFSSzZlckJzcjFsdE45TVNrWllNX25jU1dMdWdRVEgzMjE2a1BvdGRjbU5JUTltYVpLQWF2b00wTmQ0Zlp0OEFMalNERElPdThEdjdsTUZUYUN5clZxRTFTTF9Mb0lhYzQ0b1VMdlhMdEE4R1pYbHZYbXhqVTAzU0M4SnJTU2FBeDJOUFFPU28wMXl0eGhONGdYelAtcUtBdmZIcmVaUThYRFEzNDJhQg?oc=5",
       "published": "2026-11-09",
       "ts": "2026-11-09T04:52:28+00:00",
-      "queries": [
-        "AI data center bond issuance"
-      ]
-    },
-    {
-      "title": "ING Offloads AI Data Center Loans Amid Risks - 조선일보",
-      "source": "조선일보",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNM3JPc0Jhbkh6eDE4WFdaZ3J2RlV3Q3pQYkZyVXlseWlkV1k5Sks0WURIREN2QzlpSFd4M1NIZy1HQ0ZzNE1BLUxMYWlGMmw1cVZ6RWJTeUtRM21QeGZVVkV4dUhpY1h2aTcxN2tyM1g4VGpEdklYUE5WSnFfd096YU1UQTZBelhN?oc=5",
-      "published": "2026-11-09",
-      "ts": "2026-11-09T04:42:06+00:00",
       "queries": [
         "AI data center bond issuance"
       ]
@@ -274,6 +274,16 @@
       ]
     },
     {
+      "title": "Popular Bitcoin miner seeks $6 billion for AI expansion - TheStreet",
+      "source": "TheStreet",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQTGJYZi0zeWJkdk9LZFlzX0dRVWFRMFpJcTVvMTJXY3paeEZfdGFVX1NhNUdQaVBweFJaX0RPSWlmUks0UzdDUmVsZTFNaTdvWl9jQ0FST1BUMGJVNGVJaVRCU2NFdDBPWGFlQmdZclpoUDZETmREeHAxSW9PNXFhMGVqVWtJSlZITENqWTBYdTVKa3Y2MmQ1Z0hPVQ?oc=5",
+      "published": "2026-11-06",
+      "ts": "2026-11-06T19:20:03+00:00",
+      "queries": [
+        "data center financing billion"
+      ]
+    },
+    {
       "title": "IREN’s $20 Billion Backlog Masks the Financial Risks of Its AI Data Center Boom - Investing.com",
       "source": "Investing.com",
       "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQLVlxMHZvaWcxV2NkQWxLcjR3dmlDdjM2Q05zb2V3a3d6NXp3UmVkcldLTEJuTkxOVVBoTzlrMmphZFNfOWlsWkVlaVJabzZrT1VZY3BjMVR0VFRyemhvYlVTeElBVzA3UjRWcDlWckFTOFE3TUF2S1pvZzRiOHljSlhVVkV6VjRiaEJJN1dGaG53UHZIVkV2QzJpTmxTbXVWa0szZmVVelBVNFZmNHFKdlREbEZsMlNfNGtuRlNuYw?oc=5",
@@ -326,7 +336,7 @@
     {
       "title": "The AI ‘credit card’ is getting costlier as CoreWeave bond yield tops 16% - CNBC",
       "source": "CNBC",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQZmJ2R19jOTVNbkRoM3U5RWlNUXVuZzdFaWFwR1FEUFBsaTlxZmF4dkdFYjZ1aV9UNzJ3WE54MTFlNnpiR0pXbUZ6ZnYtVG1UdmVSUVNEd1dpbU9zVHdqVlBtOWdZN0pTUjhXdEpya1ZyY2FvTkd6VWZlczhEWVM4R2VONkRGWTdfNmVzV0otYTNIMUVCRXdxemk4QmNjVjjSAaQBQVVfeXFMTjR1MnllbFk3RW1NZ0N4b3ZZR09VV0lrTmpuOTdKclVwMlpsbThLXzRPQy1EUHdBX1NZclJrQ25IWmI5V2RUbDg3SHozeUJmbUZXSXdSWnVlbTZZeGNmemNnY3BsZWJ5c1U0bE00MTJ1U292Qnp1Z1M5S1RjUEpWNDFEZnpNMzN2RG9EMXVOeGRYNk0wa0JmVl9Od2dxUjhkcmF0ZGE?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQZmJ2R19jOTVNbkRoM3U5RWlNUXVuZzdFaWFwR1FEUFBsaTlxZmF4dkdFYjZ1aV9UNzJ3WE54MTFlNnpiR0pXbUZ6ZnYtVG1UdmVSUVNEd1dpbU9zVHdqVlBtOWdZN0pTUjhXdEpya1ZyY2FvTkd6VWZlczhEWVM4R2VONkRGWTdfNmVzV0otYTNIMUVCRXdxemk4QmNjVjg?oc=5",
       "published": "2026-11-06",
       "ts": "2026-11-06T17:02:24+00:00",
       "queries": [
@@ -414,8 +424,8 @@
       ]
     },
     {
-      "title": "Mystery Seller Seeks to Dump $500 Million of Data Center Loans - Bloomberg",
-      "source": "Bloomberg",
+      "title": "Mystery Seller Seeks to Dump $500 Million of Data Center Loans - Bloomberg.com",
+      "source": "Bloomberg.com",
       "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPc3l0QXB3MW5hNE1uQUpzcUloU0NuckhSWG9ZWUFDeVdLYVp0MmlVR25Lb0c0bnhlbUdzZ09TYzh2RnkxTnJnZ1d6WkFkWkw3TEMzZUlDaWJsb0xCSXBiMXhDTEZyVkhOVzJpR3prSkk1SEQ1bWcwZXN1RnUzNFlRMFNOVDhGZUNiXzVqRGMwVTVybmRkbUZiVWthVGc4aDNHTXMzMDF4SXJyODdFb0syUWRJWWFVNVEzRHlYd2tVOXQ2SzlVVWE0SA?oc=5",
       "published": "2026-11-06",
       "ts": "2026-11-06T08:59:18+00:00",
@@ -645,8 +655,8 @@
       ]
     },
     {
-      "title": "Adani Group Said to Seek $1.5 Billion for Data Center Financing - Bloomberg.com",
-      "source": "Bloomberg.com",
+      "title": "Adani Group Said to Seek $1.5 Billion for Data Center Financing - Bloomberg",
+      "source": "Bloomberg",
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQUnZhSzFITk9tTW9WQXhYaGtxRDRvemJVMktJOGR4TG1VQkxSZWhicVhyT3p5bHdLeF8tNFV5Tmd5cFMydEtOWUllTHRSb1VraEg4SUl2blpKRlpRY3hVdVdJZEJnODBITEpvYVQ3VDFhMThzZXpYYWRoNnA2aF9DS09sRG5vVk9Ya2JRUXJISkRPUUUwUXRWMkVDVjdCajFGbUVySzFWVEc4UlJZdjUxZkl4cw?oc=5",
       "published": "2026-11-03",
       "ts": "2026-11-03T02:31:00+00:00",
@@ -936,6 +946,16 @@
       ]
     },
     {
+      "title": "Cracks Emerge in AI’s Debt-Fueled Data Center Boom - The Information",
+      "source": "The Information",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQSTN1a082d3FHQjJDTFBvMG1pMHBTa0dXRWlDaHBxa1IyNWpLdlJ6SW5zS2NmcGNCRGgzUHplUXA0aUxkeDFNVWRsdGVhRDRNU2lBbS1MaVVVcTF6SDhGZEo0TkxoWjZLSEVwNWpsc2VzRTBEMFJyTU11NjV3S25tRUhYN2xScDlnRElXcVJCLS1ueVlleDJR?oc=5",
+      "published": "2026-09-30",
+      "ts": "2026-09-30T07:00:00+00:00",
+      "queries": [
+        "AI data center bond issuance"
+      ]
+    },
+    {
       "title": "New Innovation Is Required to Fund AI’s $6 Trillion Buildout - Bain & Company",
       "source": "Bain & Company",
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPWmNJSUUwWlduc2VTOEpYdnhJcDVtN3BjbXpKN3gtMzdYOVVGbkpmVUlPelR6aERSNkhmbHBSdVdEaWxqV3Npd3VyVktsWkI5UERQbEFOc1NZQjZEVmoyVEdBdjNjaDkydW9DSWtyU0lFLUIzUHFXZVhrQVRZRTNIOFQ1YU1CVE42SW5Sb3huaHNUUk0zZ0FBanpYV0pWME9OWTJKNHNldEJPaDZ1SmZEN0RB?oc=5",
@@ -1184,26 +1204,6 @@
       "ts": "2026-08-17T07:00:00+00:00",
       "queries": [
         "AI data center bond issuance"
-      ]
-    },
-    {
-      "title": "Nvidia backing $105 billion in financing for OpenAI data center in Ohio - CNBC",
-      "source": "CNBC",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxONTY0SXEyaEQ3Q1pRaUhyaVdKNzBHWUJNNVdQX3V5SHRSWVdfYmYzTWJpQjhKVHd5OGRmdjFzT25reUNJX21IWFc0Z2FwY0hQcWFSRm16bURnUVVydUVuT2FDYy11TmV0T09nMDJEdVBsbTdvRWN0ckoxQ2p4b3NPRVVSd3TSAYoBQVVfeXFMUGE1ZTROeEprR2lWenlwXy12a09IbkgwRGdzQ1lTSlhzSzRUb2M2LUF1OXVwT1g5NkxMeEFxX2hleklhU0Z0Q0pZVE40eDVNT2xzRGtFQnp0U2luSVQ3bjlGMkpYNlV6UzVSRXBqUXJqV2Q2SHpkdFZIWDdSRUk1R21LbThheEN5c1VB?oc=5",
-      "published": "2026-08-17",
-      "ts": "2026-08-17T07:00:00+00:00",
-      "queries": [
-        "data center financing billion"
-      ]
-    },
-    {
-      "title": "OpenAI joins PORTS-Pike project - OpenAI",
-      "source": "OpenAI",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9lSDRzTDRmOXVNbmJMNmR5UUVvT1ozbmsweTU4aG9Da1RSc29vbHY5M05SblZFODNDeHFCYjJoMkJpUllJQk5oQmw3MU5LbnNqMjh3MkRqelMyQl9zRHBHSi14S1BxTkQ4?oc=5",
-      "published": "2026-08-17",
-      "ts": "2026-08-17T07:00:00+00:00",
-      "queries": [
-        "data center construction gigawatt"
       ]
     }
   ]
