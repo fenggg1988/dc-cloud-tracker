@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-09 08:12 UTC",
+  "updated_at": "2026-11-09 09:01 UTC",
   "count": 120,
   "items": [
     {
@@ -20,16 +20,6 @@
       "ts": "2026-11-09T04:52:28+00:00",
       "queries": [
         "AI data center bond issuance"
-      ]
-    },
-    {
-      "title": "IT firms with lower capital requirements may gain as investors shift focus to AI monetisation: Report - Dailyhunt",
-      "source": "Dailyhunt",
-      "link": "https://news.google.com/rss/articles/CBMilAJBVV95cUxOUkZOTVIwT0xQckd0VHV3bGQ0NDByVnIxT0Z4YVFWbVhBZlZoYWhNUW80Tk9lUEloSzJRWVFWZTBWa3kxZ2VQSUJ1Y1VxSEpQNE5BRXdudm9aQkpLNTMtRjJtVG9XVTFIN3BUNjUwNXFOMFlIR2lvWEI3dGJ0bnpDS0V6UWxQS2dleV92eEgxV2haVjZhT00tY3ZsSXRxMlcwSTRBa0w0bjViQ0VvRHBhNUlZX0p1dnVlOTl3dlJiUWY0anhEMGlELU9YazRSazhPM0x3YWFEQ2VSaXI3eDVTZWJqSVh6Y3IxaEtzSzJaeUkweXF1QUVDOFR2aFdwYmltd1hwSFBKX2JWdU9BSFpTM0FPMUg?oc=5",
-      "published": "2026-11-09",
-      "ts": "2026-11-09T03:35:21+00:00",
-      "queries": [
-        "AI infrastructure funding gap"
       ]
     },
     {
@@ -194,6 +184,16 @@
       ]
     },
     {
+      "title": "Should Capital Raising Risk Require Action From Meta Stock Investors? - Simply Wall St",
+      "source": "Simply Wall St",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPSmlLNjFLWWptdFRqMTBqMUh5bEFSbzFtUW9BWC1aU2NLYU5HbjFiVVRKZm9vWDZ4S3d5cXJvUV9Gb2o2VXRmNmFOZ2xEV3NfR1o0N3N4X014SmVCbmI3dGhRN2l5QURYOUVTSzYzU2NvR0pqQk03QTRCOUV1dTFFVmtvaUpkNTVEajFyQTRwQnNMbjB1SmJCNFJqLXM0TjZuSl96aVVnQmppejd2SG9panRyT1gzalo0YzVhVF9FWWRHUk1FQi0wZl930gHPAUFVX3lxTE8yUnRLb2FMZkRPdnR6RzhPU0duV080V3AzTGY0akZ1V3M2ZXNUbXRCaVdrc3cxUXdRbGxkdkZyTzc0YXZfZnMwS2EwRDY1MTdqalVaYWl4c3djeWNFSnA0MmNSZl8zRzRyRElZNElIUmExaExjeHNjeTRXWFhpS0R1dDQ4ZnUwRk1vU2hhQkFPMWxfazE1UjlMU2x4SzdDU2pqQ01odnVuM01aLVNrbzlpbWpmbXpYYllDanRLNTJmbHlwQnUtNU9qeVN1UjJwQQ?oc=5",
+      "published": "2026-11-07",
+      "ts": "2026-11-07T09:30:21+00:00",
+      "queries": [
+        "Microsoft OR Amazon OR Google OR Meta data center capex"
+      ]
+    },
+    {
       "title": "As the U.S. “Magnificent Seven” face their AI costs, who can still afford it? - 深潮TechFlow",
       "source": "深潮TechFlow",
       "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBRb21obnRLNy1Oa19XZ1JQdEdCcm42ZVZZNHJxSVdJZ2JTN0JJTkM1WkM5cW50Y05CQ2lWR1FMc2ozUGpqNUx2UWFDQXRqcFNsWEFYNi1kZU5Wckh1?oc=5",
@@ -336,7 +336,7 @@
     {
       "title": "The AI ‘credit card’ is getting costlier as CoreWeave bond yield tops 16% - CNBC",
       "source": "CNBC",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQZmJ2R19jOTVNbkRoM3U5RWlNUXVuZzdFaWFwR1FEUFBsaTlxZmF4dkdFYjZ1aV9UNzJ3WE54MTFlNnpiR0pXbUZ6ZnYtVG1UdmVSUVNEd1dpbU9zVHdqVlBtOWdZN0pTUjhXdEpya1ZyY2FvTkd6VWZlczhEWVM4R2VONkRGWTdfNmVzV0otYTNIMUVCRXdxemk4QmNjVjg?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQZmJ2R19jOTVNbkRoM3U5RWlNUXVuZzdFaWFwR1FEUFBsaTlxZmF4dkdFYjZ1aV9UNzJ3WE54MTFlNnpiR0pXbUZ6ZnYtVG1UdmVSUVNEd1dpbU9zVHdqVlBtOWdZN0pTUjhXdEpya1ZyY2FvTkd6VWZlczhEWVM4R2VONkRGWTdfNmVzV0otYTNIMUVCRXdxemk4QmNjVjjSAaQBQVVfeXFMTjR1MnllbFk3RW1NZ0N4b3ZZR09VV0lrTmpuOTdKclVwMlpsbThLXzRPQy1EUHdBX1NZclJrQ25IWmI5V2RUbDg3SHozeUJmbUZXSXdSWnVlbTZZeGNmemNnY3BsZWJ5c1U0bE00MTJ1U292Qnp1Z1M5S1RjUEpWNDFEZnpNMzN2RG9EMXVOeGRYNk0wa0JmVl9Od2dxUjhkcmF0ZGE?oc=5",
       "published": "2026-11-06",
       "ts": "2026-11-06T17:02:24+00:00",
       "queries": [
@@ -452,16 +452,6 @@
       "ts": "2026-11-06T05:14:48+00:00",
       "queries": [
         "data center construction gigawatt"
-      ]
-    },
-    {
-      "title": "Applied Digital (APLD) Stock Dropped, What Is Driving Attention Today? - Simply Wall St",
-      "source": "Simply Wall St",
-      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNV2kyb3VrU2NzVG9NaXZ6R3BZZTdEc3V3akM5ZWUzekRFOGlUZWctOW1jRGV4eG02OHJXOXpJeno3cF9qVmFVeENjcEpaclF6UV8xaWJLZVBaazZpbVQxZEU5NVBJeTBJUUh3ZS14RndIbUlJc0NOSGllMzZqaHhmR0pTcS1RTDN5S0lvTl9GNE1jUnpldXo2MWRZZE5NU0htV2VkUGNaTW5VX25GeW9hSDFHOUYyWFBZQ0dtUWdSN2N0cjl5azd5WmZHTC1KSGvSAdQBQVVfeXFMTTJ2Qk5RdS00TTNGb1VDWUxZanp3TkZHMHVHNXV3TEUxbHUzbWZTRzBGRXA4d3hUamRHZ1U1UGZGQkw3WFFaSDdZSTFRczBCR2Zmbkg1WEQtRGRhSnBHZnVQWFdIQkZLakkxLS03ZDlXaFZjWmJwVGlMRlFVVkExSFotTklHeFotVjdYV2Ewbmx1N1hIV0Y0ZHdOMW1pODRIcVJzUG1TV2pDY1Eta0N1Rkxic2lQZmgyNTQ2SnI5U1dsMVNPSzV0WFRPZzBtUzdLNS03XzE?oc=5",
-      "published": "2026-11-06",
-      "ts": "2026-11-06T03:49:15+00:00",
-      "queries": [
-        "AI infrastructure funding gap"
       ]
     },
     {
@@ -615,16 +605,6 @@
       ]
     },
     {
-      "title": "The Best AI Stocks to Buy Now - Morningstar",
-      "source": "Morningstar",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5MSWticmVUcmhzVVpBMWg0bFpvRGpXR1FIdzhKMmVOdVVETlV0MzVfemFuMzBwX3Q2Ykh4TFRjakstUDZVX2N6NEpsSWxZZU54bTZnQmNMal9Fdkw3ei04N2htZldJYkhl?oc=5",
-      "published": "2026-11-04",
-      "ts": "2026-11-04T08:00:00+00:00",
-      "queries": [
-        "GPU purchase Microsoft Amazon Meta Google Oracle"
-      ]
-    },
-    {
       "title": "Elon Is Doing It Again: SpaceX Will Be The World’s Biggest AI Cloud - SemiAnalysis",
       "source": "SemiAnalysis",
       "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBtdXQ2QllwRG1GMm13OW4yM1ZXVXdVcVkwb2lWSnRfeGExWDBYZzdxc1NKNzFicmFNTDRDLV9JLW5pLUZPZXBlRHZxVFFrUWZWY2VnYVo5dVZ2VjdQNUxTRWJVX3lGQklDMGdrNzFTTEJYTFdUY2NrWWlhUjQ?oc=5",
@@ -655,8 +635,8 @@
       ]
     },
     {
-      "title": "Adani Group Said to Seek $1.5 Billion for Data Center Financing - Bloomberg",
-      "source": "Bloomberg",
+      "title": "Adani Group Said to Seek $1.5 Billion for Data Center Financing - Bloomberg.com",
+      "source": "Bloomberg.com",
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQUnZhSzFITk9tTW9WQXhYaGtxRDRvemJVMktJOGR4TG1VQkxSZWhicVhyT3p5bHdLeF8tNFV5Tmd5cFMydEtOWUllTHRSb1VraEg4SUl2blpKRlpRY3hVdVdJZEJnODBITEpvYVQ3VDFhMThzZXpYYWRoNnA2aF9DS09sRG5vVk9Ya2JRUXJISkRPUUUwUXRWMkVDVjdCajFGbUVySzFWVEc4UlJZdjUxZkl4cw?oc=5",
       "published": "2026-11-03",
       "ts": "2026-11-03T02:31:00+00:00",
@@ -1204,6 +1184,26 @@
       "ts": "2026-08-17T07:00:00+00:00",
       "queries": [
         "AI data center bond issuance"
+      ]
+    },
+    {
+      "title": "Nvidia backing $105 billion in financing for OpenAI data center in Ohio - CNBC",
+      "source": "CNBC",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxONTY0SXEyaEQ3Q1pRaUhyaVdKNzBHWUJNNVdQX3V5SHRSWVdfYmYzTWJpQjhKVHd5OGRmdjFzT25reUNJX21IWFc0Z2FwY0hQcWFSRm16bURnUVVydUVuT2FDYy11TmV0T09nMDJEdVBsbTdvRWN0ckoxQ2p4b3NPRVVSd3TSAYoBQVVfeXFMUGE1ZTROeEprR2lWenlwXy12a09IbkgwRGdzQ1lTSlhzSzRUb2M2LUF1OXVwT1g5NkxMeEFxX2hleklhU0Z0Q0pZVE40eDVNT2xzRGtFQnp0U2luSVQ3bjlGMkpYNlV6UzVSRXBqUXJqV2Q2SHpkdFZIWDdSRUk1R21LbThheEN5c1VB?oc=5",
+      "published": "2026-08-17",
+      "ts": "2026-08-17T07:00:00+00:00",
+      "queries": [
+        "data center financing billion"
+      ]
+    },
+    {
+      "title": "OpenAI joins PORTS-Pike project - OpenAI",
+      "source": "OpenAI",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9lSDRzTDRmOXVNbmJMNmR5UUVvT1ozbmsweTU4aG9Da1RSc29vbHY5M05SblZFODNDeHFCYjJoMkJpUllJQk5oQmw3MU5LbnNqMjh3MkRqelMyQl9zRHBHSi14S1BxTkQ4?oc=5",
+      "published": "2026-08-17",
+      "ts": "2026-08-17T07:00:00+00:00",
+      "queries": [
+        "data center construction gigawatt"
       ]
     }
   ]
