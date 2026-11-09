@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-09 07:28 UTC",
+  "updated_at": "2026-11-09 07:32 UTC",
   "count": 120,
   "items": [
     {
@@ -53,16 +53,6 @@
       ]
     },
     {
-      "title": "RTX 50 Graphics Card Rally Hits the Brakes: China Spot Prices Fall 20% in Two Weeks, Average Still 70% Above MSRP - BigGo Finance",
-      "source": "BigGo Finance",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5Wb2hqMjZBWEhYSVhzMml4MGNIaU5reU5ycVBNZGI5YTl1RmN3UnhKeWctN185MXFfdm91b2xSSi1seW95aFFLXzNVU2FYT19CeUZlMDZxX0xiOG5JV0gyUkZQQ2NoR1NOdi16cW9WM1hTZmRxRkE?oc=5",
-      "published": "2026-11-09",
-      "ts": "2026-11-09T01:33:40+00:00",
-      "queries": [
-        "AI data center bond issuance"
-      ]
-    },
-    {
       "title": "CoreWeave Bond Yield Tops 16%, Sounding Alarm on AI Data Center Debt Risk - BigGo Finance",
       "source": "BigGo Finance",
       "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBrcWVqUHlFVjlSUUpRaGMzRFpfUVpDaW1WeFZ4NXRlWmlIellwb1VUV1dWSzBlcDVpYVpFTzR0Tkhna0hWR2VDWExmdndBRFhJMi1Jd2RLMEJYQkxOUEtjcnhnX0ltTS1JNmljNFcxXy1kZ0czN1E?oc=5",
@@ -71,6 +61,16 @@
       "queries": [
         "AI data center bond issuance",
         "Oracle CoreWeave data center debt"
+      ]
+    },
+    {
+      "title": "RTX 50 Graphics Card Rally Hits the Brakes: China Spot Prices Fall 20% in Two Weeks, Average Still 70% Above MSRP - BigGo Finance",
+      "source": "BigGo Finance",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5Wb2hqMjZBWEhYSVhzMml4MGNIaU5reU5ycVBNZGI5YTl1RmN3UnhKeWctN185MXFfdm91b2xSSi1seW95aFFLXzNVU2FYT19CeUZlMDZxX0xiOG5JV0gyUkZQQ2NoR1NOdi16cW9WM1hTZmRxRkE?oc=5",
+      "published": "2026-11-09",
+      "ts": "2026-11-09T01:25:00+00:00",
+      "queries": [
+        "AI data center bond issuance"
       ]
     },
     {
@@ -926,6 +926,16 @@
       ]
     },
     {
+      "title": "Cracks Emerge in AI’s Debt-Fueled Data Center Boom - The Information",
+      "source": "The Information",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQSTN1a082d3FHQjJDTFBvMG1pMHBTa0dXRWlDaHBxa1IyNWpLdlJ6SW5zS2NmcGNCRGgzUHplUXA0aUxkeDFNVWRsdGVhRDRNU2lBbS1MaVVVcTF6SDhGZEo0TkxoWjZLSEVwNWpsc2VzRTBEMFJyTU11NjV3S25tRUhYN2xScDlnRElXcVJCLS1ueVlleDJR?oc=5",
+      "published": "2026-09-30",
+      "ts": "2026-09-30T07:00:00+00:00",
+      "queries": [
+        "AI data center bond issuance"
+      ]
+    },
+    {
       "title": "New Innovation Is Required to Fund AI’s $6 Trillion Buildout - Bain & Company",
       "source": "Bain & Company",
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPWmNJSUUwWlduc2VTOEpYdnhJcDVtN3BjbXpKN3gtMzdYOVVGbkpmVUlPelR6aERSNkhmbHBSdVdEaWxqV3Npd3VyVktsWkI5UERQbEFOc1NZQjZEVmoyVEdBdjNjaDkydW9DSWtyU0lFLUIzUHFXZVhrQVRZRTNIOFQ1YU1CVE42SW5Sb3huaHNUUk0zZ0FBanpYV0pWME9OWTJKNHNldEJPaDZ1SmZEN0RB?oc=5",
@@ -1194,17 +1204,6 @@
       "ts": "2026-08-17T07:00:00+00:00",
       "queries": [
         "data center construction gigawatt"
-      ]
-    },
-    {
-      "title": "Why Big Tech’s AI Spending Is $3 Trillion Higher Than It Seems - WSJ",
-      "source": "WSJ",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQbER2YldlRmpEQWd0clg3cTNaZzlBZHc0M3VTZk9yYm14Zm9ZaTQyaGVfMkI1TWdQRTBPT0k4NTRhcXFXUG52Vll1NEVhbTRSMDRIUU15aHU3M3MwTU9ldFJwNS1rV09WQW1hUzdtMVBGM2E2RDVwdDZGM21Sc3g3cFNsTkc2QnRlcExMVkVVZXdhbDhkX0JoQ1ozRldQZw?oc=5",
-      "published": "2026-08-16",
-      "ts": "2026-08-16T07:00:00+00:00",
-      "queries": [
-        "Microsoft OR Amazon OR Google OR Meta data center capex",
-        "GPU purchase Microsoft Amazon Meta Google Oracle"
       ]
     }
   ]
