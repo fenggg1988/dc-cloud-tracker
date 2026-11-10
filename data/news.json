@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-10 08:33 UTC",
+  "updated_at": "2026-11-10 09:08 UTC",
   "count": 120,
   "items": [
     {
@@ -384,16 +384,6 @@
       ]
     },
     {
-      "title": "Google provides credit support for a $19 billion AI data center lease; Anthropic’s computing expenditures surge by 77% - 富途牛牛",
-      "source": "富途牛牛",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNUVNMSFp3YUI2Y0VxM3lxRk90MHJycUc1OW9CZVZhRHRFQTZucmpUUmVxT1Z5OFRxcnl1bVMyQVZ0ODB1X2hvNURwZmFGYm5aRTViYVNhQmxKSkYtWk50NnRMTUQ2LXU3a2hjMnBCWm5GZlluU192YmhUTmdBbnRpRVl3dG8tcDVobV9hdW5xZE5faDdiU1RtYjVsLXY4d28?oc=5",
-      "published": "2026-11-08",
-      "ts": "2026-11-08T05:47:00+00:00",
-      "queries": [
-        "data center financing billion"
-      ]
-    },
-    {
       "title": "OpenAI Raises $11B at $1.25T Valuation, Falls Far Short of $30B Target - OpenTools",
       "source": "OpenTools",
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1mSTlKS1RjcVZyZE56MU16M3g5WVNyQ2d4elZJWnMyeC1TZEJ2RkhuZ0ZMaHB3QlJnY3JDbHByU2J3M3hWRnJMR2dkcU8yYnVEcTJlQmxVOTFGU0xyYnVDM0NEUTFuZjZUMkxkakJrNHRqTTBsbGl1dFFMMWRtdGM?oc=5",
@@ -449,16 +439,6 @@
       "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBRb21obnRLNy1Oa19XZ1JQdEdCcm42ZVZZNHJxSVdJZ2JTN0JJTkM1WkM5cW50Y05CQ2lWR1FMc2ozUGpqNUx2UWFDQXRqcFNsWEFYNi1kZU5Wckh1?oc=5",
       "published": "2026-11-07",
       "ts": "2026-11-07T08:54:16+00:00",
-      "queries": [
-        "AI infrastructure funding gap"
-      ]
-    },
-    {
-      "title": "AI Stocks Routed After Midterm Elections: Four Cloud Giants Show $26.4 Billion Cash Flow Gap, Nvidia Loses $440 Billion in a Single Day - BigGo Finance",
-      "source": "BigGo Finance",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9feHF5djVGTVpZakozSFV3cUFRZ0M1VzN2RjNmVEU2Tmk5TnNSNGlzb0RLamNmWGFIWF9XY3JvZll2Q29QSGx5MEZFQnpZZ3BpclE2VjAyV1VNRWpCNnR6WjBYU01RQVhQWXAzMXJkOGUyNTQtNkE?oc=5",
-      "published": "2026-11-07",
-      "ts": "2026-11-07T08:25:00+00:00",
       "queries": [
         "AI infrastructure funding gap"
       ]
@@ -604,21 +584,21 @@
       ]
     },
     {
+      "title": "A tiny Ohio town just found a way to make data centers pay - Vox",
+      "source": "Vox",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPcGs3YmNGdll2elRrM2laZzFneVBKa21pMlBuajYtTmpPTzhvZ1UyV0E1WkFyT1QzQWRYR1FORE9iQ0h2LXhEQUlLTUZqSmhZaU9nNW5KVl9peC1zdzVMdmdkWi1faEx3MnJhRnpXekMwZDA0aEtuQ0lsNGZSY3haVjlHQjFsS1p0NXVXLWlINWhsZw?oc=5",
+      "published": "2026-11-05",
+      "ts": "2026-11-05T11:00:00+00:00",
+      "queries": [
+        "AI data center bond issuance"
+      ]
+    },
+    {
       "title": "US Midterm Election Upset Could Stall 62.2 GW of Data Center Construction Planned for 2028 - BigGo Finance",
       "source": "BigGo Finance",
       "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9UcXNQbWlWaFotX1pIdFBuaWVPbVN1cVo4QWp3SmxjT1NnbmVKcmpnQ3RnSlBTX0NUc1RPdVRubkRBeHlVWXJYem9VTjZnb0lqaTRneXdiakR2VFV6SDFMcW91ZUptc0N1Tnh5Mk95dU1XUW95emc?oc=5",
       "published": "2026-11-05",
       "ts": "2026-11-05T06:35:00+00:00",
-      "queries": [
-        "data center construction gigawatt"
-      ]
-    },
-    {
-      "title": "13 GW At Immediate Risk As Texas Data Center Developers Face New Power Struggle - Bisnow",
-      "source": "Bisnow",
-      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNVnlKRjNYWThMc2lZYWtHcFVybFNqZnQ4NGVaOU1xT0l1S01oeFJsb01KbTlHN2VkUWhVQTE2emZlNUw0dkx3Zm5vUlpGSVNsVXRQSU1pb1NQRjNWS0Njazh5WUo5Tm9MTTlBR2MycFNINEdqMlhrSHB5OVhBMVBIdjVPdE4zN1lpR0NNTnhuZUFfTGZiWHBjRmo3b243UmJ2UGxBakFnb3JPbWxzZHBVbXNOVy13NDE1OGdQd095dk40eU9oa0ZPTjNmelVOQ3FwbHFWdUFvbnU4UjRqSElWdQ?oc=5",
-      "published": "2026-11-05",
-      "ts": "2026-11-05T00:36:00+00:00",
       "queries": [
         "data center construction gigawatt"
       ]
@@ -672,6 +652,16 @@
       "ts": "2026-11-02T08:00:00+00:00",
       "queries": [
         "Oracle CoreWeave data center debt"
+      ]
+    },
+    {
+      "title": "Microsoft blames data centre delays for lower capital expenditure - Financial Times",
+      "source": "Financial Times",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOY2RibWNSVm1SWDJYQ2RfaEplQWNvbFRpNGNwMkdDdGpuSVBCSTQ1WE91RE9BU0tEanFOd21XbnNDNTNYV1FpdXlIV3Fjb1RZTzNIdzFKZE55MG9vNThXZVdPNWljWUpqVzY5UENxVnRZZW5ZU0RXZU10b1YwRjJhSXVfSDQ?oc=5",
+      "published": "2026-10-28",
+      "ts": "2026-10-28T07:00:00+00:00",
+      "queries": [
+        "Microsoft OR Amazon OR Google OR Meta data center capex"
       ]
     },
     {
@@ -1204,6 +1194,17 @@
       "ts": "2026-08-17T07:00:00+00:00",
       "queries": [
         "data center construction gigawatt"
+      ]
+    },
+    {
+      "title": "Why Big Tech’s AI Spending Is $3 Trillion Higher Than It Seems - WSJ",
+      "source": "WSJ",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQbER2YldlRmpEQWd0clg3cTNaZzlBZHc0M3VTZk9yYm14Zm9ZaTQyaGVfMkI1TWdQRTBPT0k4NTRhcXFXUG52Vll1NEVhbTRSMDRIUU15aHU3M3MwTU9ldFJwNS1rV09WQW1hUzdtMVBGM2E2RDVwdDZGM21Sc3g3cFNsTkc2QnRlcExMVkVVZXdhbDhkX0JoQ1ozRldQZw?oc=5",
+      "published": "2026-08-16",
+      "ts": "2026-08-16T07:00:00+00:00",
+      "queries": [
+        "Microsoft OR Amazon OR Google OR Meta data center capex",
+        "GPU purchase Microsoft Amazon Meta Google Oracle"
       ]
     }
   ]
