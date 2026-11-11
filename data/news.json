@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-11 07:33 UTC",
+  "updated_at": "2026-11-11 07:53 UTC",
   "count": 120,
   "items": [
     {
@@ -113,6 +113,16 @@
       ]
     },
     {
+      "title": "SoftBank reports US$7 billion loss on Ohio data centre writedown - ET Datacenters",
+      "source": "ET Datacenters",
+      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQMVF0N3NJbkFEdTdCaUZYeW5iS1puV3M1VjNtSUZxM0RaOXZ2RER4aFBaVjA3Tm5LeksyWE5Hd2lXc0hzZzV5bXJVQWZGaV91NVdTMlQwYWRZNkFid0dYUVBkc0R5MnljemUyRWlGM05TVzZsVFBvNG0yOFMxMHVuX1otLTVaU3A5RlY2cnZBb1g5V25YS3J0YU9hMGg0dHFLQXQ0Z2ZEZE5UT3NKcGh3czhFWnJLZG9IS05ycXB1SGdRNjhHTlpPTTVaQVNRS2tkSk1PRXN5NjFfbGs3N3fSAeIBQVVfeXFMTjV5cmtzSDV0NHhyMlJlbmQxZmFHcU9OOXd4cmN6WU9BNXBVRG5SM3Mxb1JlcW9ZYXA5aW9abEVUZmpSamd6d1c3Mi1IdXZiN1p6M2UzakpOdWQ0amx4U1dnTF9od1NZY2x3ckpBcE1vTlM3UDNheXJ5NEl2ZlBrWjNBMEFDSjVDeTV6aDVLc1M2QlZWVGtKcjBIekRaSkd2UzF5cUcyNkJYdmRJTEFOVlhWdFpXbGpKakVWejJucnYyX1UxVEdkYXd3R1BTUnJWSWYxNmw1aU4tZkdpZGNTYTJrZw?oc=5",
+      "published": "2026-11-10",
+      "ts": "2026-11-10T16:59:57+00:00",
+      "queries": [
+        "data center financing billion"
+      ]
+    },
+    {
       "title": "The $5.34 Billion Question: Who Actually Owns the Power Behind Data Centers? - Substack",
       "source": "Substack",
       "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5VQ2h6Z3dhY1BvYmxuVTVwN1dPaVd5eXZnOVJTUFVxdkphWTZnUFBybjd4cXdrUUxTZkI1NTNaOW9HblRtU2RaRG1ubXhkWFQyYmdzYXMwRUF6OV9PdTVSdkV5R0VhYVhSVExnV1JjWE45US15TWtjSEJROVk4Zw?oc=5",
@@ -180,6 +190,16 @@
       "ts": "2026-11-10T10:37:00+00:00",
       "queries": [
         "AI infrastructure funding gap"
+      ]
+    },
+    {
+      "title": "SoftBank Books $7B Loss on US Data Centres [2026] - shattered.io",
+      "source": "shattered.io",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNalBKalJtRXFjR0dqWi1nMDM0c2JzREN0c1RIZFBrcDhYMWhyVTRHdDBpYTRITTJvSkV3clpDVWU4eEVfdGdKV0NnR2RBZEZ1YTA1My03TkRkR00tRXA2QXFodGN4QzlwRGJiRGNYMzhyamVZNzU4WEhrQTF5aFlyN1libjVXSEk5Wi1IQ3BVYXpvWDNlbVE?oc=5",
+      "published": "2026-11-10",
+      "ts": "2026-11-10T09:44:45+00:00",
+      "queries": [
+        "data center financing billion"
       ]
     },
     {
@@ -541,16 +561,6 @@
       "ts": "2026-11-06T05:14:48+00:00",
       "queries": [
         "data center construction gigawatt"
-      ]
-    },
-    {
-      "title": "More than half of US hyperscale data center projects face 'regulatory friction' after 2026 midterm elections - report - Data Center Dynamics",
-      "source": "Data Center Dynamics",
-      "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPQkVqbGNiTU8tdFc2T0tyNm9objg1MmREUlBUbV9vemtIb2xscWgzdjg3bEhMdFFiWk5lY3BpWG1FbjFzbUxCM1dwajJ2ZW5OOVBrYmE5X1NubFdFQ1FLbHdkVk9BNWstLWJKWG95NVZUZUNSZVZaa29HNVRaWTY3dll4U3hvMjZ0VDVOanhYNzEwVmdHb2dWcHdvdWF0ZzNtZ09UVkhPZ3gyRTZpQjFsSm5henc1Q083THY5Wkt2VklNb0M5NFFmTjVya1hCSjVwNm5nOXNLSEJqaWtqZVhYbEM2OEhYcVVlZ0NYQ1h3?oc=5",
-      "published": "2026-11-05",
-      "ts": "2026-11-05T13:38:16+00:00",
-      "queries": [
-        "hyperscaler capex data center"
       ]
     },
     {
@@ -1199,16 +1209,6 @@
       "ts": "2026-08-10T07:00:00+00:00",
       "queries": [
         "data center financing billion"
-      ]
-    },
-    {
-      "title": "How Worried Should We Be About AI Debt? - The University of Chicago Booth School of Business",
-      "source": "The University of Chicago Booth School of Business",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5zTHJxdzk5UkduSDRUR0hWeHlzd0dIZ1lGOEZSMkhqcGRsUTBLSEdaRzJyOERKS3RMSjh6NzhxbEtodDdrNEItVTZoQzZEbE42STByN1oyemhhMFdvUkFDZUZKQ05aZ3BFOWdoazhVMmFmM1RENWRnUjFBaF9Zdkk?oc=5",
-      "published": "2026-08-08",
-      "ts": "2026-08-08T03:39:00+00:00",
-      "queries": [
-        "AI data center bond issuance"
       ]
     }
   ]
