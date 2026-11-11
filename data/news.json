@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-11 07:23 UTC",
+  "updated_at": "2026-11-11 07:25 UTC",
   "count": 120,
   "items": [
     {
@@ -100,6 +100,16 @@
       "ts": "2026-11-10T17:30:28+00:00",
       "queries": [
         "AI data center bond issuance"
+      ]
+    },
+    {
+      "title": "SoftBank reports US$7 billion loss on Ohio data centre writedown - ET Datacenters",
+      "source": "ET Datacenters",
+      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQMVF0N3NJbkFEdTdCaUZYeW5iS1puV3M1VjNtSUZxM0RaOXZ2RER4aFBaVjA3Tm5LeksyWE5Hd2lXc0hzZzV5bXJVQWZGaV91NVdTMlQwYWRZNkFid0dYUVBkc0R5MnljemUyRWlGM05TVzZsVFBvNG0yOFMxMHVuX1otLTVaU3A5RlY2cnZBb1g5V25YS3J0YU9hMGg0dHFLQXQ0Z2ZEZE5UT3NKcGh3czhFWnJLZG9IS05ycXB1SGdRNjhHTlpPTTVaQVNRS2tkSk1PRXN5NjFfbGs3N3fSAeIBQVVfeXFMTjV5cmtzSDV0NHhyMlJlbmQxZmFHcU9OOXd4cmN6WU9BNXBVRG5SM3Mxb1JlcW9ZYXA5aW9abEVUZmpSamd6d1c3Mi1IdXZiN1p6M2UzakpOdWQ0amx4U1dnTF9od1NZY2x3ckpBcE1vTlM3UDNheXJ5NEl2ZlBrWjNBMEFDSjVDeTV6aDVLc1M2QlZWVGtKcjBIekRaSkd2UzF5cUcyNkJYdmRJTEFOVlhWdFpXbGpKakVWejJucnYyX1UxVEdkYXd3R1BTUnJWSWYxNmw1aU4tZkdpZGNTYTJrZw?oc=5",
+      "published": "2026-11-10",
+      "ts": "2026-11-10T16:59:57+00:00",
+      "queries": [
+        "data center financing billion"
       ]
     },
     {
@@ -1199,16 +1209,6 @@
       "ts": "2026-08-08T03:39:00+00:00",
       "queries": [
         "AI data center bond issuance"
-      ]
-    },
-    {
-      "title": "Global AI Investment Is Forecast to Exceed $1 Trillion in 2026 - Goldman Sachs",
-      "source": "Goldman Sachs",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOeDZ2dUk3YUJGenFKNm9feDlCc3RxZU9jaXA0WkYxM21uY2dBVmpGXzVMVkQtSXpUbjNEVEJjSGY0M1ZWcExLZ0U1dFNfaVhRc3FSV0IwOXJRMWwwLXpkQTE5RWZvYXBIV1B3NVVvUTdscUlScm5id29aRnNXVEF1OU56T25qbnAwV3dVNUJTZDdaVF8tRHE1SExhb1g5TThkQ0tHbWxBNlI?oc=5",
-      "published": "2026-08-07",
-      "ts": "2026-08-07T07:00:00+00:00",
-      "queries": [
-        "hyperscaler capex data center"
       ]
     }
   ]
