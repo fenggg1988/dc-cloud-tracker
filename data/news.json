@@ -1,7 +1,17 @@
 {
-  "updated_at": "2026-11-11 07:25 UTC",
+  "updated_at": "2026-11-11 07:33 UTC",
   "count": 120,
   "items": [
+    {
+      "title": "Bigger cheques, fewer winners in India’s AI boom - The Economic Times",
+      "source": "The Economic Times",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQSGJhZkN0NTJNaVliVmt1YTd6RzhPTlRCTGl1MXo3dmlQN3JLRDRMNEVPU0FqQUlrdFBMMmtabFhYNDl5SnhtUXRMTG1EQTEzVllrUWR5c2RHenpaRTZtQXQ3VDNLMWdxVVkybko4c1NqNlVtWmQ1VjZ3OEZXaUFJeFdCbVdtQ2JBY3NVMFE3RFd3VGlxd242U3pDcDZRdnh5NGl5Y1lSQkJjZUFacmkwUDdYd3pRUdIBuwFBVV95cUxQRUl5SUlHcmZVLTljWTlGbWpXaHVrNkFLWXBES3dXdHlwSWZyREd5QTUzeWwxdTZFQXdScHQzaEo5YnFoZGx0RTVSSHdyd0xKWWZhcDdHZGd2b1lMaWVLX053XzVrWnhheldtanNJRGVyQlVUTWZHYllhZWRDbWtlT1pnRGhRTzl4RVlVVVZkSEV0TUFIRWtsLUVDWW8wMXhTbGNmUFgyVkIyQi1YXzJtRmRkRDBfXzFsTUg4?oc=5",
+      "published": "2026-11-11",
+      "ts": "2026-11-11T07:21:02+00:00",
+      "queries": [
+        "AI infrastructure funding gap"
+      ]
+    },
     {
       "title": "Infra and HUMAIN sign US$ 667 million financing agreements for developing AI and power infrastructure - W.Media",
       "source": "W.Media",
@@ -100,16 +110,6 @@
       "ts": "2026-11-10T17:30:28+00:00",
       "queries": [
         "AI data center bond issuance"
-      ]
-    },
-    {
-      "title": "SoftBank reports US$7 billion loss on Ohio data centre writedown - ET Datacenters",
-      "source": "ET Datacenters",
-      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQMVF0N3NJbkFEdTdCaUZYeW5iS1puV3M1VjNtSUZxM0RaOXZ2RER4aFBaVjA3Tm5LeksyWE5Hd2lXc0hzZzV5bXJVQWZGaV91NVdTMlQwYWRZNkFid0dYUVBkc0R5MnljemUyRWlGM05TVzZsVFBvNG0yOFMxMHVuX1otLTVaU3A5RlY2cnZBb1g5V25YS3J0YU9hMGg0dHFLQXQ0Z2ZEZE5UT3NKcGh3czhFWnJLZG9IS05ycXB1SGdRNjhHTlpPTTVaQVNRS2tkSk1PRXN5NjFfbGs3N3fSAeIBQVVfeXFMTjV5cmtzSDV0NHhyMlJlbmQxZmFHcU9OOXd4cmN6WU9BNXBVRG5SM3Mxb1JlcW9ZYXA5aW9abEVUZmpSamd6d1c3Mi1IdXZiN1p6M2UzakpOdWQ0amx4U1dnTF9od1NZY2x3ckpBcE1vTlM3UDNheXJ5NEl2ZlBrWjNBMEFDSjVDeTV6aDVLc1M2QlZWVGtKcjBIekRaSkd2UzF5cUcyNkJYdmRJTEFOVlhWdFpXbGpKakVWejJucnYyX1UxVEdkYXd3R1BTUnJWSWYxNmw1aU4tZkdpZGNTYTJrZw?oc=5",
-      "published": "2026-11-10",
-      "ts": "2026-11-10T16:59:57+00:00",
-      "queries": [
-        "data center financing billion"
       ]
     },
     {
@@ -514,6 +514,16 @@
       ]
     },
     {
+      "title": "AI Debt Crisis Spreads: CoreWeave Bonds Plunge, Credit Alarms Sound for SpaceX and Oracle - BigGo Finance",
+      "source": "BigGo Finance",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE4zOHR1VUNqN1FrOU5hel9xR0tkTkNTRFNzMDdTa3ZjZjVlOEZQSnloWWRaUUhrVU9tRG5TTUViSm5SOEVRNXJGY0VoS1c1UjlwcUNvY3BLTzlVUkN1c0VrTWFjSzZuX2cyUWc1Zk1LVkxrOV9IRnc?oc=5",
+      "published": "2026-11-06",
+      "ts": "2026-11-06T09:35:00+00:00",
+      "queries": [
+        "Oracle CoreWeave data center debt"
+      ]
+    },
+    {
       "title": "Mystery Seller Seeks to Dump $500 Million of Data Center Loans - Bloomberg.com",
       "source": "Bloomberg.com",
       "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPc3l0QXB3MW5hNE1uQUpzcUloU0NuckhSWG9ZWUFDeVdLYVp0MmlVR25Lb0c0bnhlbUdzZ09TYzh2RnkxTnJnZ1d6WkFkWkw3TEMzZUlDaWJsb0xCSXBiMXhDTEZyVkhOVzJpR3prSkk1SEQ1bWcwZXN1RnUzNFlRMFNOVDhGZUNiXzVqRGMwVTVybmRkbUZiVWthVGc4aDNHTXMzMDF4SXJyODdFb0syUWRJWWFVNVEzRHlYd2tVOXQ2SzlVVWE0SA?oc=5",
@@ -759,16 +769,6 @@
       "title": "AI Credit Default Insurance Costs Surge as Investors Assess Data Centre Debt Risks - Yahoo Finance",
       "source": "Yahoo Finance",
       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOYTY4czZFUndNUzNqbF9aVUY3a2F2NlBsQ2FIeGdjSk9oNmZqdlRwU09RalRZN1BxTW1HSVVPYTdsdld4dEdWclgtTmdBVnBLempiNHRFQlJYS3Rnamc2dFpfNmFJd3pHVTNTUm9RazI4U0M4MUROU095Tks3V2FVXy16Smdja3FXUTBxR2dQT1JhR3NGb2w4NGJnV180R0E?oc=5",
-      "published": "2026-10-15",
-      "ts": "2026-10-15T07:00:00+00:00",
-      "queries": [
-        "Oracle CoreWeave data center debt"
-      ]
-    },
-    {
-      "title": "AI credit worries send default insurance to record high - Reuters",
-      "source": "Reuters",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOa21Bbk9kN3JUMWZXLWNLVWFlRkQ1dDFSYnRQQzBRNDVudTYtaDhjcjcyenBQM0prdHlYY2ZxY25fZzdYQk9FYkh1N043NW83amxZbHVvZUxYUXk5YnVtR3NtaXdPMFFNa3Z4UUpYdWlXQzhmbjV2bF96TktQQ3VNOFFhLWMtcUE2NllOMzNsN3I?oc=5",
       "published": "2026-10-15",
       "ts": "2026-10-15T07:00:00+00:00",
       "queries": [
