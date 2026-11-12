@@ -1,7 +1,17 @@
 {
-  "updated_at": "2026-11-12 05:45 UTC",
+  "updated_at": "2026-11-12 07:53 UTC",
   "count": 120,
   "items": [
+    {
+      "title": "Singapore: Data centres get a reality check - The Edge Malaysia",
+      "source": "The Edge Malaysia",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFAtMGpGNl8wREluV2lwTFFxeHNEWm9QWFVzaEdKUVVyM0JOTmZ2czI0WWNEYkJfLVFPYktaUExpTXVYWExrWUpEQXZEZlhyY2F4?oc=5",
+      "published": "2026-11-12",
+      "ts": "2026-11-12T07:00:00+00:00",
+      "queries": [
+        "data center financing billion"
+      ]
+    },
     {
       "title": "Microsoft's $117 Billion Bet Puts Power Bills and Claude in the Same Frame - ad-hoc-news.de",
       "source": "ad-hoc-news.de",
@@ -183,16 +193,6 @@
       ]
     },
     {
-      "title": "SoftBank books $7 billion quarterly loss on US data centre hit, financing costs - Reuters",
-      "source": "Reuters",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPQTRXdUFfbE1YejhTSXgtVUktdnY2bGMzY1MyVElPTEFZR1RtYzRQeHdYN2RoZV9sdjVyNGNVYVRtRGctakhrcUkyOG1uX0F6Z2RYb0JCVk9wdTJmZGVIVjdyTU1YdWFSQTNxTlUzV2xWSjZRSE1NWENKR2M2cEtjdVJFUXNTSnRiZlFVVVowSUJycFNFbFc1ZE1lcXRtSGR4T0c0MFhoOA?oc=5",
-      "published": "2026-11-11",
-      "ts": "2026-11-11T08:12:57+00:00",
-      "queries": [
-        "data center financing billion"
-      ]
-    },
-    {
       "title": "Bigger cheques, fewer winners in India’s AI boom - The Economic Times",
       "source": "The Economic Times",
       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQSGJhZkN0NTJNaVliVmt1YTd6RzhPTlRCTGl1MXo3dmlQN3JLRDRMNEVPU0FqQUlrdFBMMmtabFhYNDl5SnhtUXRMTG1EQTEzVllrUWR5c2RHenpaRTZtQXQ3VDNLMWdxVVkybko4c1NqNlVtWmQ1VjZ3OEZXaUFJeFdCbVdtQ2JBY3NVMFE3RFd3VGlxd242U3pDcDZRdnh5NGl5Y1lSQkJjZUFacmkwUDdYd3pRUdIBuwFBVV95cUxQRUl5SUlHcmZVLTljWTlGbWpXaHVrNkFLWXBES3dXdHlwSWZyREd5QTUzeWwxdTZFQXdScHQzaEo5YnFoZGx0RTVSSHdyd0xKWWZhcDdHZGd2b1lMaWVLX053XzVrWnhheldtanNJRGVyQlVUTWZHYllhZWRDbWtlT1pnRGhRTzl4RVlVVVZkSEV0TUFIRWtsLUVDWW8wMXhTbGNmUFgyVkIyQi1YXzJtRmRkRDBfXzFsTUg4?oc=5",
@@ -361,6 +361,16 @@
       "ts": "2026-11-10T11:14:45+00:00",
       "queries": [
         "data center construction gigawatt"
+      ]
+    },
+    {
+      "title": "SoftBank books $7 billion quarterly loss on US data centre hit, financing costs - Reuters",
+      "source": "Reuters",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPQTRXdUFfbE1YejhTSXgtVUktdnY2bGMzY1MyVElPTEFZR1RtYzRQeHdYN2RoZV9sdjVyNGNVYVRtRGctakhrcUkyOG1uX0F6Z2RYb0JCVk9wdTJmZGVIVjdyTU1YdWFSQTNxTlUzV2xWSjZRSE1NWENKR2M2cEtjdVJFUXNTSnRiZlFVVVowSUJycFNFbFc1ZE1lcXRtSGR4T0c0MFhoOA?oc=5",
+      "published": "2026-11-10",
+      "ts": "2026-11-10T10:32:08+00:00",
+      "queries": [
+        "data center financing billion"
       ]
     },
     {
@@ -623,16 +633,6 @@
       "ts": "2026-10-23T07:00:00+00:00",
       "queries": [
         "Oracle CoreWeave data center debt"
-      ]
-    },
-    {
-      "title": "AI infrastructure: The gap between capex and cash generation (CRWV:NASDAQ) - Seeking Alpha",
-      "source": "Seeking Alpha",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQREhvem92aEZoVnF6U044WUtvQk1HTEJvc1pPWTc0YUNST0ptWXZkTC1abnVwVG9tZ091SjNGdDNHTkhwYUprYUhRRHkyZHJXNjhGOW1qZE90VC1ORHR4U3l6U0dIVnBtRjQ2WGtIcVYyOHp4SGVaUWpFSTZJcDJEbkdBNUdrQTQ1aUdFVzQ3S2Vpc2EyVllEVVpoaV9jQQ?oc=5",
-      "published": "2026-10-23",
-      "ts": "2026-10-23T07:00:00+00:00",
-      "queries": [
-        "AI infrastructure funding gap"
       ]
     },
     {
@@ -957,6 +957,16 @@
       ]
     },
     {
+      "title": "AI, Digital Twins Can Help Africa Close $108bn Infrastructure Funding Gap — Mudasiru - LEADERSHIP Newspapers",
+      "source": "LEADERSHIP Newspapers",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPdEJabEJYYnZwV0EwQXdTdzF5VFVCenZId2ZsY3dhcTlIaFZsUXI5dExacDM0clowYWRSRElFSzFlUVNoLXMzcTdBVlZRSGd2TU16RnFlRmYwNGxESThyVVRYS3pia3E0M2FTUE9fQTJDd2gtMWZhNzM3T0dEMU5UZ0F2aG1IV0RkdHgtTXBIWlFyX3lRZUdETE4xZnpGRUQycmZSSEZn?oc=5",
+      "published": "2026-09-19",
+      "ts": "2026-09-19T22:07:21+00:00",
+      "queries": [
+        "AI infrastructure funding gap"
+      ]
+    },
+    {
       "title": "What’s at stake in AI’s trillion-dollar gamble - MIT Technology Review",
       "source": "MIT Technology Review",
       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNejNNMURnQWVMZXpvQmRQRUl2SzZWbkc2MmFPa1ZIQThwYmxkcDEwOU4tcVRIMk5IR2x2aGF3T0JrT0JLNU82a0tIa3Z5cjRDR3prdElrRTV2SHBuSWN4Qy1xS3F6am1DSFRxX2FTUlZBNnIwZXE1WHV6Z0dvNjR5d3IyX21qS3dlUTQ1WFg0QjdYcnNWU0dnTktfUldUQTTSAaQBQVVfeXFMUFYzLTNYOUFwSVlaUWw4SkdaR3BEeVltcS1sRm5JbWZiREN0TGV3RHptd2JUOTJkY2s0UU9nNWpvbDZxZ2p1SGRJOEVfcEVTamJRQmdsUEQzZkprMl9palQ0YWhRenlTd25oZkNvRGg3VklORkhfM09sdHEybzJCTUlnTWZIM2J1SmFLSFJHMUdjamlkaUNma0g2blhsWGlFQ0pYcEU?oc=5",
@@ -1200,16 +1210,6 @@
         "hyperscaler capex data center",
         "AI data center bond issuance",
         "data center financing billion"
-      ]
-    },
-    {
-      "title": "US SEC exempts certain data center bonds from key securitization rules - Reuters",
-      "source": "Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNa0RTRlhkX1FlaExsM3JsU05QNW1qb1pSdTFhUkJfZjc2MFZYczBrdzNaZTkxaWRudWd0Mk5vVThJREdPdS04REhxOE1PWWdkUVJzSm50ejFJR3NkdzNHd3gwUGZuWUhRRTYxYVpWaUhScV9adFBUM0RfUUZUdU5xZVNVMmlfZUdzVEFIak54RnNSNTh3d2JXRG9fMzlfSDVWeXc1dzgxSW5xMTlEMDJUS2lOemUyNmwtM1E?oc=5",
-      "published": "2026-08-10",
-      "ts": "2026-08-10T07:00:00+00:00",
-      "queries": [
-        "AI data center bond issuance"
       ]
     }
   ]
