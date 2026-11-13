@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-13 07:32 UTC",
+  "updated_at": "2026-11-13 07:40 UTC",
   "count": 120,
   "items": [
     {
@@ -1106,16 +1106,6 @@
       ]
     },
     {
-      "title": "Oracle tries to appease Stargate data center opponents with renewables push - Ars Technica",
-      "source": "Ars Technica",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNaE1fQThma0dDUWY5RGpOYnpvN2hkUGM1ZDFLN21haGh2Y29ZODI1a1paVkdxUmMyQ0FOaFBvN3duNFFyWXVZcnpYaXdqY05BbkpGR05UMVllZmNISjRDZVUyQWljbGhHVkZoc2FCTVo2RGZ2dVRVMVVWRU54Q2l4bGtMbnl0ZVhaQXhieGhJdkVKRzF0V0JxRTM4YWVCUTd6cXVnUnJGcFlEUzdtdUJJX0RES1p6dw?oc=5",
-      "published": "2026-09-11",
-      "ts": "2026-09-11T07:00:00+00:00",
-      "queries": [
-        "Stargate OpenAI data center progress"
-      ]
-    },
-    {
       "title": "How can Europe address its pressing AI compute infrastructure shortfall? - Bruegel",
       "source": "Bruegel",
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNZ2VnU2RMNVZBV1FucUJwc2RJOF9BLUpPVjdGbnk1SHYyY3lwNGpQdmg1cTVYN0M5Vzd4V0JwcDhLelBVYmxIRFRQMEwyR2ZfNnBRdFhaZGRGbGFQNlk5VVo2Um5kZUxlcHctWXdXQkdNRi1QSkloeVk1WVdtRFc5bFlPS3RONW9KQ3VzLW5PVUQ4eW1HMXhfSU1nTkk1U2lYZzZBdTNpSkhGNmVn?oc=5",
@@ -1133,6 +1123,26 @@
       "ts": "2026-09-10T07:00:00+00:00",
       "queries": [
         "AI infrastructure funding gap"
+      ]
+    },
+    {
+      "title": "Stargate Korea progress update coming within the year, OpenAI says - Korea JoongAng Daily",
+      "source": "Korea JoongAng Daily",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPU1JtM2RLNDlCV3FXUlRwXy14bmJZQ3FLUVhwN1RYNldMazFaa1Vha1NqV2YtWnFBczJHU0JhSmgwRjBad0IzVzVGV05GQUVCN0dnbzFxWkR0VlhxTm5VMFlKRUlma05zakpubVF0VmhITUF3cnh3OVYxdjQ2UUM4VXVuTkUxOGl1SDFJc1dlUk56UG5LbF90LTVsUm1YcUphWWJ2RndMZGZPempoRnlxcWhUWTlYV3NDX2c?oc=5",
+      "published": "2026-09-09",
+      "ts": "2026-09-09T07:00:00+00:00",
+      "queries": [
+        "Stargate OpenAI data center progress"
+      ]
+    },
+    {
+      "title": "OpenAI's Stargate project in Korea stuck at starting gate as Samsung, SK report little progress - Korea JoongAng Daily",
+      "source": "Korea JoongAng Daily",
+      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPUEQyYjVLcEtFZ0RWem9zc1FXWW5nU0F5QTJyN0Ryb05YUGFWU0F3eXp5dGFjTlYxR1VWVHFIeG13Ykx3NzZnd0FxYVo4SGJHcHBSdzNnSHViV0EyaURSdjlpMHljVndJTzF1WlFoN214YnN6RlJvZDdua1F0Z2xCaE5QdDNiNTZseFZnZVk3emN0Q1Q1cXZTUGlJOE5HTDE4TUlPUDVGR2hwalVZV2FGb1VEOFBTSWR0dW5jeFdTMFp1NUJGSE54eXNxc3BhRkZVTjVPVEsxc2ZUMUFkZFFN?oc=5",
+      "published": "2026-09-07",
+      "ts": "2026-09-07T07:00:00+00:00",
+      "queries": [
+        "Stargate OpenAI data center progress"
       ]
     },
     {
@@ -1194,16 +1204,6 @@
       "ts": "2026-08-22T07:00:00+00:00",
       "queries": [
         "hyperscaler capex data center"
-      ]
-    },
-    {
-      "title": "Alphabet, Meta, and Microsoft Are Hiding $3 Trillion in Debt On the AI Boom's Hidden Ledger - 24/7 Wall St.",
-      "source": "24/7 Wall St.",
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNXy1vOWNCV2ViRDdzMXRELS1kNWJzeTZVLWpDWDVmbjdqRUwtWTFEWkQxbTRyQjE3ejJfWVlQRUFrbTNTWmdQdVdMdU12VmdJZ0N3WmVRZVdpdHFfWHdNTEUzUjdLak94MlUxa1R4LTlFM042RER0NUhGS21TM1ltcGJsMHBWUTJiVkxrOWtLblJPRThtWjUzOVZYeXBFMHZfNjRFU3YtR0RLM3FlRXVYOTd6aDRRMzRtN0VuTkxsc1c0X3hUck44U3hQYw?oc=5",
-      "published": "2026-08-22",
-      "ts": "2026-08-22T07:00:00+00:00",
-      "queries": [
-        "GPU purchase Microsoft Amazon Meta Google Oracle"
       ]
     }
   ]
