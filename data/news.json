@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-13 08:15 UTC",
+  "updated_at": "2026-11-13 09:03 UTC",
   "count": 120,
   "items": [
     {
@@ -20,6 +20,16 @@
       "ts": "2026-11-13T03:10:46+00:00",
       "queries": [
         "Microsoft OR Amazon OR Google OR Meta data center capex"
+      ]
+    },
+    {
+      "title": "Nebius Revenue Jumps 6.7x as It Plans Up to $45 Billion in 2027 Capex - XenoSpectrum",
+      "source": "XenoSpectrum",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBxbHcwS1N5UjBMdHhScFdFcFp2ZE1Yc3YySGxsM1BoYXkzalRrLXNRY2ZEYkhMZ1VtajNHUnd5Sk5KWURRVUtvVDVOMTVyUXJrWEdqb0ZyR2RocWVXNTZ5QW42R25WNy1BTnVvZHJ3?oc=5",
+      "published": "2026-11-13",
+      "ts": "2026-11-13T03:02:32+00:00",
+      "queries": [
+        "AI infrastructure funding gap"
       ]
     },
     {
@@ -583,16 +593,6 @@
       ]
     },
     {
-      "title": "‘Absolutely terrifying’: China’s AI start-ups face funding chill amid tech rout - South China Morning Post",
-      "source": "South China Morning Post",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQYTdUV3hkVjhZRXV3aTBQT05tMFJVUUZEOTBWY3RGSTlJUGRIZ3BRdDdJVFhqNTRlaVQ4Smw5NU5TYXBZWTlIaEU5S1FYdXEwYzc2RGZ6MnBDUzdzNmhXcG1hRGs2cXB1VkFFZjBrSzZoa3N5WUlCLW1mTjhacEs0OEJ6NHQtN2pJWUVQVmtleG1YSEk1YkN2TEZWNnhya09vWUluX1NUWlVISm92VGU2YnZfRnZUc2RnaTFzVktTQdIBvwFBVV95cUxQZTZLdzBWWlNUZEEzd3lWdXlVTmdKOUh3NFpEdkl6OWhucTVrUV9oeElqcVUwTkhHdHZab1dxZkNOT2FzeUFfTE00NXZNRGdxQ1I5TVFfSG1EeHIyV3VRMzJtSU9laFc4NU9Pb0wtcmJVNXF6ampYV3RlTm8xNzhQZDNuQUM2Ujh1Mm5SaDN4akpGRThhOEdnWnlzakRSWGxEOXAzNzBfYmIzdDctQjFERVg0b3hvUEpQazFtY0lZNA?oc=5",
-      "published": "2026-11-09",
-      "ts": "2026-11-09T22:00:13+00:00",
-      "queries": [
-        "AI infrastructure funding gap"
-      ]
-    },
-    {
       "title": "Microsoft Borrows at “10 Percentage Points Below CoreWeave.” Now It’s Backing Away From Neoclouds - TIKR.com",
       "source": "TIKR.com",
       "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQdEVaQzdiclp1YnAzc2hIZ1BQRC0xdlpLbzRnMlQ3TEFZRWdqZ2l4YWFuTHhDWTcxYk9PRmdjX2hrSVgtMHVwTUZBa2RUUUNINXdUMzlsNkJtemRwbC1LNWhISUktcm9SXzhVM3FsbjZUQ1RjSHNRalh0WHJ3M1U0Qm1CYkRGWW1yT19MZVRlSlJESTl6cVpad1BkYmVldWFjNE16WGJVS1A2YW1fNlpLeEQzcnVKZ3VtM0x3?oc=5",
@@ -639,7 +639,6 @@
       "published": "2026-11-09",
       "ts": "2026-11-09T01:26:00+00:00",
       "queries": [
-        "AI data center bond issuance",
         "Oracle CoreWeave data center debt"
       ]
     },
