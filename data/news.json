@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-14 07:14 UTC",
+  "updated_at": "2026-11-14 07:25 UTC",
   "count": 120,
   "items": [
     {
@@ -20,6 +20,16 @@
       "ts": "2026-11-13T21:07:07+00:00",
       "queries": [
         "AI data center bond issuance"
+      ]
+    },
+    {
+      "title": "IREN stock faces Nvidia fallout after Jensen Huang resigns - ad-hoc-news.de",
+      "source": "ad-hoc-news.de",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQc1R4RXNjTmx1UExuYXU0eTNoLXVFVGVCNUNQV0tYS2dqNndHTmV0LWJOZ0g3QTk4b0hWeXdnN3RJdlhwejFYWU5iZW5vdzEzWENqZ0dqMkk0elRoMWlhWF90YWxIR0o1RjExSnRYQnZXbllFZW5nRVA0WHB6X05QUU5sQUhfcE5VZkRyRW8xUVp5NXRrRmhFZ3hsbkxmSXY5LXZqeDNLc2dBb1BrN3dJdmYxcXE1WkdFR1ZuWUR3?oc=5",
+      "published": "2026-11-13",
+      "ts": "2026-11-13T19:18:34+00:00",
+      "queries": [
+        "data center financing billion"
       ]
     },
     {
@@ -877,16 +887,6 @@
       ]
     },
     {
-      "title": "Market selloff, rising rates test AI data centre deal boom - Reuters",
-      "source": "Reuters",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQUkF0Z0d5VTdCU1hISVI0eXNTUnpGOFlXc1BwM0dHWEJ6SWs2REc1TEdFdUtQRlRYTUM4TXRqcnFYZWlldDdjQnhLQ3ZQVmdrYXVvTWhwSGRnejRLLXBjbms5Z2pRMEJVWlp5Yks5WG5Tck9ZYXJaVDk5ZGZyanhEQVJUOXJMM0hBTzRTNnVheFlkcmpUSzdadi12VmZlbGFEWjA3SXEzcnJ2TTRXMkZv?oc=5",
-      "published": "2026-10-16",
-      "ts": "2026-10-16T07:00:00+00:00",
-      "queries": [
-        "AI data center bond issuance"
-      ]
-    },
-    {
       "title": "Why CoreWeave's 25% Tumble Is A Warning To AI Financiers - Forbes",
       "source": "Forbes",
       "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOUDd3QnRYVFpoMUxuMXRmLVA3U3Z1WDBjanZMajhIclFoMDdXZ1A4RWtKQ3FVVTEyTDhEVWVRTkJtSHBiSzdQVk9JMGlzV2JkYmUzZTVXSlRTLWp3STVpdERha2wtT3dUSUtXcm9TZFdUTDIwa21OZFZ0TWVLUWxqZWoxcjZUeVhYMi1ZSWJEeTdYU3ZmX3pZaHRPZmx6V2x4U1I4MmYzUTI0akFKNkswelozUU51RlZiV181Nlh3?oc=5",
@@ -895,6 +895,16 @@
       "queries": [
         "AI data center bond issuance",
         "Oracle CoreWeave data center debt"
+      ]
+    },
+    {
+      "title": "Market selloff, rising rates test AI data centre deal boom - Reuters",
+      "source": "Reuters",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQUkF0Z0d5VTdCU1hISVI0eXNTUnpGOFlXc1BwM0dHWEJ6SWs2REc1TEdFdUtQRlRYTUM4TXRqcnFYZWlldDdjQnhLQ3ZQVmdrYXVvTWhwSGRnejRLLXBjbms5Z2pRMEJVWlp5Yks5WG5Tck9ZYXJaVDk5ZGZyanhEQVJUOXJMM0hBTzRTNnVheFlkcmpUSzdadi12VmZlbGFEWjA3SXEzcnJ2TTRXMkZv?oc=5",
+      "published": "2026-10-16",
+      "ts": "2026-10-16T07:00:00+00:00",
+      "queries": [
+        "AI data center bond issuance"
       ]
     },
     {
@@ -1196,16 +1206,6 @@
       "queries": [
         "AI data center bond issuance",
         "Oracle CoreWeave data center debt"
-      ]
-    },
-    {
-      "title": "AI’s Absurd Spending Boom? Hyperscalers Are Spending 102% of Cloud Revenue on Capex - Yahoo Finance",
-      "source": "Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQaHJCSHJwUHhwUW5ndFZDYmtXQi1iWXJCMS1NRTZSM2ZQWHFVRTRKbnVhV0dwcnExdl8xTVFhRmxiVEJqcVVOSUJ1OGE3bGtOc2hIS0xhU3Nkdk5MZWV3U3VVTDhVZ3JSTVlYcl9nd1liNzhGSFhoSmtTekFVS3lTUHZQMUQzdWxKM0c5UW5fZGFiLVdNUDlscDZYbU9mMV9VUUE?oc=5",
-      "published": "2026-08-22",
-      "ts": "2026-08-22T07:00:00+00:00",
-      "queries": [
-        "hyperscaler capex data center"
       ]
     }
   ]
