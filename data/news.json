@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-14 07:25 UTC",
+  "updated_at": "2026-11-14 07:43 UTC",
   "count": 120,
   "items": [
     {
@@ -480,8 +480,7 @@
       "published": "2026-11-11",
       "ts": "2026-11-11T20:25:00+00:00",
       "queries": [
-        "AI data center bond issuance",
-        "Oracle CoreWeave data center debt"
+        "AI data center bond issuance"
       ]
     },
     {
@@ -703,6 +702,16 @@
       "ts": "2026-11-02T08:00:00+00:00",
       "queries": [
         "data center financing billion"
+      ]
+    },
+    {
+      "title": "Oracle Declines 4% as $10 Billion Bond Sale Revives AI Debt Worries; CoreWeave Advances 2%, Microsoft Holds Steady - 24/7 Wall St.",
+      "source": "24/7 Wall St.",
+      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPNF80VWlicUpTdDRRTkhfREt2R1NUNTdGQTVIdFpBUklHckhEY3BVXzRmb1lDZFQwcno1SkJJbERwYlR6ZnktOHRqaElCMWE4WnNOQmgzODllUW9uc0JBdnE5MGtYLXFlNFdud2wtNEVrN3hwV3dTQ2szMDJIeHUzSWQ0d0pJVGZ0dzUwLWpIWk9oRkJEd1doZUNHdWlzUGw5Q0xBZFI2M2x2blExckc2RGY3TlpXa19Xb2dreTJCVm5fVGZrbUV6c3FUa1NnbjgyWHF6Mzd6YlA5c1h4S2dtSDFKOU1pV0x5?oc=5",
+      "published": "2026-11-02",
+      "ts": "2026-11-02T08:00:00+00:00",
+      "queries": [
+        "Oracle CoreWeave data center debt"
       ]
     },
     {
@@ -1195,17 +1204,6 @@
       "ts": "2026-08-28T07:00:00+00:00",
       "queries": [
         "AI data center bond issuance"
-      ]
-    },
-    {
-      "title": "Is there a pending AI ‘debt bomb’ crisis? No. This isn’t Enron 2.0 | Gene Marks - The Guardian",
-      "source": "The Guardian",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFB5R1ZJZmh4X3oxc0xuSHRfLUZ6Z0dWZjhVWUtWNVFGbzhROFdOVkdUSVZjNzZlNC1lMkFGQTZMaFExODB1VVRmWWN4SnRHaTd4dDZZZmxpemZyR296d3JkeFZKV1Q5OF80WVNzTmxmRHNrWHFsTGNvSWdB?oc=5",
-      "published": "2026-08-23",
-      "ts": "2026-08-23T07:00:00+00:00",
-      "queries": [
-        "AI data center bond issuance",
-        "Oracle CoreWeave data center debt"
       ]
     }
   ]
