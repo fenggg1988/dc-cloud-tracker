@@ -1,7 +1,17 @@
 {
-  "updated_at": "2026-11-14 07:43 UTC",
+  "updated_at": "2026-11-14 08:31 UTC",
   "count": 120,
   "items": [
+    {
+      "title": "Nebius Stock: A 571% Sales Jump, a $40–45 Billion Build, and a Breakeven Date in Late 2027 - ad-hoc-news.de",
+      "source": "ad-hoc-news.de",
+      "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOalRqYk9vcUpsRnM4UWpoMFJPNVFHUVAzdzdhRGtURVd0WDZZT2VLVWtFem9FTzdZOUlmWEFLWjV2enB6MklMNDdMX0tfUHNvS0M5eEc4V09ZUkNaYU5za0tCdERmRkdoa1dJSjYxUUh6dUtZUzZaZWhhekpOTzdzOEphQ0psa2NMQUQ0NC1DNGpfTklfUGN3Z3lTeGdWdDIzalNZSldqTzZyckNZTm9OeHRsVUxXVlRUY01mQ3YteG80WFFLcFptekYyZ0l4MUhRMVJSMWN6eFd5eXY4ODZpWGhmSnIxN0o2amdYejN3?oc=5",
+      "published": "2026-11-14",
+      "ts": "2026-11-14T02:01:08+00:00",
+      "queries": [
+        "data center financing billion"
+      ]
+    },
     {
       "title": "Fed Financial Stability Report: AI Emerges as Top Risk; Related Debt Issuance at ¥108 Trillion Scale, 87% of Market Participants Alarmed - BigGo Finance",
       "source": "BigGo Finance",
@@ -23,21 +33,11 @@
       ]
     },
     {
-      "title": "IREN stock faces Nvidia fallout after Jensen Huang resigns - ad-hoc-news.de",
-      "source": "ad-hoc-news.de",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQc1R4RXNjTmx1UExuYXU0eTNoLXVFVGVCNUNQV0tYS2dqNndHTmV0LWJOZ0g3QTk4b0hWeXdnN3RJdlhwejFYWU5iZW5vdzEzWENqZ0dqMkk0elRoMWlhWF90YWxIR0o1RjExSnRYQnZXbllFZW5nRVA0WHB6X05QUU5sQUhfcE5VZkRyRW8xUVp5NXRrRmhFZ3hsbkxmSXY5LXZqeDNLc2dBb1BrN3dJdmYxcXE1WkdFR1ZuWUR3?oc=5",
-      "published": "2026-11-13",
-      "ts": "2026-11-13T19:18:34+00:00",
-      "queries": [
-        "data center financing billion"
-      ]
-    },
-    {
       "title": "Nvidia’s Ties to Nscale Put the Data Center Start-Up’s IPO on Shakier Ground - Barron's",
       "source": "Barron's",
       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNV2k0OFNjUW02OXM3V0NRM1ZDazFia3llSWFDazUzLUxUcXBaZ3cwWFlhTmg3S1JOb0IxVjdSZWJmM19WWkpKbVRwUUJFVGJVb2hlbndmZXhoa1lqWldnQUgzdk1WU3h2SWkxQkoxR0Vja1Z0WXVhZ1ZQOWpjYVNXb1VpLUdNaE0?oc=5",
       "published": "2026-11-13",
-      "ts": "2026-11-13T18:23:05+00:00",
+      "ts": "2026-11-13T20:22:00+00:00",
       "queries": [
         "data center financing billion"
       ]
@@ -480,7 +480,8 @@
       "published": "2026-11-11",
       "ts": "2026-11-11T20:25:00+00:00",
       "queries": [
-        "AI data center bond issuance"
+        "AI data center bond issuance",
+        "Oracle CoreWeave data center debt"
       ]
     },
     {
@@ -702,16 +703,6 @@
       "ts": "2026-11-02T08:00:00+00:00",
       "queries": [
         "data center financing billion"
-      ]
-    },
-    {
-      "title": "Oracle Declines 4% as $10 Billion Bond Sale Revives AI Debt Worries; CoreWeave Advances 2%, Microsoft Holds Steady - 24/7 Wall St.",
-      "source": "24/7 Wall St.",
-      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPNF80VWlicUpTdDRRTkhfREt2R1NUNTdGQTVIdFpBUklHckhEY3BVXzRmb1lDZFQwcno1SkJJbERwYlR6ZnktOHRqaElCMWE4WnNOQmgzODllUW9uc0JBdnE5MGtYLXFlNFdud2wtNEVrN3hwV3dTQ2szMDJIeHUzSWQ0d0pJVGZ0dzUwLWpIWk9oRkJEd1doZUNHdWlzUGw5Q0xBZFI2M2x2blExckc2RGY3TlpXa19Xb2dreTJCVm5fVGZrbUV6c3FUa1NnbjgyWHF6Mzd6YlA5c1h4S2dtSDFKOU1pV0x5?oc=5",
-      "published": "2026-11-02",
-      "ts": "2026-11-02T08:00:00+00:00",
-      "queries": [
-        "Oracle CoreWeave data center debt"
       ]
     },
     {
@@ -1204,6 +1195,17 @@
       "ts": "2026-08-28T07:00:00+00:00",
       "queries": [
         "AI data center bond issuance"
+      ]
+    },
+    {
+      "title": "Is there a pending AI ‘debt bomb’ crisis? No. This isn’t Enron 2.0 | Gene Marks - The Guardian",
+      "source": "The Guardian",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFB5R1ZJZmh4X3oxc0xuSHRfLUZ6Z0dWZjhVWUtWNVFGbzhROFdOVkdUSVZjNzZlNC1lMkFGQTZMaFExODB1VVRmWWN4SnRHaTd4dDZZZmxpemZyR296d3JkeFZKV1Q5OF80WVNzTmxmRHNrWHFsTGNvSWdB?oc=5",
+      "published": "2026-08-23",
+      "ts": "2026-08-23T07:00:00+00:00",
+      "queries": [
+        "AI data center bond issuance",
+        "Oracle CoreWeave data center debt"
       ]
     }
   ]
