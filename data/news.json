@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-15 07:59 UTC",
+  "updated_at": "2026-11-15 08:48 UTC",
   "count": 120,
   "items": [
     {
@@ -80,26 +80,6 @@
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxORHhhdEJ1MC05ZUJoTUlNUDJwd1lwNkdPZEt6X3Z0WmkySUdmNTJnejBWT1VzbjFwMGVLLWl2YTJLN19kVTFmdDVYeEFaY1UwV2lYaVZ0ckNfRnVpMHRhZmFEUDN5cGJsVGp6Ukx3cm5RaUhvOEIyR0o1QkpHdVExNTkxQVg3SlZJTUJiOTlNaEZoSXlxN1B6aGNVZHM1ZXQyRU01NHlQVm1JdDhs?oc=5",
       "published": "2026-11-14",
       "ts": "2026-11-14T13:58:36+00:00",
-      "queries": [
-        "data center financing billion"
-      ]
-    },
-    {
-      "title": "Jensen Huang Resigns, Data Centers Face Political Pushback & Housing Hits New Low | The Weekly Wrap - BigGo Finance",
-      "source": "BigGo Finance",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBYVU50anhhWEZMeE4wMkRaOVJXMFh5Q0lzeE1yUlhZaExOa0hMbE9wX2xvWGdrX3p5OUp1dlVJdXo1Ym1MVGdUWlowSFN5TS1pS2ZLRUJsb2ZxR1J0UVhr?oc=5",
-      "published": "2026-11-14",
-      "ts": "2026-11-14T06:39:58+00:00",
-      "queries": [
-        "hyperscaler capex data center"
-      ]
-    },
-    {
-      "title": "Nebius Stock: A 571% Sales Jump, a $40–45 Billion Build, and a Breakeven Date in Late 2027 - ad-hoc-news.de",
-      "source": "ad-hoc-news.de",
-      "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOalRqYk9vcUpsRnM4UWpoMFJPNVFHUVAzdzdhRGtURVd0WDZZT2VLVWtFem9FTzdZOUlmWEFLWjV2enB6MklMNDdMX0tfUHNvS0M5eEc4V09ZUkNaYU5za0tCdERmRkdoa1dJSjYxUUh6dUtZUzZaZWhhekpOTzdzOEphQ0psa2NMQUQ0NC1DNGpfTklfUGN3Z3lTeGdWdDIzalNZSldqTzZyckNZTm9OeHRsVUxXVlRUY01mQ3YteG80WFFLcFptekYyZ0l4MUhRMVJSMWN6eFd5eXY4ODZpWGhmSnIxN0o2amdYejN3?oc=5",
-      "published": "2026-11-14",
-      "ts": "2026-11-14T02:01:08+00:00",
       "queries": [
         "data center financing billion"
       ]
@@ -1206,6 +1186,27 @@
       "ts": "2026-08-31T07:00:00+00:00",
       "queries": [
         "data center financing billion"
+      ]
+    },
+    {
+      "title": "Can AI Go Green? How Data Centers Are Using Green Bonds to Finance Clean Infrastructure - VanEck",
+      "source": "VanEck",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNeGp3MEh4VHFnWUsxQjJ2cF8xX1ZQOVFUV25vTTNhZVpiT0V1bUZrMnVYOW9OTVVkRmlrVnU0Vk56YU5YR2FIZVBVWmpFa1pWeXRRaWw0SHd6QTE0TmNacmJiTVFlUkpwSUxucUMzelEyOWdqQ2pxcWNYYTFqcU0yN3U5XzFoYXZGNGswcVFmQmt3TWJaWklfYTgzRmVxdXpUbzNnOTYzZFBQdHp3OU82SElZclBhTEVuUnNxZFpvdU40akxqSWJhZURHNA?oc=5",
+      "published": "2026-08-28",
+      "ts": "2026-08-28T07:00:00+00:00",
+      "queries": [
+        "AI data center bond issuance"
+      ]
+    },
+    {
+      "title": "Is there a pending AI ‘debt bomb’ crisis? No. This isn’t Enron 2.0 | Gene Marks - The Guardian",
+      "source": "The Guardian",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFB5R1ZJZmh4X3oxc0xuSHRfLUZ6Z0dWZjhVWUtWNVFGbzhROFdOVkdUSVZjNzZlNC1lMkFGQTZMaFExODB1VVRmWWN4SnRHaTd4dDZZZmxpemZyR296d3JkeFZKV1Q5OF80WVNzTmxmRHNrWHFsTGNvSWdB?oc=5",
+      "published": "2026-08-23",
+      "ts": "2026-08-23T07:00:00+00:00",
+      "queries": [
+        "AI data center bond issuance",
+        "Oracle CoreWeave data center debt"
       ]
     }
   ]
