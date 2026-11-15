@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-15 07:25 UTC",
+  "updated_at": "2026-11-15 07:38 UTC",
   "count": 120,
   "items": [
     {
@@ -67,9 +67,9 @@
     {
       "title": "Billionaire Bill Ackman Says There’s a Huge Disconnect in Wall Street’s Expectations for Amazon, Microsoft, Meta, and Alphabet - The Globe and Mail",
       "source": "The Globe and Mail",
-      "link": "https://news.google.com/rss/articles/CBMisgJBVV95cUxQeHBfN3o1ek1UTTRFOElMQWRIU19qVTJoTjE5TmlrTW9xNHpMTEIyMjluMDVUTmNYTkVlTmdETkMtMTdpaW5TbGtqaURUYU1fWC1EZFEzR09GMlV1YVpEbWVTbm9Pa044R0RiSWVMeDdSMDlNOGttanZ3QXhHQ2dFc0o4UW1saG9wcnFQTDltWVVwLUMyeEp2RUdRdFNzRWhSclpMSjVvTG00aVdHdThtbXI5SHdrdExaYXZ0eFFTcVJMTEZncGtjdUJ1bE1qZTZFTGdvckFVUnlFUGZtemlyRDJvLWxXQmFnM1NPbm9RSTllNkJYNUhnZExpVC1KUzFTTGlON3RfWVAzUE4wd0JVM2R6TlVuNmdIMzFMTnlyT21FN3k5VFhoR3BfYkwtcG85OXc?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMirwJBVV95cUxPNDZrdzB2Ry1zR3FiaEJmQUZwcnVWdGJZTmg1ak9nWW53WHFlTGVyNmNKXzVzYXU3TV9xU2xxRkdNZmtUZ2JDUjFtaFRRMHRqbHc5RHhRVzZCOWdUeEN1MkZ0Vk9tZ1EwTTZWcllMWkxxZmw0a043TGhiakxGMG1RNE5vV19ZcDd3bktFVE5WRDhtNktsNVVFUXNMd0s5d2s3ejdJcjlOSGxaU19MYzhiZGwwMWxaV0NaQ2RLY3NOWGp2S2tWZ3Z0dDhwMUlTVG8zcTkxcXZhN3ZSbjFURENKQUhESl9DZlhCRi04OWVDUm5rTi1pQXp5RnRZZGFFVW9PLVVKLTlXVVFieU95SGNURjVrSEZRX0VLcXJaNDVWbVZpY0hZd18yVDdIakpudTg?oc=5",
       "published": "2026-11-14",
-      "ts": "2026-11-14T15:06:47+00:00",
+      "ts": "2026-11-14T15:06:02+00:00",
       "queries": [
         "Microsoft OR Amazon OR Google OR Meta data center capex"
       ]
@@ -198,6 +198,16 @@
       "title": "Rowan secures $1.5bn in financing for data center build-out - Data Center Dynamics",
       "source": "Data Center Dynamics",
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPWUMzQzcyc1NZSVk4bkZjRVI3T19rVnZFVHkwXzI4QXZYWF9Qeks5S2s5QUN3Y0JFQU1POTQ4bEVYbzR6enFjWFBLX3pJZzdER0hxNlFpa1c5T2gtc0lLRUxabXU4LXkzS2NhNmd1T1Q5SUF3T0RMcnZRUlU1VDIweHhPZ0RUeGRmdk9TMkhGeGpmTG1LUFRFbGRkMmpmWEZhQTRN?oc=5",
+      "published": "2026-11-13",
+      "ts": "2026-11-13T10:05:59+00:00",
+      "queries": [
+        "data center financing billion"
+      ]
+    },
+    {
+      "title": "Polar DC secures new financing from Palistar Capital - Data Center Dynamics",
+      "source": "Data Center Dynamics",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNc1dRakpTa3pWME1HS1ZBdHZRVUt6eU44cTZhUkNwSElsXzE4NDFSdmJkTHhObGxhR3lVUEgxbEx4dlY0U3cyUmJJNUVCOHl4ZnREYUtHaTBaTVllQXpiVWtVQkoyYmhlMEQyR084bkZINEJtcTZzQTVmdnUtMjNtY0lzMml6enBjX05QdGd4SzNPV1VGbVM3S29sbkI?oc=5",
       "published": "2026-11-13",
       "ts": "2026-11-13T10:05:59+00:00",
       "queries": [
@@ -1196,16 +1206,6 @@
       "ts": "2026-08-31T07:00:00+00:00",
       "queries": [
         "data center financing billion"
-      ]
-    },
-    {
-      "title": "Can AI Go Green? How Data Centers Are Using Green Bonds to Finance Clean Infrastructure - VanEck",
-      "source": "VanEck",
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNeGp3MEh4VHFnWUsxQjJ2cF8xX1ZQOVFUV25vTTNhZVpiT0V1bUZrMnVYOW9OTVVkRmlrVnU0Vk56YU5YR2FIZVBVWmpFa1pWeXRRaWw0SHd6QTE0TmNacmJiTVFlUkpwSUxucUMzelEyOWdqQ2pxcWNYYTFqcU0yN3U5XzFoYXZGNGswcVFmQmt3TWJaWklfYTgzRmVxdXpUbzNnOTYzZFBQdHp3OU82SElZclBhTEVuUnNxZFpvdU40akxqSWJhZURHNA?oc=5",
-      "published": "2026-08-28",
-      "ts": "2026-08-28T07:00:00+00:00",
-      "queries": [
-        "AI data center bond issuance"
       ]
     }
   ]
