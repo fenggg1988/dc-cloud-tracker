@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-16 07:29 UTC",
+  "updated_at": "2026-11-16 07:31 UTC",
   "count": 120,
   "items": [
     {
@@ -90,16 +90,6 @@
       "ts": "2026-11-15T14:11:40+00:00",
       "queries": [
         "AI infrastructure funding gap"
-      ]
-    },
-    {
-      "title": "SoftBank loses $7 billion as data centers and Arm drag results - Pasquale Pillitteri",
-      "source": "Pasquale Pillitteri",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNMWs0VmdJS2VkbS1YcWlEamk2cXRDVERqenBoamR0UGlucnFwNU1KTkdhbkZ4YkUwT0ZRMlo0VDY1QXJ6UnpBTkNjYkctY2p0RHZoTzFOOW1fbDYwOVl4MzR1cHQ5XzZSNVVGTFJIdXhxNnJYeVgzcWROeldPX2NQOFJmeV9mZU1PX2UtbjdpODRqaDQ0U1BJ?oc=5",
-      "published": "2026-11-15",
-      "ts": "2026-11-15T08:43:55+00:00",
-      "queries": [
-        "data center financing billion"
       ]
     },
     {
@@ -1208,6 +1198,17 @@
       "ts": "2026-08-11T07:00:00+00:00",
       "queries": [
         "data center construction gigawatt"
+      ]
+    },
+    {
+      "title": "Microsoft's AI Data Center Push: Growth Engine or Capex Trap? - Yahoo Finance",
+      "source": "Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOUlhENVBkM1BIQ2VOWHJNY1FGUERxTTI0d2ZpWlI5VFQ1N2lHTVNoX1F5V0RaU21sZmV4UzZaalltWkY3Y2YzSU1IVFYtTGJLS2pabFVpNXZjN2dfQzVCc2lXSGVZaTBHb3BuTlZFZm40UEpxU3cwQUt6N1hkX0IxeWJTdC1xUklhWW1GT3ZsSUhUcHQ2UVE?oc=5",
+      "published": "2026-08-11",
+      "ts": "2026-08-11T07:00:00+00:00",
+      "queries": [
+        "Microsoft OR Amazon OR Google OR Meta data center capex",
+        "Microsoft OR Amazon OR Google OR Meta data center capex"
       ]
     }
   ]
