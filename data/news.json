@@ -1,13 +1,33 @@
 {
-  "updated_at": "2026-11-16 08:08 UTC",
+  "updated_at": "2026-11-16 08:58 UTC",
   "count": 120,
   "items": [
+    {
+      "title": "Nvidia's AI Funding Power: Can AMD and Broadcom Fill the Gap? - The Hans India",
+      "source": "The Hans India",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPZjg3bVVxSnBlRHlmcHNvbkUzNWtqZUc5UGhWbnd4Z3B4UXk4RThWelc4QURnZ1E1TGJCaWx2bTl1S283eGdyd0taeXY5U2s2cFNhc05FTHJUVy1PWFhmMkxYUkt1VEZIZl9xenYtQWNXRGtKVUgwU0tYWkVCaUxxQ1ZncWM4bEtXMUswZU9wR3BvRmFvM3JXbkU0S3BPdFVrZnfSAacBQVVfeXFMUFMySEU4TWY0aExVYXotT2U1WnI2OUo0UU81RGtBeFRJcEQtZExocV9IQXhXcjVELWRrNV9pRlJ4S2p2R3ROc2Nibm1VXzZ5UlBFbzBQNU9QNkxVMzQtNENSMHZ4SlpUZS02Q2JqY0lfUlRPUDdUQ2J6bk94VUNGLWVXWng0cUx6c09MdkM1YUxzY2NaMUVmdmcwdm5pVUZOZjJhVHpZYjg?oc=5",
+      "published": "2026-11-16",
+      "ts": "2026-11-16T08:07:51+00:00",
+      "queries": [
+        "AI infrastructure funding gap"
+      ]
+    },
     {
       "title": "AI Data Center Junk Bonds Hit $37bn as Credit Risks Rise - Serrari Group",
       "source": "Serrari Group",
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPNnBadTNzNmZCNHFCVXpzc1I0WTJOekx1OTlXcERRX3NIS1dSMXdQZmlyX0x3eFNCRE5IVGg0eV9vc0VyRE9nUGNGMUE0anJpbGRqLVRVYUpvd0o4Rk5ROG90MWRuRE1KQ0hGaVdGM3EwTkQ0b25NcmRiZnFubDBfbGhDdWNGWFZK?oc=5",
       "published": "2026-11-16",
       "ts": "2026-11-16T07:57:11+00:00",
+      "queries": [
+        "AI data center bond issuance"
+      ]
+    },
+    {
+      "title": "JPMorgan Chase: AI-Driven U.S. Corporate Bond Issuance to Hit 2.8 Quadrillion Won Next Year, a Record - 파이낸셜뉴스",
+      "source": "파이낸셜뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9wX3NWNmF4UUEzbEhldmNXTWpIRWkzLU5qU2RSN2tMWThXdXZsa3FVc1ItNjlvcUdrNVVadk5IUHAydGFZRnFrNlhXaFRjU2Z0cUkyeVBNWlA?oc=5",
+      "published": "2026-11-16",
+      "ts": "2026-11-16T07:06:50+00:00",
       "queries": [
         "AI data center bond issuance"
       ]
@@ -224,16 +244,6 @@
       ]
     },
     {
-      "title": "CoreWeave seeks a $4 billion loan backed by its Meta contracts, Semafor reports - MLQ.ai",
-      "source": "MLQ.ai",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQemdpcXhmano1OFV4SUJkZkpGVW9WNWc5bFpmSEFYQVNqN3BvcnNYZ05yeVRKMEJFbXZyLUdSaWtIamRnb0pia294RFV1NHA1ZVVvUzZiM3JYSWZqbkFBdHhLV0dsZzM5VWV1ZFVMbS1tRG56LVJ6ZHo3U2oycFFBa3k3bGVBTzhvblA3TnRJMnNERDZ2aUZvdThmdzdpeXM?oc=5",
-      "published": "2026-11-13",
-      "ts": "2026-11-13T16:10:46+00:00",
-      "queries": [
-        "data center financing billion"
-      ]
-    },
-    {
       "title": "Prediction: This Data Center Stock Will Keep Sliding in 2027 - The Motley Fool",
       "source": "The Motley Fool",
       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQMUlXYUQ5VkRXeUplVS1nekRiaVVZRDM5ZFBreHpBS2ZlLUpxWjA1SlRFR245R1d4aklkM2ZRd3FQRHFkR1lpN2RuVzE1VnBnajJGSHZfNmdBR0hGdDJNMzdjM3NGZEMxUDllaVhJY242VTBXbE0temVKMDdLVTEzOXFmaFRNUmctOXFPU2VtYWxVQ1c0RXJjMktUbERPUXdLOTdrOA?oc=5",
@@ -271,6 +281,16 @@
       "ts": "2026-11-13T13:06:42+00:00",
       "queries": [
         "AI infrastructure funding gap"
+      ]
+    },
+    {
+      "title": "HUMAIN and Infra Sign SAR 2.5 Billion in AI Data Centre Financing - https://houseofsaud.com/",
+      "source": "https://houseofsaud.com/",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1ja3hiaTFjRlVhMVpxaE9BdldieDJjVzQwYlJJLVdudEsxV1h6TFdsUGh3dzdrT3lLbjY2YzZwSjdneG9POXdPcWE0aldGMFdiVVFINUVnVWI3bzRLQWdXdUhaSUEwVE9YT3d1N1Z4Qk5LNGtq?oc=5",
+      "published": "2026-11-13",
+      "ts": "2026-11-13T09:56:47+00:00",
+      "queries": [
+        "data center financing billion"
       ]
     },
     {
@@ -394,16 +414,6 @@
       ]
     },
     {
-      "title": "Rising costs will not halt data center construction boom, Citi says - Yahoo Finance Singapore",
-      "source": "Yahoo Finance Singapore",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNeTdhT21YYVdfTlZUak5WVGpnRERubXUtSGRKSG53SWprcXFkalhaQVU3SXowT2w4ajJrSmJ4YUZ3Nm9td3BiQWxlY0dpQkdTYUlESUZQTXFLeHk5NmdCc2o1M1lCQWRSS2dpUDhqNTVhMi1yZGRRN1lOdHhTbTNjRQ?oc=5",
-      "published": "2026-11-11",
-      "ts": "2026-11-11T14:47:00+00:00",
-      "queries": [
-        "AI data center bond issuance"
-      ]
-    },
-    {
       "title": "Softbank loses $3.7 billion on canceled AI data center gas turbine orders days after denying Elon Musk’s claim it was defaulting —company kills reserved 13 gigawatts of power, more than six Hoover Dams’ worth of capacity - Tom's Hardware",
       "source": "Tom's Hardware",
       "link": "https://news.google.com/rss/articles/CBMiigNBVV95cUxPXzBqeDN5bHA1a1RrZFNEcC1ranpXZ0o1Umplc2Y0QnJUOTJ4MUdhTWZ2NnVjRkhMdWwtTG9xTHY5MjR4d3d1a3hsWWhENkhUbWF3QlRyakxKcFljUWN3X1FpM2J5ZXVXUFZLaFZaN2hRRUNRZGlzR3NyRzd1S29Ea0J2RUEyMkVZYlBRcE1VZ3hfRlNWcUdVU3lCUmZEc1ZJcFlhZEx6QWh3bzFlQU1TQzd0MUJzWHNNaTFCanZQb0VlTC1zQkliUldMbF92RGVfZ1BKUG5kazdCMkV1WXl5akdCWWkxMkl5R01ESVUyV1BuMXVJQVhQRTFaSlJ3VzI1SmJEYkN3MzdwMGRjMW1LV3lwQy04dmUwU2lvc0dIOU1STURYWlEwYVBaM3poMnpUMVh6S243Mmx2Wkc2Q1k1bjdVcGhtQkp0dGVOU1JoajlQWkN3QUQxT0pJZmg0cklESUVyWVNieW9BaU1MY1lGdkdpblgzdmFRUUxBaWd3MTQyWldlQktueU13?oc=5",
@@ -441,16 +451,6 @@
       "ts": "2026-11-10T23:05:00+00:00",
       "queries": [
         "hyperscaler capex data center"
-      ]
-    },
-    {
-      "title": "CoreWeave, Inc. (CRWV) Bond Yields Surged Above 15%: Is Its AI Data Center Expansion Becoming Risky? - Yahoo Finance",
-      "source": "Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOcnE1eXA5UlBKMGQzY3Y3NlR5c2xTX3ZoQ3RlNHVpN3hTRGtvWEpxc2c1OHZSN3ZvM1VRZnRpajdZX3B0R21SODBwWWc0S21IaW5pWHBnWmdZbVRhXzFjMmczWFdEelJ2UUZOMTZOMTlIODFOd0FoOWl6YmRFVTQtNzZkTVRRa2U4WDJINjNQWEFGUUFoNDNpcUlB?oc=5",
-      "published": "2026-11-10",
-      "ts": "2026-11-10T21:29:11+00:00",
-      "queries": [
-        "AI data center bond issuance"
       ]
     },
     {
