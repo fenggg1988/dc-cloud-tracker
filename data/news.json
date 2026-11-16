@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-11-16 07:44 UTC",
+  "updated_at": "2026-11-16 08:08 UTC",
   "count": 120,
   "items": [
     {
-      "title": "\"US Corporate Bond Issuance to Hit Record High of KRW 2,800 Trillion Next Year Due to AI\" - news.sbs.co.kr",
-      "source": "news.sbs.co.kr",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE43SXVFazlYOEhleng5MUpWWXJ3R1kzTkhJTGY0d19paWxRWXBvaEdWdUNzNW5maF9yX0JOb00wV0FrRVJya2lRRkVDRXBfQWItRkppRHRVQjNHb2RCMExfYUs2UDNBTlFzX296R05B?oc=5",
+      "title": "AI Data Center Junk Bonds Hit $37bn as Credit Risks Rise - Serrari Group",
+      "source": "Serrari Group",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPNnBadTNzNmZCNHFCVXpzc1I0WTJOekx1OTlXcERRX3NIS1dSMXdQZmlyX0x3eFNCRE5IVGg0eV9vc0VyRE9nUGNGMUE0anJpbGRqLVRVYUpvd0o4Rk5ROG90MWRuRE1KQ0hGaVdGM3EwTkQ0b25NcmRiZnFubDBfbGhDdWNGWFZK?oc=5",
       "published": "2026-11-16",
-      "ts": "2026-11-16T05:17:00+00:00",
+      "ts": "2026-11-16T07:57:11+00:00",
       "queries": [
         "AI data center bond issuance"
       ]
@@ -17,9 +17,19 @@
       "source": "조선일보",
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQalBNN2NBM0RHTXQ5RzZORUFlSElTRDAtVEs1LVUydmxoa0JfUWg5VzJ3Wk5MYmthWk5SLUtXLXFmVjZmNnJRTjExQWU0YkZueGltaXRlN1pld05ESUNGcnh1YURFd01mT3FiUldBbDk0ckRpWER2amJEZXU0QUFqRTVIWVpFM1di?oc=5",
       "published": "2026-11-16",
-      "ts": "2026-11-16T04:43:06+00:00",
+      "ts": "2026-11-16T06:10:06+00:00",
       "queries": [
         "data center construction gigawatt"
+      ]
+    },
+    {
+      "title": "\"US Corporate Bond Issuance to Hit Record High of KRW 2,800 Trillion Next Year Due to AI\" - news.sbs.co.kr",
+      "source": "news.sbs.co.kr",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE43SXVFazlYOEhleng5MUpWWXJ3R1kzTkhJTGY0d19paWxRWXBvaEdWdUNzNW5maF9yX0JOb00wV0FrRVJya2lRRkVDRXBfQWItRkppRHRVQjNHb2RCMExfYUs2UDNBTlFzX296R05B?oc=5",
+      "published": "2026-11-16",
+      "ts": "2026-11-16T05:17:00+00:00",
+      "queries": [
+        "AI data center bond issuance"
       ]
     },
     {
@@ -50,16 +60,6 @@
       "ts": "2026-11-15T22:12:05+00:00",
       "queries": [
         "data center financing billion"
-      ]
-    },
-    {
-      "title": "JPMorgan Flags Malaysia's 3.8GW China-Linked Data Centre Pipeline as Washington Closes the AI Backdoor - The Dark Side Of The Boom",
-      "source": "The Dark Side Of The Boom",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOZTFIR28zYVhLeVJBOXhJeWoyanFaVVItUUV2YndEWWdXaTNIWjlQbmEzZmxKX1FrVHJ2ZGhidWVqUGliN3p4eUk1aHFJSGFUY1FheE9UWUI4RFVBQXBQbHFKOEd6X1dMQ3hvdnczSnNZZzZpeW9QZ2lYcXFzVUdrUVdaZndpZw?oc=5",
-      "published": "2026-11-15",
-      "ts": "2026-11-15T22:01:35+00:00",
-      "queries": [
-        "data center construction gigawatt"
       ]
     },
     {
@@ -191,16 +191,6 @@
       "ts": "2026-11-14T13:58:36+00:00",
       "queries": [
         "data center financing billion"
-      ]
-    },
-    {
-      "title": "AirTrunk signs MoU for 1.8GW of data center capacity in Andhra Pradesh, India - Data Center Dynamics",
-      "source": "Data Center Dynamics",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPNllhT0lWWmgxYmtJNXU1ajlYbEZsaDZSc3RwWnFWMGhMbkliQVBUWUJBaUlhMHp0ckRic0FFZHFKa0lvLTZmZWFGY3g0QUdvLWdRcGg4RWFvUkp4WXNGQkZhbWtTc1JpS3VxWmVEcG5iV0MzVktQOWxSUDNBS2FpOVdCSXNKT25wcUJGc0RjUVVXYWk4UFNiU09wUmhiUVVoaWY0cVgtbUwwZUNSX3R0cjJDWVpOQzBZbU9Z?oc=5",
-      "published": "2026-11-14",
-      "ts": "2026-11-14T11:01:10+00:00",
-      "queries": [
-        "data center construction gigawatt"
       ]
     },
     {
@@ -374,16 +364,6 @@
       ]
     },
     {
-      "title": "SoftBank Takes $3.7B Hit On Data Center Gear It Doesn't Want - Bisnow",
-      "source": "Bisnow",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQSEdzTmRySjFWX1R2MFF3RjRON2NhN0lVRjRNS1M1akdEVmlXU0daRExQX1hMeVZySVB1NkxMelNEOENLZDNRSk9PanhLbGVSV0dBdk83Z2s1ZnFyRkZoNUllbE1pZGVoSWhUb2s4aDNiQmFEc3pFX2RjWEFwVUhJOXNjUWU2YU1LcWdTcXRMSEtaZWYyLWxKVjhVZksxTEFyQVZnMzVMMDRnR0FkSUhmZmpPOHd1N1RDNXA5eS14VzUzNGFOV0VYYmlPSy0?oc=5",
-      "published": "2026-11-11",
-      "ts": "2026-11-11T22:29:58+00:00",
-      "queries": [
-        "data center construction gigawatt"
-      ]
-    },
-    {
       "title": "Morgan Stanley Sees a Buying Window in Top-Tier AI Debt as CoreWeave Fears Ease - BigGo Finance",
       "source": "BigGo Finance",
       "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE56Y0xhallRVmhIRTZ0Z3dQVGNIWTZfQmZoVDVmNGtxVGlGa1ZDakQ2X3BNVWpFVkFqR3FHWXR3QTY1M3lkQVp1cmo0VEYtSmxXanBLU0ZETFcxaDdVUXh1aDhxRnAyaVlmcUhPOHVoWm1ZaWg5bVE?oc=5",
@@ -391,16 +371,6 @@
       "ts": "2026-11-11T20:25:00+00:00",
       "queries": [
         "Oracle CoreWeave data center debt"
-      ]
-    },
-    {
-      "title": "Will Rising AI Capex Weigh on Amazon's Free Cash Flow Prospects? - TradingView",
-      "source": "TradingView",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNaWZxTUVPSUtleUJrb2VoMnh2Z2NrTkxGRlRZMXdDcm53S2ROajhOcG9vZ3dkVnRUcVhBLUhzcWMyVXF1RUFhU01BM2lLQVVMSFRJWWZYTXRjenBCaHpTRE5ZcjMtOVNfdTloc1gtZ3hDaE1kTTIwWVRYSTJnaGwzemJGTXpBTlVNTXk1eVVQWVFOdDZBZjZ2QnNNWHI5UFJCUUMzRlpkcVhyM09xUEN5eHkxci1zR0dKbVNR?oc=5",
-      "published": "2026-11-11",
-      "ts": "2026-11-11T18:16:40+00:00",
-      "queries": [
-        "Microsoft OR Amazon OR Google OR Meta data center capex"
       ]
     },
     {
@@ -431,6 +401,16 @@
       "ts": "2026-11-11T14:47:00+00:00",
       "queries": [
         "AI data center bond issuance"
+      ]
+    },
+    {
+      "title": "Softbank loses $3.7 billion on canceled AI data center gas turbine orders days after denying Elon Musk’s claim it was defaulting —company kills reserved 13 gigawatts of power, more than six Hoover Dams’ worth of capacity - Tom's Hardware",
+      "source": "Tom's Hardware",
+      "link": "https://news.google.com/rss/articles/CBMiigNBVV95cUxPXzBqeDN5bHA1a1RrZFNEcC1ranpXZ0o1Umplc2Y0QnJUOTJ4MUdhTWZ2NnVjRkhMdWwtTG9xTHY5MjR4d3d1a3hsWWhENkhUbWF3QlRyakxKcFljUWN3X1FpM2J5ZXVXUFZLaFZaN2hRRUNRZGlzR3NyRzd1S29Ea0J2RUEyMkVZYlBRcE1VZ3hfRlNWcUdVU3lCUmZEc1ZJcFlhZEx6QWh3bzFlQU1TQzd0MUJzWHNNaTFCanZQb0VlTC1zQkliUldMbF92RGVfZ1BKUG5kazdCMkV1WXl5akdCWWkxMkl5R01ESVUyV1BuMXVJQVhQRTFaSlJ3VzI1SmJEYkN3MzdwMGRjMW1LV3lwQy04dmUwU2lvc0dIOU1STURYWlEwYVBaM3poMnpUMVh6S243Mmx2Wkc2Q1k1bjdVcGhtQkp0dGVOU1JoajlQWkN3QUQxT0pJZmg0cklESUVyWVNieW9BaU1MY1lGdkdpblgzdmFRUUxBaWd3MTQyWldlQktueU13?oc=5",
+      "published": "2026-11-11",
+      "ts": "2026-11-11T14:29:43+00:00",
+      "queries": [
+        "data center construction gigawatt"
       ]
     },
     {
@@ -491,6 +471,16 @@
       "ts": "2026-11-10T12:00:00+00:00",
       "queries": [
         "GPU purchase Microsoft Amazon Meta Google Oracle"
+      ]
+    },
+    {
+      "title": "Texas Data Center Moratorium: 13 GW at Risk [2026] - shattered.io",
+      "source": "shattered.io",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOcnNiX19wM0E2VVNxU1RTZklJNmktVWVwNlJfaXVPWm9ZUWk5ZlRaMGNxN2w0UGp2c0hPNWRYXy1mNGtiMFVYbE9qTk92U0F4elNtRUlvSFhoT2VNRjhXR1ltcGVaWmJkQTJWZzVjTE8yRkdJQk9OSHQwc0FDZEdXQzUyNy1xUQ?oc=5",
+      "published": "2026-11-10",
+      "ts": "2026-11-10T11:14:45+00:00",
+      "queries": [
+        "data center construction gigawatt"
       ]
     },
     {
@@ -947,6 +937,16 @@
       ]
     },
     {
+      "title": "OpenAI and Anthropic scramble for smaller data centers as massive gigawatt projects lag — 20-30 MW facilities to provide capacity as mega structures undergo construction - Tom's Hardware",
+      "source": "Tom's Hardware",
+      "link": "https://news.google.com/rss/articles/CBMi0gJBVV95cUxOQVVHZWh5SnlEaFlldzBBMnBoOWlhYmR0TVdmeF80cEthelhvamhuVEZtX1NUQXAzZlByWnJMRktGaDNFZGJHajRaR05kVzZ1NlM3Zk1JZXloS1NyUEc4amxOeS1OV1l5VzN6cnNPbTRQZndrYVJpZFIxWUpUanl2Tjk1TEZhZG5OQktncEgxMWE1NGhoWEFiY1kyR3Y1MWp1NWlXaDRqbjU2Zlo1a216TTRUWERBN1d4ejNiZEZXQ3M0allhazRod01VZVhCaEhJSXBtVjdaQU4yU1dkdVlfbU5pRl9JZVBRd1dHY1hkcllUYlVYRFZGX2NFVmN6UXVXZy1fSHFudHo2XzBqTW43Y1prZ3htc1dnMXlfcDlQd2h3bWdseVZfZW15NzVOeEloZTBVaGhqUTBPY1VEX29taC1iVDduUFgtalNWVVF6Z2t6UQ?oc=5",
+      "published": "2026-09-22",
+      "ts": "2026-09-22T07:00:00+00:00",
+      "queries": [
+        "data center construction gigawatt"
+      ]
+    },
+    {
       "title": "Jane Street-Linked Data Center Debt Sours - The Information",
       "source": "The Information",
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOS3JqaDZtWmVxelF0WnI5WWNkQVhsLS1GRmMzVTBFNUxnOE1yazZfcC1BYWpZVDVTSHF5cFVBWlNPVWRVRDI3TmZNcmk1OHFNbk9tYk8tY3JrMWFLeUt0X1lZSDBhYlFNVHVvM2U0SUNWLW52SjYwUmU0Z1ozUEczaUVENml6eHRK?oc=5",
@@ -974,16 +974,6 @@
       "ts": "2026-09-15T07:00:00+00:00",
       "queries": [
         "AI infrastructure funding gap"
-      ]
-    },
-    {
-      "title": "Americas Data Center Update | H1 2026 - Cushman & Wakefield",
-      "source": "Cushman & Wakefield",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBxUkxvT1pzNVBkamIxMVhmd2I3b2stQU41U1I0cXVwTy1tTFF4bE90SUQ4S05vcDVsS1puRVFFVl95Q1k2UEY3eHhudUpsSzA3YUpIdm9SQVM4bF9IUWVSZDQteWYySXc0Q1dYMTFQdGtlYmQwLVZHYmxCOEE?oc=5",
-      "published": "2026-09-14",
-      "ts": "2026-09-14T07:00:00+00:00",
-      "queries": [
-        "data center construction gigawatt"
       ]
     },
     {
@@ -1208,6 +1198,18 @@
       "queries": [
         "Microsoft OR Amazon OR Google OR Meta data center capex",
         "Microsoft OR Amazon OR Google OR Meta data center capex"
+      ]
+    },
+    {
+      "title": "Financing AI infrastructure and U.S. data centers - J.P. Morgan",
+      "source": "J.P. Morgan",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQYnk1elNqS1VSX0s3bkk4ZnVVWGo0bTQzOUhRT0lfSEVoZzRoOXQ0RVhaTVlidzExQllIWldyTVdEZTZib201b0psalpqeWlSUFQ1N1MxSzZydVZDbW50azBYWW01c1VBbmlfdk0xWHhFMkhpT3hENDB1TlN4Zlo4TVl5N0xLbGhaeGxHQThNbzl4Z1JVTUFfOUhrVXZZTms?oc=5",
+      "published": "2026-08-10",
+      "ts": "2026-08-10T15:19:07+00:00",
+      "queries": [
+        "hyperscaler capex data center",
+        "AI data center bond issuance",
+        "data center financing billion"
       ]
     }
   ]
