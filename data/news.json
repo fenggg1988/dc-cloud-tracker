@@ -1,7 +1,17 @@
 {
-  "updated_at": "2026-11-17 08:53 UTC",
+  "updated_at": "2026-11-17 09:23 UTC",
   "count": 120,
   "items": [
+    {
+      "title": "E.SUN Financial Chairman Joseph Huang: AI Data Center Lending Only $500 Million, Limited Exposure - BigGo Finance",
+      "source": "BigGo Finance",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE51WWFRbjk0cGJSUXplb1gyeU9aN1BlU29BbzJYM2ltaldRaXFLVE5EV0dkXzVPXzhsRGtkMUhIVUZNSDFvRTdtemtVT05lS1FNZEU2SDBlcU1iaXVTYnh5anBja3pFM3VTdWNKQUEzWThjTUhQZWc?oc=5",
+      "published": "2026-11-17",
+      "ts": "2026-11-17T08:55:00+00:00",
+      "queries": [
+        "data center financing billion"
+      ]
+    },
     {
       "title": "Clampdown on China Chip Loophole Puts Billions in Loans at Risk - Bloomberg.com",
       "source": "Bloomberg.com",
@@ -507,6 +517,16 @@
       ]
     },
     {
+      "title": "Nebius signs $12bn in deals for Q3, all deals reportedly cover its capex - Data Center Dynamics",
+      "source": "Data Center Dynamics",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQNnVtcjdYbVlrMlNiWDFMMkZUUWxxTnN0dmVnd2o4N2lqUDF1RndGWUJLTE5zcHIxNFFnenpvaU9TTGZKVE0zWXp1cHdVTmR6eTVvQnd0NkR3SGVfekRteVZQWk5XeDdveHNSdWlrVTdkR2FqQXJ3VjdHcDAyX0w3NThObnRYS1ZLeFFRNnNzZ1pmT2lDV2pUT2w3aGhKZnRwU1J0VGRJVDBvTVk2V0k3UmVoaFg?oc=5",
+      "published": "2026-11-12",
+      "ts": "2026-11-12T16:59:07+00:00",
+      "queries": [
+        "Microsoft OR Amazon OR Google OR Meta data center capex"
+      ]
+    },
+    {
       "title": "Morgan Stanley Sees a Buying Window in Top-Tier AI Debt as CoreWeave Fears Ease - BigGo Finance",
       "source": "BigGo Finance",
       "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE56Y0xhallRVmhIRTZ0Z3dQVGNIWTZfQmZoVDVmNGtxVGlGa1ZDakQ2X3BNVWpFVkFqR3FHWXR3QTY1M3lkQVp1cmo0VEYtSmxXanBLU0ZETFcxaDdVUXh1aDhxRnAyaVlmcUhPOHVoWm1ZaWg5bVE?oc=5",
@@ -514,16 +534,6 @@
       "ts": "2026-11-11T20:25:00+00:00",
       "queries": [
         "Oracle CoreWeave data center debt"
-      ]
-    },
-    {
-      "title": "US Midterm Elections Spark \"Anti-Data Center\" Backlash as AI Trade's Lifeblood Hinges on GPU Rental Prices - BigGo Finance",
-      "source": "BigGo Finance",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE51amdSQzFEM0hlNEoyUHR0SHBOUDc4ekM4NVBYTDZJOUppeldRREJPN0pyZDBubjBFUGdkNEc4Z3NrRGpTVE1BYlRkVzh5UG4zVlRkVFBHQk5CTTdyYmRPMHotcnJ1NU1VUmh4WUFMR2g3eE8tSnc?oc=5",
-      "published": "2026-11-11",
-      "ts": "2026-11-11T16:25:00+00:00",
-      "queries": [
-        "data center construction gigawatt"
       ]
     },
     {
@@ -658,6 +668,16 @@
       ]
     },
     {
+      "title": "Microsoft blames data centre delays for lower capital expenditure - Financial Times",
+      "source": "Financial Times",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOY2RibWNSVm1SWDJYQ2RfaEplQWNvbFRpNGNwMkdDdGpuSVBCSTQ1WE91RE9BU0tEanFOd21XbnNDNTNYV1FpdXlIV3Fjb1RZTzNIdzFKZE55MG9vNThXZVdPNWljWUpqVzY5UENxVnRZZW5ZU0RXZU10b1YwRjJhSXVfSDQ?oc=5",
+      "published": "2026-10-28",
+      "ts": "2026-10-28T07:00:00+00:00",
+      "queries": [
+        "Microsoft OR Amazon OR Google OR Meta data center capex"
+      ]
+    },
+    {
       "title": "Oracle Rises 5% as Google TPUs Come to Oracle Cloud and NVIDIA Deal Expands; Amazon Nudges Higher, Microsoft Treads Water - 24/7 Wall St.",
       "source": "24/7 Wall St.",
       "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQbUZPSkFxbExpR25ZVDBtcGxjVUtKbGVFVW1hUnJXVjFlSnFKa2VNSzVkNllxWkRIVTY2NXlYUGlPS3lRUzQ1aHEtTVl4d2Vha2dSWkluYmwtZVhSY2kyLVJqYURtOERSQUZQSkpFeG1UVldtUXlUT3hiS1lQMEZzSm9BVTRqYmRRc0U4ZnktRnJoU0JuVlg5UVAwS1pGc05IREpxMFY2SGJJWnZRUUhqakRSbVFPN1lZWlVZQncxbXhjV3l0Yzh5cWtxRUJXeGF0blpFNEJEN0VlRW9kVl9CV3g4bXAwTUl5Y1pISlY3bnJ2RVVy?oc=5",
@@ -714,7 +734,8 @@
       "published": "2026-10-21",
       "ts": "2026-10-21T23:08:03+00:00",
       "queries": [
-        "hyperscaler capex data center"
+        "hyperscaler capex data center",
+        "Microsoft OR Amazon OR Google OR Meta data center capex"
       ]
     },
     {
@@ -929,16 +950,6 @@
       ]
     },
     {
-      "title": "Meta plans to spend $145 billion this year, more than every military budget except the U.S., China and Russia - Fortune",
-      "source": "Fortune",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9UTVpYUkFQX1k2MmZPMWp5ZGpWQlIxajNBaVZxTnhGMGlUanZoalRabWRIZmVXejR6V1hodUxGV0Zib25USGdScHNCMHQwU255RFp2dmY0SHgyVFlqNXVrMVJiYm0yWDVxREpMeFBGWTJFaG52RDVWb2pENA?oc=5",
-      "published": "2026-09-24",
-      "ts": "2026-09-24T07:00:00+00:00",
-      "queries": [
-        "Microsoft OR Amazon OR Google OR Meta data center capex"
-      ]
-    },
-    {
       "title": "Oracle: Data Center Force Majeure Implies Possibility of USD 25 Bln Revenue Delay - Morningstar",
       "source": "Morningstar",
       "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPdDJZSkFNc25sNkc5TzNwY2FQWTB1aHdjb2RyeTFmMFFRdklXcW9FZGJIVDFlS1RWS1BQSkV6S1VkaDZGTUdxamUyMXByb3p6VHoxcG1PbmV1Yng3a2J0STVzUmJfZk1kQ3ZTNlhkYzhSOEFXSG8tT1ZfNzNiTzVUcHNoOGdpQUVWN0VpN0hEMUJXRWRpcTcyR21vVU54cFJ2Y2kyUy1oRXJLZDUxTEFZbWotdjhrdF9RbmhQWU53?oc=5",
@@ -1146,16 +1157,6 @@
       "ts": "2026-08-21T07:00:00+00:00",
       "queries": [
         "AI data center bond issuance"
-      ]
-    },
-    {
-      "title": "Data center madness - Marcus on AI | Substack",
-      "source": "Marcus on AI | Substack",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFAwS0l5TXhfejVvaGNObzNseWN0MnltV1RERFZCVDV5TkJIVTMyR1JEUEVCNXkyenpYcnc3V01uSzlLSkJVQktWN2ZDTTBlenlYR0RLX2ExRmxiaHhnQ1NhNEMxWQ?oc=5",
-      "published": "2026-08-21",
-      "ts": "2026-08-21T07:00:00+00:00",
-      "queries": [
-        "Microsoft OR Amazon OR Google OR Meta data center capex"
       ]
     },
     {
