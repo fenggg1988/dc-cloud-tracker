@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-17 08:42 UTC",
+  "updated_at": "2026-11-17 08:44 UTC",
   "count": 120,
   "items": [
     {
@@ -10,16 +10,6 @@
       "ts": "2026-11-17T08:33:20+00:00",
       "queries": [
         "data center financing billion"
-      ]
-    },
-    {
-      "title": "Anthropic's Revenue Keeps Rising. What Happened to Its $2 Trillion Price Tag? - Longbridge",
-      "source": "Longbridge",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE92eDYxUWNsZWhGazRLVjFsMGpLTUozMW1GMzFjc1pJc3lWRXdEazBhQzFtUDlINDk5am4wR2ZoZ1V3UHhyNEw1bFk2cHJ5VldOU3AzQkxOYUQ?oc=5",
-      "published": "2026-11-17",
-      "ts": "2026-11-17T08:00:33+00:00",
-      "queries": [
-        "GPU purchase Microsoft Amazon Meta Google Oracle"
       ]
     },
     {
@@ -1208,6 +1198,16 @@
       "queries": [
         "Microsoft OR Amazon OR Google OR Meta data center capex",
         "GPU purchase Microsoft Amazon Meta Google Oracle"
+      ]
+    },
+    {
+      "title": "AI-driven surge in bond yields could be next risk for markets and growth - Reuters",
+      "source": "Reuters",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQV0puM2EyN3NoY05WNjJHdm12bU54d0RGd0J5V1BFTGduVjNBUWFTd1ZCMTVVaTRMeHJkcGw1SnpFaW5GSUx5S0I5NUd0d3d5OUx0SVJoaTcycjJuQWdLWXIzaXVEbncySlpFcHYxUndlZmxJc3BGVml4UFdZaXg3QTBza3RqWjN6Z0FHSnVocHVOdEk3dWtlNTJDeFpvTExVY0xFWU5fY1FVVjFQNjMyVzhRRW5Rcnc?oc=5",
+      "published": "2026-08-13",
+      "ts": "2026-08-13T07:00:00+00:00",
+      "queries": [
+        "AI data center bond issuance"
       ]
     }
   ]
