@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-19 08:11 UTC",
+  "updated_at": "2026-11-19 08:14 UTC",
   "count": 120,
   "items": [
     {
@@ -221,6 +221,16 @@
       "ts": "2026-11-18T08:10:28+00:00",
       "queries": [
         "data center financing billion"
+      ]
+    },
+    {
+      "title": "Tech: Is compute the next big AI trade? - KLSE Screener",
+      "source": "KLSE Screener",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQTVA2S3BzT3VqWl95bXVESWE4M3dTUnhkaWFxdmM3MzRQR0dzWXc1aXVqb2VHeFAzdHlVeklpWEt3a2NQOGlOVlFnTE85WjBlUzRuNWQyTEtsd3hpWm9Vb3VmbWtZQjNqa0cxNmV3QlNUX1dQM0NDQXN5NWRCaEt0WGpmNjdWTE16ZVVDNDdPbHo?oc=5",
+      "published": "2026-11-18",
+      "ts": "2026-11-18T08:00:00+00:00",
+      "queries": [
+        "GPU purchase Microsoft Amazon Meta Google Oracle"
       ]
     },
     {
@@ -1194,16 +1204,6 @@
       "ts": "2026-08-22T07:00:00+00:00",
       "queries": [
         "GPU purchase Microsoft Amazon Meta Google Oracle"
-      ]
-    },
-    {
-      "title": "US corporate AI debt surge tests investor limits as fatigue emerges - Reuters",
-      "source": "Reuters",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNR0I5VXZyeVp4RlV6cnhVdXFwZ2RNZUU0Q1czQ2c0WkpZUUJuRV9PNEg0VHkzLVlnSUdZMWVOalJzNkNXdlNtamlGSzRLbVRXb0VkVzl3dm5Uc3hPV21Cb3BIdTNyOWZQSDRGQ1ZvV2xUVUZ6eExfeGpRM0hQck8wSDlzR3ViRDJHS25NaGxwNHdVYWN5cHRUcWJvb0hybjRtclNxMFFGT18tMmc2SEw5RFNYb3ZrSWZpS0VYTw?oc=5",
-      "published": "2026-08-21",
-      "ts": "2026-08-21T07:00:00+00:00",
-      "queries": [
-        "AI data center bond issuance"
       ]
     }
   ]
