@@ -1,7 +1,17 @@
 {
-  "updated_at": "2026-11-19 08:58 UTC",
+  "updated_at": "2026-11-19 09:49 UTC",
   "count": 120,
   "items": [
+    {
+      "title": "She Sold a Billion Dollars Worth of Bitcoin, Borrowed Again: MARA’s AI Plan - Bitcoin Sistemi",
+      "source": "Bitcoin Sistemi",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOME9ySUw0NWNIcVlNaTdzX09faTFPWXpNRUduT0pkX0dRUWFxdG1GckhseVJ6S2lRbVlENFBZYW44dzRCNXRZbGIzbzlla1JYX0M3NmF0RGN0RkxtZHRTOThkNmMyREdPWjd3cjltcFpNVU1xQ1RLQldBWUxGUVFhSjdQNzFtWGJDV25YQzNwd1M3Mk1Na25Lc3FnTUlLSWNJSzdGbURiVQ?oc=5",
+      "published": "2026-11-19",
+      "ts": "2026-11-19T09:03:07+00:00",
+      "queries": [
+        "AI data center bond issuance"
+      ]
+    },
     {
       "title": "PDG expands Tokyo TY1 green financing to US$ 327 million - W.Media",
       "source": "W.Media",
@@ -334,6 +344,16 @@
       ]
     },
     {
+      "title": "Big Tech Needs to Spread Its Bets on Data Centers - WSJ",
+      "source": "WSJ",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPYmJYUHcySGFfYmV5VGZrVXA0dHdWNGlPdG9velpHZDV6eE15S05Ec1MzM3pBQnIxdU93MUtkUUUxck54dXRINDdvMHZrY3VHN29YRXNqVUNRNVoyQXFFZkJGNld4R0pCS1kxR2o1cHF3TWhUMG0xWWF4UkRPTFMxVnZzTG4wTGo1ODg4NUNQVQ?oc=5",
+      "published": "2026-11-17",
+      "ts": "2026-11-17T08:00:00+00:00",
+      "queries": [
+        "data center construction gigawatt"
+      ]
+    },
+    {
       "title": "HSBC Dumps $300 Million Slice of Oracle-Linked Data Center Loan at a Steep Discount - BigGo Finance",
       "source": "BigGo Finance",
       "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBPRFhNYXRWQjFNeWlBajFvOENHMkdzbnVnWjFycTFZaDNEekRxbUVJV2xGRHl6TVFkdUlQanBIdjMyWWhQSkQ3bGthdHgzQWF6NU53a2FHN2VBVjBOWlJWUEhoRFkxQ3huaGVISklBYjNxQ1NkWmc?oc=5",
@@ -435,8 +455,8 @@
       ]
     },
     {
-      "title": "HSBC Sold $300 Million Troubled Data Center Loan at Discount - Bloomberg.com",
-      "source": "Bloomberg.com",
+      "title": "HSBC Sold $300 Million Troubled Data Center Loan at Discount - Bloomberg",
+      "source": "Bloomberg",
       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQeUdDXzVqbUpCb3VibUI5M1JDbWEwcnZFVUdQT05zQWxfNHRIQVkzTUZ4YVhfS2hKSzdkRm1yRzkxaHRkZGxpem1COVNEQk80VFhhSmFqTnNzc2owM0NlUTc1dXoxRE9mNmI1alZUSWh6ZWhFRjVCV0tYSkF0bnBqVUJhY0UxZE9qbjhubXFJMS1wc1g1VWdqZWhkaHQ2UkpkVGZIOGlYeExRbzV1cHNR?oc=5",
       "published": "2026-11-16",
       "ts": "2026-11-16T22:01:27+00:00",
@@ -492,16 +512,6 @@
       "ts": "2026-11-16T10:52:00+00:00",
       "queries": [
         "AI data center bond issuance"
-      ]
-    },
-    {
-      "title": "Big Tech Needs to Spread Its Bets on Data Centers - WSJ",
-      "source": "WSJ",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPYmJYUHcySGFfYmV5VGZrVXA0dHdWNGlPdG9velpHZDV6eE15S05Ec1MzM3pBQnIxdU93MUtkUUUxck54dXRINDdvMHZrY3VHN29YRXNqVUNRNVoyQXFFZkJGNld4R0pCS1kxR2o1cHF3TWhUMG0xWWF4UkRPTFMxVnZzTG4wTGo1ODg4NUNQVQ?oc=5",
-      "published": "2026-11-16",
-      "ts": "2026-11-16T10:30:00+00:00",
-      "queries": [
-        "data center construction gigawatt"
       ]
     },
     {
@@ -612,16 +622,6 @@
       "ts": "2026-11-02T08:00:00+00:00",
       "queries": [
         "Oracle CoreWeave data center debt"
-      ]
-    },
-    {
-      "title": "OpenAI’s flagship Stargate mega campus nears the finish line - fDi Intelligence",
-      "source": "fDi Intelligence",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOUDlibWNwY1pYcjBNVGNnWGtXMWcwSjVZcXotandYUEg4LW1ENWp6QmstQzF5SnB5aW1YMk1BTGZocG1JMk0wY2NLZ0tXeFlPbnd4ems2V1F3N01Vd1BLMzVETjFjNXZCYVcxMXlkSTd3cU1kM1hOeFEyRXA1QjFNczB3?oc=5",
-      "published": "2026-11-02",
-      "ts": "2026-11-02T08:00:00+00:00",
-      "queries": [
-        "Stargate OpenAI data center progress"
       ]
     },
     {
