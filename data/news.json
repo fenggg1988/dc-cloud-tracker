@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-19 08:14 UTC",
+  "updated_at": "2026-11-19 08:29 UTC",
   "count": 120,
   "items": [
     {
@@ -241,16 +241,6 @@
       "ts": "2026-11-18T05:46:41+00:00",
       "queries": [
         "AI infrastructure funding gap"
-      ]
-    },
-    {
-      "title": "Banks Pause $480 Million Chip Loan Tied to China’s ByteDance - Bloomberg",
-      "source": "Bloomberg",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOaUczSzdwaXdfYWhqSVcteGNJLUJoTk1CVUo4OHFOVU03MjVtM3Y1dC1CZF9MRlpwc2djYjV5ZDByWUExcnRVeUl6eDktaUszTTBoX25hSG44bzBZUzdUdHdKbVJUMkJWblJBX085V0dwR25UQS1sVks3WXdQSDBiSjliQnVOdnlwWU1pWms3WUN2dzlHek8wRnhwMF9MVEEyMDJHMWtvT2gxU08wZGFZ?oc=5",
-      "published": "2026-11-18",
-      "ts": "2026-11-18T00:49:00+00:00",
-      "queries": [
-        "data center financing billion"
       ]
     },
     {
@@ -1204,6 +1194,16 @@
       "ts": "2026-08-22T07:00:00+00:00",
       "queries": [
         "GPU purchase Microsoft Amazon Meta Google Oracle"
+      ]
+    },
+    {
+      "title": "US corporate AI debt surge tests investor limits as fatigue emerges - Reuters",
+      "source": "Reuters",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNR0I5VXZyeVp4RlV6cnhVdXFwZ2RNZUU0Q1czQ2c0WkpZUUJuRV9PNEg0VHkzLVlnSUdZMWVOalJzNkNXdlNtamlGSzRLbVRXb0VkVzl3dm5Uc3hPV21Cb3BIdTNyOWZQSDRGQ1ZvV2xUVUZ6eExfeGpRM0hQck8wSDlzR3ViRDJHS25NaGxwNHdVYWN5cHRUcWJvb0hybjRtclNxMFFGT18tMmc2SEw5RFNYb3ZrSWZpS0VYTw?oc=5",
+      "published": "2026-08-21",
+      "ts": "2026-08-21T07:00:00+00:00",
+      "queries": [
+        "AI data center bond issuance"
       ]
     }
   ]
