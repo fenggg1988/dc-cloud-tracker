@@ -1,7 +1,17 @@
 {
-  "updated_at": "2026-11-21 08:26 UTC",
+  "updated_at": "2026-11-21 09:10 UTC",
   "count": 120,
   "items": [
+    {
+      "title": "Key facts: Alphabet raises AI capex; Search slows; FCF turns negative - TradingView",
+      "source": "TradingView",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQT3BwTE81SV9GVWY5V0F3c2M4V2xWdDY0bU1WbUtJNnQxa2pHVXpXUG9XZ3NPZ0dFZUZyRFJkeklvSThKVUt3U2JQVE5wY3Foejk0ZXdDNnNUTzZrRjlSalB2V2xDRk43QVFPYXhXLWplUTFaaldrOVQ0d0paV1B0cVoxUldRc05rLTAtcVNzamY0dHlTekxRTzFSVVNmd1hkT181cXdMc2tIbVZPbDRQcEswZlNwX1VSN2dYODZhaF9ZTS1HbGxn?oc=5",
+      "published": "2026-11-21",
+      "ts": "2026-11-21T08:00:00+00:00",
+      "queries": [
+        "Microsoft OR Amazon OR Google OR Meta data center capex"
+      ]
+    },
     {
       "title": "Apollo, Goldman Sachs lead $44 billion SpaceX GPU debt financing - ET Datacenters",
       "source": "ET Datacenters",
@@ -40,16 +50,6 @@
       "ts": "2026-11-20T19:44:24+00:00",
       "queries": [
         "data center construction gigawatt"
-      ]
-    },
-    {
-      "title": "KKR in Talks to Buy EdgeCore at Valuation of at Least $8 Billion - Bloomberg.com",
-      "source": "Bloomberg.com",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPR0YtX0ZUS3E0OWgzN2Y0TFJGT3dGdWZkcVBSbmxFZlNjYlg1N0IzWXlxbzhmMWhTcUJMQUVzd1diSkg3cmNEM3FPcnZMRHNNbmhhWGp5d1B1eEFibElMSzVMWmpMTERPNXdSbi1uMGViZFVCZTBSRng0VkFEbW9MLXhUenROSjJkSlRua2tiY1JSd1VxZEZOZHMxMzUza0JlTDR4REgwdlI4bWZYVzE0MTBBbGE?oc=5",
-      "published": "2026-11-20",
-      "ts": "2026-11-20T17:19:31+00:00",
-      "queries": [
-        "data center financing billion"
       ]
     },
     {
@@ -250,16 +250,6 @@
       "ts": "2026-11-18T11:11:28+00:00",
       "queries": [
         "AI infrastructure funding gap"
-      ]
-    },
-    {
-      "title": "Goldman Sachs Dramatically Raises AI Financing Forecast to $545 Billion by 2027, Warns of Rising Costs - BigGo Finance",
-      "source": "BigGo Finance",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5TUlRucV9TNUNlc0hWUHUyRHNCZjNzcmZjZVZGWkZHZjV0aVNzMVRDaUhVTVA5eHBCQmhOeElXN1lCZ1NSM0JqSjdFcEJXOGN1N0d0dXNYNFNrREVnUjB1bTdtaVlsS3BVVlJnMG1WckFIaVpZX1E?oc=5",
-      "published": "2026-11-18",
-      "ts": "2026-11-18T11:05:00+00:00",
-      "queries": [
-        "AI data center bond issuance"
       ]
     },
     {
@@ -682,16 +672,6 @@
       "ts": "2026-09-28T07:00:00+00:00",
       "queries": [
         "hyperscaler capex data center"
-      ]
-    },
-    {
-      "title": "The Financing Problem Behind the AI Infrastructure Boom: What Lenders and Sponsors Need to Watch - Legal 500",
-      "source": "Legal 500",
-      "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPbjNNd2s3Y1lZdjJjcjJmRmJIV2Z0Nmx1ZlhydmxUOVEwc0VnLUtERjVPQWV6bUlORzFlTlNLdS12Q01JVVdHaVBlY1F6MzEtMkxsMDRlQl85NjhzT2ZKOXRuc1RhRnRjTDBLOXZxX2NnakFnM3lEOTdNRXctZGoyR3pCdUViak1pV3hPYjJXVTBKb1BFZms1SlVuajJNOGliUzdLYkZnUWJWRjlSdXpISnBEcHFQWHFFNVdQTTZDR010c09aXzRCTjV6NnFBY0xpWUJybkZtRUVJUmVYX2QyUm1USFZMNy05bl9GanVKQ1o2NXhldDdfWU9wUQ?oc=5",
-      "published": "2026-09-28",
-      "ts": "2026-09-28T07:00:00+00:00",
-      "queries": [
-        "AI infrastructure funding gap"
       ]
     },
     {
@@ -1208,6 +1188,26 @@
       "ts": "2026-07-31T07:00:00+00:00",
       "queries": [
         "AI infrastructure funding gap"
+      ]
+    },
+    {
+      "title": "Latham & Watkins Advises on QTS’ Upsized US$3.25 Billion Data Center Financing - Latham & Watkins LLP",
+      "source": "Latham & Watkins LLP",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOcWo4cDBPbnFfM21adDZPV0Zhd0tPNHNoUHQ4d0ZJTXZYNmltaENobGoxdGZINVRYMDRTME1uVmxKLXhWRlhVNFhpOEUtNmVoS0JMTXRRV0Vrem5KS0tfc2JzVGVLdHV0RllpbmFueEw4Zy1mNzI0YndibnNDNVBhTVhHaENScFd2UWNiRzZyOA?oc=5",
+      "published": "2026-07-30",
+      "ts": "2026-07-30T07:00:00+00:00",
+      "queries": [
+        "data center financing billion"
+      ]
+    },
+    {
+      "title": "Exclusive | Banks in Talks to Lend $15 Billion for Anthropic Data Center Backed by Google - WSJ",
+      "source": "WSJ",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQZ3FNemp1LUh3eVZ1Q1FRVTZsLTZ4cE56eXJDX3E1UUZxTVF3UEtZLVhteFgwbkJVTGtJQTZIcTROUGYwellVQnpQVGtWVmNrb0p4NFVPeGxWYy0ySHVHbG9LTUJMc2FRbkRmOWt0NW1RRmp0MzlobXFJeHVyQkRaMjJNN3VWYkFJT09RT2V1bTl1Sy1pb09ORXFkMDNocDNCdzRua3Vld0pHZzgxMHRJ?oc=5",
+      "published": "2026-07-30",
+      "ts": "2026-07-30T07:00:00+00:00",
+      "queries": [
+        "data center financing billion"
       ]
     }
   ]
