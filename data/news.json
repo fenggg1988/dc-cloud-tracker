@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-22 07:41 UTC",
+  "updated_at": "2026-11-22 07:50 UTC",
   "count": 120,
   "items": [
     {
@@ -60,16 +60,6 @@
       "ts": "2026-11-21T08:00:00+00:00",
       "queries": [
         "Microsoft OR Amazon OR Google OR Meta data center capex"
-      ]
-    },
-    {
-      "title": "Apollo, Goldman Sachs lead $44 billion SpaceX GPU debt financing - ET Datacenters",
-      "source": "ET Datacenters",
-      "link": "https://news.google.com/rss/articles/CBMinAJBVV95cUxQLUxVZGU3ZTg2N1A5dnZXbHJUWkNqcFltZmVHMjUyblcwVlVHekxYbktxQVJ6X281QTh0QzZORWIwZW0yX2xfdVJYY0RNT2VwWFhCN2gzQ1VGcWlEeFUyWXlZc21vNmdTZ0JiMUN6cGtfRm8xNDg1cXFJQ1R2WllZN0xrZTdsSTRQbzh4aDhTTmIyV2hMQUtqQWRDNDE5UkJ3RWE2ZWpsRm1WQ1pYY0NuVHlKV1BLNk9YR1N4RUtEMmtnWUdLNUNlU1daV0Z1Q2s2MFUzOWx4MVJzdnV2T3M4RnRFa3RVOWUyTDdocWRLZWJ2SHA1NEkwbWNzWFV0OHlzNGNjdHlxZTBNWkZlZnpFaUVjRjRvbnNWNGVHRNIB6wFBVV95cUxOTW1DdWkxeEtYbFZQbVNKT0loTWt3RWdXNS13NW5MNzRuLW5QQlZLM1YyTF9jMjV5YTdWRV9YSk1HVjliMjlnQi1ENkI2aWxPSWxqeXFIeE96eUVCbUZ2THRRWGZHcUVJOUI2UTVwZ21pdk9JejJiVWgyVnE4WnZicGJwWkVlM2dGaGV3TkZOeUhBS25yZ2dpUjRfcUJtVVBoUmpPcTkxYTg3dmIxRTRYc2drVjQzVU1QcXBLTDQ5bVFCRjZKTlE2MVdlSE9kdldOak5TWXFvMWpJdkFCekk0Q1ViaDBJZGxLOTNr?oc=5",
-      "published": "2026-11-21",
-      "ts": "2026-11-21T06:19:42+00:00",
-      "queries": [
-        "data center financing billion"
       ]
     },
     {
@@ -333,16 +323,6 @@
       ]
     },
     {
-      "title": "OpenAI’s flagship Stargate mega campus nears the finish line - fDi Intelligence",
-      "source": "fDi Intelligence",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOUDlibWNwY1pYcjBNVGNnWGtXMWcwSjVZcXotandYUEg4LW1ENWp6QmstQzF5SnB5aW1YMk1BTGZocG1JMk0wY2NLZ0tXeFlPbnd4ems2V1F3N01Vd1BLMzVETjFjNXZCYVcxMXlkSTd3cU1kM1hOeFEyRXA1QjFNczB3?oc=5",
-      "published": "2026-11-02",
-      "ts": "2026-11-02T08:00:00+00:00",
-      "queries": [
-        "Stargate OpenAI data center progress"
-      ]
-    },
-    {
       "title": "Who Will Pay the $2.6 Trillion AI Infrastructure Bill? - Boston Consulting Group",
       "source": "Boston Consulting Group",
       "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBaUWhMRXRQQlNleE51dy1lNkY4ekRqRFN6ZG94NDE5MXFXMGF1NjF3ckNpZE15UnhMNGpsVFNPTnktT2hYN0xGRTVGWi1qYXJscXYwa3BTUDlldjh2MFNzbVJTcUEtRHozdHlNQ2tIUk1hb1NRaWNR?oc=5",
@@ -545,6 +525,16 @@
       ]
     },
     {
+      "title": "AI Data Centers Cost Billions to Build. This Is Why - Bloomberg",
+      "source": "Bloomberg",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBzUTIzTEVwSDZGRmkxV05DbzBzNERNektBTG5BNzB1NzBxVVNRZXIxOGZkRlhrVUx4SjN5aWJWdzdEZ2s4dEQ1SGdtbmx0eXNtM2VWb2gwcmhacDhzQ1JfN1czbGxKWnpZT3h3TVE2Tlk5RzBTSkE?oc=5",
+      "published": "2026-10-12",
+      "ts": "2026-10-12T07:00:00+00:00",
+      "queries": [
+        "data center construction gigawatt"
+      ]
+    },
+    {
       "title": "AI borrowing slows as investors grow wary of debt binge - Financial Times",
       "source": "Financial Times",
       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPSmdMU0RnR2ZKMjcyckU0andTM3BtOV92NTQxZndtVjVva0JsUzRSRkR4a0JaRUZUTVlGNTBxa3k4N1pfU2kyRlQ3aGFrbHhpVTNlRVd5d213RThxbUV1OThHRFJVLXdNMWgtWE9waGs4UXBPRFRfVlQ4V3FiVmd2RVVzcDM?oc=5",
@@ -733,16 +723,6 @@
       "ts": "2026-09-15T07:00:00+00:00",
       "queries": [
         "AI infrastructure funding gap"
-      ]
-    },
-    {
-      "title": "Oracle tries to appease Stargate data center opponents with renewables push - Ars Technica",
-      "source": "Ars Technica",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNaE1fQThma0dDUWY5RGpOYnpvN2hkUGM1ZDFLN21haGh2Y29ZODI1a1paVkdxUmMyQ0FOaFBvN3duNFFyWXVZcnpYaXdqY05BbkpGR05UMVllZmNISjRDZVUyQWljbGhHVkZoc2FCTVo2RGZ2dVRVMVVWRU54Q2l4bGtMbnl0ZVhaQXhieGhJdkVKRzF0V0JxRTM4YWVCUTd6cXVnUnJGcFlEUzdtdUJJX0RES1p6dw?oc=5",
-      "published": "2026-09-11",
-      "ts": "2026-09-11T07:00:00+00:00",
-      "queries": [
-        "Stargate OpenAI data center progress"
       ]
     },
     {
@@ -1210,6 +1190,26 @@
       "ts": "2026-07-24T07:00:00+00:00",
       "queries": [
         "Oracle CoreWeave data center debt"
+      ]
+    },
+    {
+      "title": "AI's Infrastructure Boom: How Trillion-Dollar Spending Is Changing Credit Risk - Moody's",
+      "source": "Moody's",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNemxzZWhfanI0YlJPSFRDMmhBQ0ZYakhSdUROS2JYT05vbnJ1TXN1dVVFQmd2LWZiS1ZuNG5FUXZMSlZTRnVnd3M3NXBPdkJLbkpRRk1XUWZzQXl6NXdhRGQxVUR2RFNvUk5vNWFvTERlN0diU3N2dGRpYXcybjBFWjhEdnNBdThUdFlDa0lCV09yd05JT21VS3JhVHFDVkNFUXQxODNvY0hObmYyMFZSbzVjb0NuYWozN1V0blZNRDRLZWU0aUxNNzB4bGdQOHlmN1E?oc=5",
+      "published": "2026-07-23",
+      "ts": "2026-07-23T07:00:00+00:00",
+      "queries": [
+        "hyperscaler capex data center"
+      ]
+    },
+    {
+      "title": "Hyperscalers Tap External Financing as AI Capex Outruns Cash Flow - FactSet Insight",
+      "source": "FactSet Insight",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNR0hMdy0xV3ZNRVItNXg1Q2NxU2gxUElXYjVRTXpBZmpkZGFvdmtEdnJaczBOWVVJMXhDU29FY29QeWdScjlNdUxJSm9KbUduajU2TkNyVmVVdjEyRlZXMVVEWVpYRFhIT1ZDdkljUVFXVmliOEFTbnJhRXlQYzVNdVl1Mm55cDlJeXlOTWtSdkNQckJzN0JybtIBqAFBVV95cUxPVndlUG5sajYtdkFGMEg4WHd3Xy1yVlA4dHdzaUdaNzhUZTFZSGRIQkZsb0VnYWZPbnhHLTNZa0tPR2thYnMtekFWNk5TSGtyaEtJaVhFRy1HdVpyaVhjdHVRMFJDSkg0cnJYY1FVWnpNUjR6eHFHTks4c3Jhc21TNE93aWpHblEwT2ZiOUhsTlZ2bThwQTdBTXM5QnBUbEFIYWhfbFlIQno?oc=5",
+      "published": "2026-07-23",
+      "ts": "2026-07-23T07:00:00+00:00",
+      "queries": [
+        "hyperscaler capex data center"
       ]
     }
   ]
