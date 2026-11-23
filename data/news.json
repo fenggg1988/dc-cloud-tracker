@@ -1,7 +1,17 @@
 {
-  "updated_at": "2026-11-23 04:53 UTC",
+  "updated_at": "2026-11-23 08:27 UTC",
   "count": 120,
   "items": [
+    {
+      "title": "Blue Owl Closes $780 Million Deal for 54-Megawatt Data Center in Northern Virginia - CommercialCafe",
+      "source": "CommercialCafe",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOZS1Ha2UzYnM1V0VwemxPRVlqWWdVQ1BZVU9tY1NNWlpKaUJtbGNvLVFkcm5Hb2dDS3hxdk15SXRKeXRLRHdjN0Fqal81LVhfWm9Sb21VWTZxWE82R1JXSDVzdWhHZWVqcFBWQzMybHVOQmFaNkk2UjJ4ZUFsRlQzcHdHQzBTalZSTXpHRkJaZVA?oc=5",
+      "published": "2026-11-23",
+      "ts": "2026-11-23T04:52:47+00:00",
+      "queries": [
+        "data center financing billion"
+      ]
+    },
     {
       "title": "Musk Warns AI Sector Faces Hundreds of Billions in Cash Shortfall as Data Center Buildout Lags - BigGo Finance",
       "source": "BigGo Finance",
@@ -13,7 +23,17 @@
       ]
     },
     {
-      "title": "Lenders back SpaceX's $43 billion Nvidia GPU deal but worry the collateral could end up in orbit, making it impossible to reclaim if Musk defaults — five-year 'hell-or-high-water' lease may lack a written Earth-only guarantee - Tom's Hardware",
+      "title": "How Amazon Plays the Long, Expensive Data Center Game That Neoclouds Can’t - The Information",
+      "source": "The Information",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxORkt3LUxXYjZSOEgweWR3SHowTnJQd19PNVE3NnRVaHhhcDBQNC1vaXVibjRKRDBUVF84dEhJcDN1MTlsX1A4Q0hZelo3RmtMelhhM3lhbmtOZUNSc3VfWGRNdDNfRVQ5LXRwN01nc1lsVVNxdk9GQXYxUTNJY2EtSUFrTnpuekItcEowd0Jod3lkODNQS04wQWgwVUszd1ppem8yelZydTdKSFozamdVaGY2V0FhQQ?oc=5",
+      "published": "2026-11-22",
+      "ts": "2026-11-22T18:18:00+00:00",
+      "queries": [
+        "data center construction gigawatt"
+      ]
+    },
+    {
+      "title": "Lenders back SpaceX's $43 billion Nvidia GPU deal but worry the collateral could end up in orbit, making them impossible to reclaim if Musk defaults — five-year 'hell-or-high-water' lease may lack a written Earth-only guarantee - Tom's Hardware",
       "source": "Tom's Hardware",
       "link": "https://news.google.com/rss/articles/CBMijgNBVV95cUxQbzd2d0p5cWMyX3ZMd19ZV0ZnYWhLSlZSMlpIbUVtM0c2UmVHS2JUNW9EeHcya3NzUEJMaVdHNkQ3VmNxeWlET3diWjBYV3Y1c1JHUkJTWjZkbVZ0ZldpSDJNYlZqVXIxSXF3c0hhb0lQOVRvWWkwSEJNWlhDODQ2R2NwTE96eHJ4dGdXd21qNHRPcjh1eXJyRTk3b2tBay1ILWlrNnFvWTdWOHV0RTNOOUpkY0ZGTHJBVXVkYUlNdGw2a1B2alNjZFZ4VWQxWk5CcWFxaXpHQU41dldOb052QTNGanhPLXVHUENXX0g1RWJLR2JFM29GV1dia2x1MDF3b213SUZzeVgzQklzZWtyUlhiRVlmeFJxV3NZbm9LQlhpVkZTN2R5dlVuT09WTjc5UUtJUFNNUk1icjU0QUZYc3Fqbmtha2VxVzNma2JBN3lxNlVpOTRFU0ZOSVhhcFVrNXFqazZ2OVJreU5CSXdWNVJHTTdJd2lnM2RsZHBvcDdkVkNrQlBVZmVZbTgtdw?oc=5",
       "published": "2026-11-22",
@@ -40,16 +60,6 @@
       "ts": "2026-11-21T15:09:51+00:00",
       "queries": [
         "AI data center bond issuance"
-      ]
-    },
-    {
-      "title": "Oracle Says OpenAI Data Center Expansion Is Fully Funded After $20bn Capital Raise - Tekedia",
-      "source": "Tekedia",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOa2ZMSzdJaHRyMXJvbGZwX0NodDN2cUtCR1lIT3BaaG05Mm55YVdNanlGdWlfNFByWVpPR3NhVEhLLUowLVVodjZaVFFnTVR4RVByRU5LZlJvRDg1SjdmNm12c1Y1NkxJUmFvR1hnZENDWjRRMm5wdGtiQmRySm5EeUpKS21WbnJOakN3S1Q1UWp4V2pjSGNzV09qb29vV3R3OG9zWGRuWHNxdw?oc=5",
-      "published": "2026-11-21",
-      "ts": "2026-11-21T15:06:18+00:00",
-      "queries": [
-        "AI infrastructure funding gap"
       ]
     },
     {
@@ -163,11 +173,11 @@
       ]
     },
     {
-      "title": "Amazon’s CEO Says Pulling Back on Data Centers Would Be a “Historic Mistake” - 24/7 Wall St.",
-      "source": "24/7 Wall St.",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOeTd3NmpNLTBaUFl2WktETW5WSENpNU42RXJSRDd2XzBITHNXcHRKYkg5OG1MVXVMQzV2MGtOLUdrdFpNZkNmSFFtMjM5R3JvTWkwUG00R2JONWN2LW5LWXQ1NEVWaUJLazIyUUowM0VseWtzbHVPSFgxcFJydVlDVWFpS2xIVWEzbERUWHFzYVVoYTd3OUpMUHBmMV9yUi1QRXR0TGp5NFpZMEd6UVJ2OHhlYV8tRzlX?oc=5",
+      "title": "Amazon’s CEO Says Pulling Back on Data Centers Would Be a “Historic Mistake” - Yahoo Finance",
+      "source": "Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNN1g4SDNaZTNsZll6R01uZjVGckhZb1B3M2p0Q2dKa0NPQ1oyYUFaRnpFSFMwSTNINWNuS3VSZThkOEE0b3ZFTTB6RGtnb0VLanQwZ25ibmlCem13NS1rbFdCZkR2TWZ0dDZPZ2Fya1BLMVpTaThHa1ZTWllpa25yM2NQN1dYLVBIY0V1MDNJVVVWdFd5eTdJ?oc=5",
       "published": "2026-11-18",
-      "ts": "2026-11-18T16:03:00+00:00",
+      "ts": "2026-11-18T16:03:20+00:00",
       "queries": [
         "Microsoft OR Amazon OR Google OR Meta data center capex"
       ]
@@ -260,16 +270,6 @@
       "ts": "2026-11-02T08:00:00+00:00",
       "queries": [
         "Oracle CoreWeave data center debt"
-      ]
-    },
-    {
-      "title": "OpenAI’s flagship Stargate mega campus nears the finish line - fDi Intelligence",
-      "source": "fDi Intelligence",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOUDlibWNwY1pYcjBNVGNnWGtXMWcwSjVZcXotandYUEg4LW1ENWp6QmstQzF5SnB5aW1YMk1BTGZocG1JMk0wY2NLZ0tXeFlPbnd4ems2V1F3N01Vd1BLMzVETjFjNXZCYVcxMXlkSTd3cU1kM1hOeFEyRXA1QjFNczB3?oc=5",
-      "published": "2026-11-02",
-      "ts": "2026-11-02T08:00:00+00:00",
-      "queries": [
-        "Stargate OpenAI data center progress"
       ]
     },
     {
@@ -655,16 +655,6 @@
       ]
     },
     {
-      "title": "Oracle tries to appease Stargate data center opponents with renewables push - Ars Technica",
-      "source": "Ars Technica",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNaE1fQThma0dDUWY5RGpOYnpvN2hkUGM1ZDFLN21haGh2Y29ZODI1a1paVkdxUmMyQ0FOaFBvN3duNFFyWXVZcnpYaXdqY05BbkpGR05UMVllZmNISjRDZVUyQWljbGhHVkZoc2FCTVo2RGZ2dVRVMVVWRU54Q2l4bGtMbnl0ZVhaQXhieGhJdkVKRzF0V0JxRTM4YWVCUTd6cXVnUnJGcFlEUzdtdUJJX0RES1p6dw?oc=5",
-      "published": "2026-09-11",
-      "ts": "2026-09-11T07:00:00+00:00",
-      "queries": [
-        "Stargate OpenAI data center progress"
-      ]
-    },
-    {
       "title": "How can Europe address its pressing AI compute infrastructure shortfall? - Bruegel",
       "source": "Bruegel",
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNZ2VnU2RMNVZBV1FucUJwc2RJOF9BLUpPVjdGbnk1SHYyY3lwNGpQdmg1cTVYN0M5Vzd4V0JwcDhLelBVYmxIRFRQMEwyR2ZfNnBRdFhaZGRGbGFQNlk5VVo2Um5kZUxlcHctWXdXQkdNRi1QSkloeVk1WVdtRFc5bFlPS3RONW9KQ3VzLW5PVUQ4eW1HMXhfSU1nTkk1U2lYZzZBdTNpSkhGNmVn?oc=5",
@@ -690,6 +680,16 @@
       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPU1JtM2RLNDlCV3FXUlRwXy14bmJZQ3FLUVhwN1RYNldMazFaa1Vha1NqV2YtWnFBczJHU0JhSmgwRjBad0IzVzVGV05GQUVCN0dnbzFxWkR0VlhxTm5VMFlKRUlma05zakpubVF0VmhITUF3cnh3OVYxdjQ2UUM4VXVuTkUxOGl1SDFJc1dlUk56UG5LbF90LTVsUm1YcUphWWJ2RndMZGZPempoRnlxcWhUWTlYV3NDX2c?oc=5",
       "published": "2026-09-09",
       "ts": "2026-09-09T07:00:00+00:00",
+      "queries": [
+        "Stargate OpenAI data center progress"
+      ]
+    },
+    {
+      "title": "OpenAI's Stargate project in Korea stuck at starting gate as Samsung, SK report little progress - Korea JoongAng Daily",
+      "source": "Korea JoongAng Daily",
+      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPUEQyYjVLcEtFZ0RWem9zc1FXWW5nU0F5QTJyN0Ryb05YUGFWU0F3eXp5dGFjTlYxR1VWVHFIeG13Ykx3NzZnd0FxYVo4SGJHcHBSdzNnSHViV0EyaURSdjlpMHljVndJTzF1WlFoN214YnN6RlJvZDdua1F0Z2xCaE5QdDNiNTZseFZnZVk3emN0Q1Q1cXZTUGlJOE5HTDE4TUlPUDVGR2hwalVZV2FGb1VEOFBTSWR0dW5jeFdTMFp1NUJGSE54eXNxc3BhRkZVTjVPVEsxc2ZUMUFkZFFN?oc=5",
+      "published": "2026-09-07",
+      "ts": "2026-09-07T07:00:00+00:00",
       "queries": [
         "Stargate OpenAI data center progress"
       ]
@@ -1001,16 +1001,6 @@
       ]
     },
     {
-      "title": "After a nearly 1,000% surge, the AI debt orgy can’t last forever, while hidden borrowing has exploded to $1.65 trillion - Fortune",
-      "source": "Fortune",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQT1psYlJRWjJINU5IWnZzTzJTTzhvQzZtdVVlV0stMmE1LUYzVVVYTXFsZVJkeHdCS3dXQUJhQ2tQM0ZuVGJzcFZ6SEhwcnZ0Vml6enN0dklUNVF1UUtPN3R1elg0ak10dDRmeElBNExXVV9GbUFBX25HQi1oNHZWZnZFdU1YX1M0LW5JLTdrS0xwRTBIMzNhbUFwLXhIRmtuc1JUeEl4WVk?oc=5",
-      "published": "2026-07-31",
-      "ts": "2026-07-31T07:00:00+00:00",
-      "queries": [
-        "AI data center bond issuance"
-      ]
-    },
-    {
       "title": "Amazon Lifts 2026 AI Capex to $220B, Still Capacity-Constrained - Data Center Knowledge",
       "source": "Data Center Knowledge",
       "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNU004dGJtU0c4Z2lmMmdONnEtd0NsZGotNTBWVG5wNlNyYlBPYWxhN3NaenNzdG05YWt4SUJGdWhXUUJlTV9rY1Y4dGdLcVVpQV9MNXNJSldtUTJsSVIyYkF4Z3hDWnFNdlZ5SXA4cW5HRXZFQ3ExdHhXUWYtUWlfaV9ET29NN1A4UnZqSThTVnozT3BUbkFkVGE2aFhVMW9SRlBOaU5OcnUwQlNwSHQ4eG1xUDBXZ3l1blB6aVhWTzBUeUs5?oc=5",
@@ -1044,6 +1034,16 @@
       "title": "Exclusive | Banks in Talks to Lend $15 Billion for Anthropic Data Center Backed by Google - WSJ",
       "source": "WSJ",
       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQZ3FNemp1LUh3eVZ1Q1FRVTZsLTZ4cE56eXJDX3E1UUZxTVF3UEtZLVhteFgwbkJVTGtJQTZIcTROUGYwellVQnpQVGtWVmNrb0p4NFVPeGxWYy0ySHVHbG9LTUJMc2FRbkRmOWt0NW1RRmp0MzlobXFJeHVyQkRaMjJNN3VWYkFJT09RT2V1bTl1Sy1pb09ORXFkMDNocDNCdzRua3Vld0pHZzgxMHRJ?oc=5",
+      "published": "2026-07-30",
+      "ts": "2026-07-30T07:00:00+00:00",
+      "queries": [
+        "data center financing billion"
+      ]
+    },
+    {
+      "title": "Banks in talks to lend $15 billion for Anthropic data center backed by Google, WSJ reports - Reuters",
+      "source": "Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOLU9ob1o4VENpUVhkRzJQaDBnMERzSE9yTFZSU1ZiWlBCMEh1RHFiZHJpeHlpRmdwQ3dQQlpjR2cxUlJNWUYzRjhNaURkejRUMV91dFJJeGVhVHM4anhWNTE2Yjh0MnVJUjJmWG9JcDE0bkh2R3k2UVZ0WGhtWTZ1aDdTblBPZUNGWGZaWHNaX19sV3pZYzk0elhPN3hENC1CdklPemhZVGpGdUhRQlRLb256WkxfWUh1MWV1UWt1Nkp4bTZxOUpfc2pyYw?oc=5",
       "published": "2026-07-30",
       "ts": "2026-07-30T07:00:00+00:00",
       "queries": [
