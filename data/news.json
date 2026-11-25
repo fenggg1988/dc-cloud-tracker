@@ -1,7 +1,17 @@
 {
-  "updated_at": "2026-11-25 09:38 UTC",
+  "updated_at": "2026-11-25 09:59 UTC",
   "count": 120,
   "items": [
+    {
+      "title": "IREN Slides to 16-Month Low as $15 Billion AI Buildout Outruns Its Funding - BigGo Finance",
+      "source": "BigGo Finance",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5sRXdia3lmQ2tZMmFsWlc5TURza3h1ek5jWTJTWGFWVDVobGM4dXRKa0FTbGZmVU5URDhQcUFTRHhTSURucDMzbjREbHBaTHJDR2dwRVo2d2NGMWxpeEJIR0d5cVZWbDc2M0wwSk85U0swN2puUmc?oc=5",
+      "published": "2026-11-25",
+      "ts": "2026-11-25T09:15:00+00:00",
+      "queries": [
+        "data center financing billion"
+      ]
+    },
     {
       "title": "IREN Selloff Draws Attention: Grant Cardone Joins Retail Bulls Asking Where The Bottom Is - TradingView",
       "source": "TradingView",
@@ -63,14 +73,23 @@
       ]
     },
     {
+      "title": "DATA CENTRES: Alberta May See ‘Gigawatt-Scale’ AI Data Centres Under Construction This Year - EnergyNow",
+      "source": "EnergyNow",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNVHVkaGNLYmRZZ2NqUm1DakVZNjltZDVsaGJjNGtzai1jaWVxY2lYMjlpRndMNWItdHdPeEJyelFSMU1KTlJ1OTVWUE1TYW00N0NpNXZTZlNyZVZBTkpBa0F6T0JWS2JnRWJmVnJxNG4wV3dhNVcxZjBvaU0tbEpCTk5YY3huQklCN09DdzdwWnBsd0RfcUtjMDBLeU5HcHNQX1ZqZEdWeDE?oc=5",
+      "published": "2026-11-24",
+      "ts": "2026-11-24T12:58:36+00:00",
+      "queries": [
+        "data center construction gigawatt"
+      ]
+    },
+    {
       "title": "AI Reshapes Financial Markets... Data Center PF Shrinks as Semiconductor Financing Reaches 490 Trillion Won [fn Market Watch] - 파이낸셜뉴스",
       "source": "파이낸셜뉴스",
       "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFAtUW9uTTllZjZiQ29ZaWZzaVppTlpNb2d3NWhCbzZ4SlJoUWIzOWVfcVhNUjRsa1pvYWRudmtTWHVOMF9paFlSWHk4emtJOFN3a1BWTlhpNWk?oc=5",
       "published": "2026-11-24",
       "ts": "2026-11-24T07:55:57+00:00",
       "queries": [
-        "AI data center bond issuance",
-        "data center financing billion"
+        "AI data center bond issuance"
       ]
     },
     {
@@ -94,16 +113,6 @@
       ]
     },
     {
-      "title": "Nvidia Shares Surge 31.5% as Jensen Huang Returns as CEO - 조선일보",
-      "source": "조선일보",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNNnJCR0pFSmhaZlBfM1NhSl9iMm81UXZGaGZiZEFmR0hBOEdoNlFxU1Q3dUt1N2YzMVoxS05xQjlfcGplRWMtTkVBNFZzbTBHX0tWUmoxMGpZZFQxMjIxYVlqQUtGbF9kVk56cHY4RW5GM0JHRHA3WGppMUU1RlppRzR1MW1uem5k?oc=5",
-      "published": "2026-11-24",
-      "ts": "2026-11-24T01:49:41+00:00",
-      "queries": [
-        "GPU purchase Microsoft Amazon Meta Google Oracle"
-      ]
-    },
-    {
       "title": "Meritz Securities: Don't Buy Semiconductor Stocks Just Because They're Cheap — AI Funding Gap Is the Bottleneck - BigGo Finance",
       "source": "BigGo Finance",
       "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFAwcFdyQ3ptYU1nY2RWeTV4RzR1NXkxUGRxV2VJcTNWbk9WY1h6X2Y5NnlJdFEwcUxmYjhDYzdsMjQ1Skx6aHpRWUlVMU5xZjcyNXFJakNEd3k2ZjNKYkg2c1VvbHNHY2V5YWxUeXNQUldnWVRJOGc?oc=5",
@@ -121,26 +130,6 @@
       "ts": "2026-11-23T18:08:00+00:00",
       "queries": [
         "data center construction gigawatt"
-      ]
-    },
-    {
-      "title": "Applied Digital signs a $5.4 billion, 150 MW data center lease with an unnamed hyperscaler - MLQ.ai",
-      "source": "MLQ.ai",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxONEhla29nd0o4NzA4UVM4MUxwTW1YdVlCT3QyVDYwbkpOV1F2a2RGQVFTRkt0YnR1ZWtNY0d6cWFTYTFySDZZLTNMXzk0cXJPRVkwcEx2WDdyM3J6dHhDVzBoZzdUekR4SzNjUGowVTgxdzVGYVZnQmdFdzgxdHMxdnh6ZndLVnNmcm5TOV9yUkZnXzBCc3VBdFRkRlNGdlZXWDZGb3RwTEszU0Ux?oc=5",
-      "published": "2026-11-23",
-      "ts": "2026-11-23T16:05:25+00:00",
-      "queries": [
-        "data center financing billion"
-      ]
-    },
-    {
-      "title": "SpaceX's $44 billion Nvidia chip financing prices, but lenders worry the collateral could end up in orbit - MLQ.ai",
-      "source": "MLQ.ai",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPRnkwdmlmbUk1bkpDcVlCWXBCdFZ0QkRVNG9RUXVac2pLNFhlcGpudUFYS0Vra3JmVG14ZEpwUE5pMFkxMExGZDFXRmVBV2FfWl93eUJWalpVLWpfeC00MmR6eE40X1NubXRaeTdfUENFM3AtT1lIRFVrT05vS3UwRC1sWlM0LVVJRjNhZllOT19WejVwYUxJWnYzMC0zOHFZUEdTZG50QklRNlN5bDlua0hFRV9LVDZPSjRudHRJY2U?oc=5",
-      "published": "2026-11-23",
-      "ts": "2026-11-23T15:50:25+00:00",
-      "queries": [
-        "data center financing billion"
       ]
     },
     {
@@ -274,13 +263,43 @@
       ]
     },
     {
-      "title": "AI Stocks' Wild Ride Gets Bumpier As Nvidia Chaos, Blue Tsunami Spook Investors - Investor's Business Daily",
-      "source": "Investor's Business Daily",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNU291OEFTamphSmg2LXZBUzlrbzJzelRKUnZ0bEd6cTE1dFBWd1V4Xzk0RE1lOVBzTUprLUpDODVHb1J5RWNoT2FzODVnR2Fzd2tpb0NjckNxZlhMWXMzSGdjc2tadFFxREd3eFF6TDktOHRXZnNTMmJ6UEUxemNwdWNoMXNYWE5GY1piNlJxT0ZGaWRjR3pLSjNEekUxR251elAwWWdn?oc=5",
+      "title": "SemiAnalysis's Dylan Patel: Permits, Not Chips, Are Pushing Gigawatts of AI Data Centers Into 2028 - BigGo Finance",
+      "source": "BigGo Finance",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA0LXdCblMyTmxWZVg2V3MtZFRyMzd3ODhlZFlzU2d5cEJYeUxVcHRVZzRZUGxGSzhlS3VSamVDTzRZR0JjNWIwLTRPajc4SkdITjRVMnFUQW5WelE?oc=5",
       "published": "2026-11-20",
-      "ts": "2026-11-20T16:52:00+00:00",
+      "ts": "2026-11-20T14:55:41+00:00",
       "queries": [
-        "GPU purchase Microsoft Amazon Meta Google Oracle"
+        "data center construction gigawatt"
+      ]
+    },
+    {
+      "title": "AI Infrastructure Boom Pushes European Bond Issuance Past €2 Trillion for First Time, Setting Record - BigGo Finance",
+      "source": "BigGo Finance",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE05THUzWVY5YlV3TFN0MmRrOWNCTThYV1BoUWdHMjRCeXIyNGszRWdDTmhETzVUS09uY1o3Z3FlQzJoMFZFTFA3YWlGdl9ZLVQ4eU9hUFoxRGFyVFpBeklHbmlndnZodW1uVy14MmJQZXc0cms1b2c?oc=5",
+      "published": "2026-11-20",
+      "ts": "2026-11-20T11:26:00+00:00",
+      "queries": [
+        "AI data center bond issuance"
+      ]
+    },
+    {
+      "title": "Nvidia’s $228 Billion Data Center Bet: Three Things to Know - BloombergNEF",
+      "source": "BloombergNEF",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOTVdHd1V2a3IybElrbTBrZlBhX0Z4ODlON2MwWmdFQ2tfNmhnMU83UnFCN3p4UGdyUmRxQjN4WnAzZDdoWTd4SmJHOGhoTjFKdzAxUVdiM3d0aUJORHFVUkR1b3FRUmdoUEN4S2UwNEUxTG5rNGFSRXc4MmNzdlR5REx0UU05SXBXaVkxUEp5VkpWdHEzQ0JMYjJJal9UbE5HRlp4WA?oc=5",
+      "published": "2026-11-20",
+      "ts": "2026-11-20T09:11:46+00:00",
+      "queries": [
+        "data center financing billion"
+      ]
+    },
+    {
+      "title": "Financing Compute: The $1.8 Trillion Bet on AI Data Centers - BloombergNEF",
+      "source": "BloombergNEF",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQM0xXZlpmUGxDdThWVEtlV0RmSzhGM2phaFRvOG5adzRuZW51SkdLbkV3dFl6MVItY3RvVFREMVEzbHpJRDJaRGdyaGpsak85RjgzZnFubU5pbTZ4U3pNb0lHQ2dNamIzcWFSdjJWV0tEM3RHSkdYRHdLV2hWd3lwVkc1OFBWRkNnV29PQjFLdGtuZ0V0eDVNNFhLWXFoRmpjemthVGF3?oc=5",
+      "published": "2026-11-19",
+      "ts": "2026-11-19T22:20:14+00:00",
+      "queries": [
+        "data center financing billion"
       ]
     },
     {
@@ -294,6 +313,16 @@
       ]
     },
     {
+      "title": "Nuveen Launches AI Bond ETF as Big Tech Borrowing Climbs - ETF Trends",
+      "source": "ETF Trends",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPT3poNWVpQ1hNSDJxR3I1NGh2VklXVTBaWkVETWgtaV8yMl96bWZyd1NhUV84YkdBMlNobVU2TkF5M0p5WjEwMGxPVTRxcUFZOU9xb2dCM2ZENi1GaXVGdHdiZ2haSlM1Q3g3YjVqYUZNZUs2UFRkLS1raVNhUDVBMEJxTEN2OTF4dHRIalVLZkxtNGdhajNWWkJUMFNDVHFsWWZ2ZlJ1NWjSAa4BQVVfeXFMT2JLNklkcE16Q0hnNzlhLXVvaWt4dEEtVm5IbXF2c0FEY21uWGpydXVMd2ZDSW03MTM4WDlGVjNBbzF0Zm5WRmRmNC14NkdCbndKelViTE9pVEp3VnJHaWh0aUVYTi12SDBiTDhVa3p3MHdNVlhJMTZrUzNCUGZyWndPZDFXenRWNUZjbU9nd0JZOFNoS1Y3VlczbjctOXc5bjZiMnpqUUJVWkh1QTRn?oc=5",
+      "published": "2026-11-19",
+      "ts": "2026-11-19T18:20:45+00:00",
+      "queries": [
+        "AI data center bond issuance"
+      ]
+    },
+    {
       "title": "Bitcoin Mining Company Dumps Final BTC as $75M AI Funding Gap Looms - Bitcoinist.com",
       "source": "Bitcoinist.com",
       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPbG5yZElQRGoyMENUS0lwRERxX1ptS3Rael9xVUFRU25hQ3JZMlZZNEFONnVXanVXNHUxdFNnRjFOOWRlcjV6a2VORjN4elphY3lPQWlHMXZEQnN5RXNnbVQ2LXF0ZG83WEtpNXZKN1RIZEtZcml6d1M1NW42a0dULWxEa245d1h6TjJzMmlTZzBqelo30gGaAUFVX3lxTE1JWVhLaGM3bDEzNlRabGVhc29RMW9ENjZza09zOU9BaTUtUDhfWFNEQ2FWZG5yWk5LRVMwbk0za01xQ3A3NG5TX292R21DVzdTcVUxN0hzUXQ0SmVnYmtwemMycTQ5VG5qbzZEODdMNUE2Q1dDV2pqT3haeDNyTXlNY0tSNTk0VW41UGhLZE53bGZZR2JXcGJ2bHc?oc=5",
@@ -304,6 +333,16 @@
       ]
     },
     {
+      "title": "The Bond Market’s Surprising Take on the AI Trade - WSJ",
+      "source": "WSJ",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPM2xMWEY1STg1NndVTGM0aVRTSGFkb1FkWjRaRDJ2ZExWNVdIRUR0WG1JN1Ftb0hmRnJoSDQzNGlEX19aTVB3THpWNkpyeTZWR01fMlh6dkU4eTJ0ZENjc29RaEo0VkhxRng2V1lwdkM4S2E0TXZoMC02VTFGMkExdWtzZ1g5dVh6OEZSQVBfSmt0V01PSXNjX2lQSQ?oc=5",
+      "published": "2026-11-19",
+      "ts": "2026-11-19T11:26:00+00:00",
+      "queries": [
+        "AI data center bond issuance"
+      ]
+    },
+    {
       "title": "Hyperscale Data Revenue Rises 84% as AI Buildout Faces Funding Gap - Securities.io",
       "source": "Securities.io",
       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQTTVENnQ4d3kxZVlzX1BmQTMxSmRESkwxOVBwVXpUZ3NWdVI1MDFwQm1UVGlOMUVVU19aa0NWSGl0SFRaSGpaU3MzUVVsRS1GZDZLaThUeTExQkoyUV9PN2RCY2hfaWkyVDlXamM0QlN5QVpGUVRDTlBXMHVadGlzNWNLWkxYNGdwajQ2UENPaEFmdTVVeTlF?oc=5",
@@ -311,6 +350,16 @@
       "ts": "2026-11-19T11:25:01+00:00",
       "queries": [
         "AI infrastructure funding gap"
+      ]
+    },
+    {
+      "title": "AI Giants Cross Borders to Issue Debt, Reshaping Swiss Franc Bond Market as Single-Deal Sizes Surge Tenfold, Raising Crowding-Out Concerns - BigGo Finance",
+      "source": "BigGo Finance",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1YOXZ1d2g2XzlyVGcwTVViVVU2SG5lT2JzeGQ2bkRONHRmWGpxbkFTcVVGY0lnM2h1d05wTnpBOTF2YUVxN2kwQnZSUkw0YTFJMDI1NUdzUlp5V0l4U0dTQ3d3WFhCVHY4VS1Va1E1T2ZvOWtBN3c?oc=5",
+      "published": "2026-11-19",
+      "ts": "2026-11-19T04:06:00+00:00",
+      "queries": [
+        "AI data center bond issuance"
       ]
     },
     {
@@ -334,6 +383,16 @@
       ]
     },
     {
+      "title": "How JPMorgan, Citi Missed Megaspeed Risks in a $2.8 Billion Data Center Loan - The Information",
+      "source": "The Information",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNTmUwRDdGeEdOYnI0Q0RzZ2s5cE1fWDQwTTdWTGZ3dG1iamtVU3c2SXlTSnBadFh6eWZfTGRUWXVjcDB2RWs4T1FQNENfeERKbTNqQmZzQm9VNDk3Wm9VblVqcEhDQkJZQ2ZIa25FeGVhcmp2NVlPQm5zVzFadnRfbnB2Vjd1WmZINUdDZFhZdzMxU2xXVmUwLVpVTUR3LU0tQnUtZnU5OUc?oc=5",
+      "published": "2026-11-17",
+      "ts": "2026-11-17T21:32:00+00:00",
+      "queries": [
+        "data center financing billion"
+      ]
+    },
+    {
       "title": "Intel's 13F Reveals a 1.29 Million-Share IREN Stake — While a $6 Billion Funding Gap Waits in the - ad-hoc-news.de",
       "source": "ad-hoc-news.de",
       "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQSlYwTHZGbWlDYXBwWEJCcEE3V0txeVdwQV81ZFRadEM3ZUxhVGtMbUt5T2xrNXlxLUZ3aEp1QWEwX2tpT2lXZFMyUzk2Um1iU3Y5QnhGX2l3NzFkdkVvSDBDaDVGbUxhNmQtd2xwUHkzazRwYV9iVTdDN3dzMUNoLTRjNWVCal9leXBwLWFUWkpWSUxvLVJqbHZ1ZXh2YWJHakw2ZXp5MDAyMVNxcUczYV93SGNES2tXR1RIVkJLNzEyb0RNbWJZb0RDb1ZOQ1FaU052OFhNdlgzRm5wTmRocmZUeDdxTS1fZEFjYVRJWS1oQWIzVGo2eFdXeWdyZjNqNFE?oc=5",
@@ -341,6 +400,26 @@
       "ts": "2026-11-17T18:50:37+00:00",
       "queries": [
         "AI infrastructure funding gap"
+      ]
+    },
+    {
+      "title": "Pimco Says AI Bond Spreads May Tighten as Data Center Boom Slows - Bloomberg.com",
+      "source": "Bloomberg.com",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQQWFtM196eHg4TkRoTE9kMk9aQXQ0aGpJN1MydkZoQmpTS1BCeHhDLUN0ZmZscjh5aWhTWEVYX0tIN19uaEQ0MUV0NVF2TGVmUHdwQVRQQllCQzdCY0ZtR0FuVHRGbkFBdWhoU0NBeDlNSUxyUFFMNWFXSDJDWXZLTlpHSFFlTzF3aXpESDBTblM3Z3pDcU5EaHFUVE42QkR5LTA3RkdYdkV3VGY4emhFLVl2WDFHQQ?oc=5",
+      "published": "2026-11-17",
+      "ts": "2026-11-17T09:33:48+00:00",
+      "queries": [
+        "AI data center bond issuance"
+      ]
+    },
+    {
+      "title": "PIMCO: As the data center construction boom cools, AI bond spreads may narrow - Moomoo",
+      "source": "Moomoo",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPWXhmNzVHQmJRMUFZQXJNaDVYangxZW9Wajd3d1FoMUhUVGxua2xMMlM0MEVqd2dMWGxIdkl3WEpsM3BRanMzalZzbXBTMU01ekdnVzdmZnhnN2x6MkRxVEpTeWxwcG82d0NVOUdKMU05UnNHdVlxVDJuSWtZMm5zY0tNbW9rUEx0NGxlTGl0d2Vlc3laclpTVnlVZzJJMmtJWUE?oc=5",
+      "published": "2026-11-17",
+      "ts": "2026-11-17T06:19:39+00:00",
+      "queries": [
+        "AI data center bond issuance"
       ]
     },
     {
@@ -354,6 +433,46 @@
       ]
     },
     {
+      "title": "Fed Financial Stability Report: AI Data Center Debt Hits 31% of Investment-Grade Issuance - Tech Times",
+      "source": "Tech Times",
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOaDR1YkV0QU1vdHc2S3FpZzNjaHpkUkNBeDVoeno1eEZTY3hCcEhhUjVPbkRaLXRHSWdMWnRGUU81RHcwdlBncmNvRmpQWFVTaFhKSVBkRG94eHRQM1VFMDlVQXp5SGhZNmpnTXQ0LVlCQVR2dU4xbEpBTXdoaE1JOHdFQlJ1NHZTUG8tZTZxTXRNNXNkMDc4VENodERJRXNoZVE4YzBnMnl1NUlBRHNCNG1lWlNCSW1RY2ZpZk1CckFuSS1HUk5Qb0RCYnJNdUZwWUt5RzVB?oc=5",
+      "published": "2026-11-16",
+      "ts": "2026-11-16T11:04:52+00:00",
+      "queries": [
+        "AI data center bond issuance"
+      ]
+    },
+    {
+      "title": "HSBC Sold $300 Million Troubled Data Center Loan at Discount - Bloomberg.com",
+      "source": "Bloomberg.com",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQeUdDXzVqbUpCb3VibUI5M1JDbWEwcnZFVUdQT05zQWxfNHRIQVkzTUZ4YVhfS2hKSzdkRm1yRzkxaHRkZGxpem1COVNEQk80VFhhSmFqTnNzc2owM0NlUTc1dXoxRE9mNmI1alZUSWh6ZWhFRjVCV0tYSkF0bnBqVUJhY0UxZE9qbjhubXFJMS1wc1g1VWdqZWhkaHQ2UkpkVGZIOGlYeExRbzV1cHNR?oc=5",
+      "published": "2026-11-16",
+      "ts": "2026-11-16T08:00:00+00:00",
+      "queries": [
+        "data center financing billion"
+      ]
+    },
+    {
+      "title": "HSBC offloads $300 million troubled AI data center loan at steep discount - report - Yahoo Finance UK",
+      "source": "Yahoo Finance UK",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNejF4NVRLTVBMODFaOXV3Z1RndTVXd05TcVYwM0QxZm1pNzhwcHBIOHBwbHpzbGxJWGo4YVFrN3hoeUlEV3NHR0FJVE9QRExyZkhPSXg2WHJHSFJ1bkFXN2ItN040VURUZWEwZDVXZGlyT1U3eFFJd2lHdHlFajg5VzY1YTNzOERMcnFv?oc=5",
+      "published": "2026-11-16",
+      "ts": "2026-11-16T08:00:00+00:00",
+      "queries": [
+        "data center financing billion"
+      ]
+    },
+    {
+      "title": "Weekend - Blackstone’s QTS cuts AI data center debt sale 60% as investors push back on pricing - investingLive",
+      "source": "investingLive",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPZ2tnOFg4MFNKSmFHLVEwT0ZCVzd6bGNsRDlMZnd3dXJCRS1zUlZmQ0xHY0FEcnhoN0w3eUdCOUtSNVNzOFFSWk1zYWRQVF9GSlhvbno3VDBiaWhxdlNGRjRueGo0M25HOC1zNkdKcU5GTUhqdERtMlgtVWh4VS1IT1F0ZW9lNjZ6Tl92ekJJaFNBbWVSbGFIVi0teTRXNlFzZ0dyTmFxQy1tLXJvcHZYSE15d0NtLUVwUU1yUEVHbXhUTkE?oc=5",
+      "published": "2026-11-15",
+      "ts": "2026-11-15T08:00:00+00:00",
+      "queries": [
+        "AI data center bond issuance"
+      ]
+    },
+    {
       "title": "Jensen Huang Resigns, Data Centers Face Political Pushback & Housing Hits New Low | The Weekly Wrap - BigGo Finance",
       "source": "BigGo Finance",
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBYVU50anhhWEZMeE4wMkRaOVJXMFh5Q0lzeE1yUlhZaExOa0hMbE9wX2xvWGdrX3p5OUp1dlVJdXo1Ym1MVGdUWlowSFN5TS1pS2ZLRUJsb2ZxR1J0UVhr?oc=5",
@@ -361,6 +480,36 @@
       "ts": "2026-11-14T13:11:06+00:00",
       "queries": [
         "hyperscaler capex data center"
+      ]
+    },
+    {
+      "title": "Fed Warns of $680 Billion in AI Data Center Debt as 'Circular Financing' Vulnerabilities Emerge - BigGo Finance",
+      "source": "BigGo Finance",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1oU0ZvckpHRkg4azh2VXdLWFoyUmFtY1J4T19KWG1JR3Z3eENEN2R3aEhBekt4cnc4VXVHb2Q2WUVXVEFYY0ZRVVFDY25JZWZOWkQ0ZXFKMmNwekVVR1M1WTBhRGxzZlFDZGRQNl9YdnBYSzZaU3c?oc=5",
+      "published": "2026-11-13",
+      "ts": "2026-11-13T08:00:00+00:00",
+      "queries": [
+        "AI data center bond issuance"
+      ]
+    },
+    {
+      "title": "Blackstone's QTS cuts its AI data center debt sale to $300 million - Startup Fortune",
+      "source": "Startup Fortune",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOREVwUUR5Y3piUVhWMnlSenVYbmd0WjdQc1VQMVZrNHU3d05wTkVDUEVjRUlmanAxM0xkeF9nSXBENVNJWUlKUTJRQzY0RTBnZEVLSFM2TGIycnhyN0p4UzRicWdpdnJ5RWdhMHIyRmlPOU9WelY2bm1jZU9JUTA2dHlJdE53MmpQVkw5MENBT05VdHNmWHh3?oc=5",
+      "published": "2026-11-13",
+      "ts": "2026-11-13T08:00:00+00:00",
+      "queries": [
+        "AI data center bond issuance"
+      ]
+    },
+    {
+      "title": "HUMAIN and Infra Sign SAR 2.5 Billion in AI Data Centre Financing - https://houseofsaud.com/",
+      "source": "https://houseofsaud.com/",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1ja3hiaTFjRlVhMVpxaE9BdldieDJjVzQwYlJJLVdudEsxV1h6TFdsUGh3dzdrT3lLbjY2YzZwSjdneG9POXdPcWE0aldGMFdiVVFINUVnVWI3bzRLQWdXdUhaSUEwVE9YT3d1N1Z4Qk5LNGtq?oc=5",
+      "published": "2026-11-13",
+      "ts": "2026-11-13T08:00:00+00:00",
+      "queries": [
+        "data center financing billion"
       ]
     },
     {
@@ -374,6 +523,36 @@
       ]
     },
     {
+      "title": "The Economic Implications of the AI Data Center Buildout - Haver Analytics",
+      "source": "Haver Analytics",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQQklxSjJmSE15U3VXc2hkZTdDS3UxZTIzY2ZtWkhxYW1WV0dwVE1CdlFnTzY2dmg3UFQzWDFTQ1Y1YmRnOGVSajlIVWl0TG9QTnc4TlN3QW9GbXFvazVmZXFHc00wY3ZvT0VVTzZSa0pzY0tKS2ZWZzFMNENRVUlKS3hQcUFfQ01hbjJybFEtam0?oc=5",
+      "published": "2026-11-12",
+      "ts": "2026-11-12T19:00:32+00:00",
+      "queries": [
+        "AI data center bond issuance"
+      ]
+    },
+    {
+      "title": "SoftBank Loses $7 Billion as AI Data Centers Turn Out to Be Risky Investment - Futurism",
+      "source": "Futurism",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPVjFrRS1TdTBmemxNUFBNSEtjS1JGa2JyRkFPeHMxQ2FmMHh6Y3kzMVgyRlMtUmpYU1A2bkxEQjdfQW5QN3ItZExXY3pwV0NLNFZmZWZiV19pYlRHWkhYTlhsQXE3eFViUTAtbWZyVXRvZlF1MFlMcnRQcjRHNElESFRvRmNpcFU3U29Z?oc=5",
+      "published": "2026-11-12",
+      "ts": "2026-11-12T08:00:00+00:00",
+      "queries": [
+        "data center financing billion"
+      ]
+    },
+    {
+      "title": "SpaceX Plans $74 Billion Investment to Build Data Centers in Texas and Arizona - The New York Times",
+      "source": "The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE50Ym5PVmtVcmozcmwzTDBvSVZuSUVuanV6R3FNY0lrQm5GZ3pYZk1TQThWd2xERm9xUWs0NEdpTnpmSEFsOG9NT1hxdHVOb2xUSVNjeWhCckR3eGxoLTlSN2VyTV9EQXJ5VDJsM3Vxalp2NF9oTFE?oc=5",
+      "published": "2026-11-12",
+      "ts": "2026-11-12T08:00:00+00:00",
+      "queries": [
+        "data center financing billion"
+      ]
+    },
+    {
       "title": "AI Data Centers and the New Compute of Politics, Power and Capex - Neuberger Berman",
       "source": "Neuberger Berman",
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPUnBDREstc3VQV05MWXZjcWExUmt5SFowVEdVN01fcFA4QUVjRU1pUm1Takt6SWhrYW96UUR6NDEyLWNwTzVwZWs5c3JDaTV4MmpvcVVBcl83bXJ2SS1nQVUtMUlGWXk1S04xUXNVSzZhSGs2NFZoUExEc21pbXhfRGNOYmZTTkRkOFRVNWdqRUZ2RzJJc3c?oc=5",
@@ -381,6 +560,16 @@
       "ts": "2026-11-11T08:00:00+00:00",
       "queries": [
         "hyperscaler capex data center"
+      ]
+    },
+    {
+      "title": "Morgan Stanley Sees a Buying Window in Top-Tier AI Debt as CoreWeave Fears Ease - BigGo Finance",
+      "source": "BigGo Finance",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE56Y0xhallRVmhIRTZ0Z3dQVGNIWTZfQmZoVDVmNGtxVGlGa1ZDakQ2X3BNVWpFVkFqR3FHWXR3QTY1M3lkQVp1cmo0VEYtSmxXanBLU0ZETFcxaDdVUXh1aDhxRnAyaVlmcUhPOHVoWm1ZaWg5bVE?oc=5",
+      "published": "2026-11-11",
+      "ts": "2026-11-11T08:00:00+00:00",
+      "queries": [
+        "AI data center bond issuance"
       ]
     },
     {
@@ -414,6 +603,56 @@
       ]
     },
     {
+      "title": "AI debt faces pressure as Democrats prepare to take over Congress - Reuters",
+      "source": "Reuters",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOalJvYkZzQXhzZ2pHSFo5c2Jfb0VfZVpNNXpHZEE5dkxUM0lUYmdEeG1rbUNzV1JWbzNwMnBwSGNTeHZjS3p4TEVzTDBVSnNQbG5oUG1GTW82VVBsaXA4dTFHVnVkZUpJVFprQVhXbG9kZjUzTUgwaDFhMTYwYlBfTVJJakc2Q0h5eWc4Z1FEOTM1Y1lmUW56Qzd5SkY2cXhtZlFNb1NQVXpBOVJkc2JqTTduQ2dfQQ?oc=5",
+      "published": "2026-11-10",
+      "ts": "2026-11-10T08:00:00+00:00",
+      "queries": [
+        "AI data center bond issuance"
+      ]
+    },
+    {
+      "title": "CoreWeave, Inc. (CRWV) Bond Yields Surged Above 15%: Is Its AI Data Center Expansion Becoming Risky? - Yahoo Finance",
+      "source": "Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOcnE1eXA5UlBKMGQzY3Y3NlR5c2xTX3ZoQ3RlNHVpN3hTRGtvWEpxc2c1OHZSN3ZvM1VRZnRpajdZX3B0R21SODBwWWc0S21IaW5pWHBnWmdZbVRhXzFjMmczWFdEelJ2UUZOMTZOMTlIODFOd0FoOWl6YmRFVTQtNzZkTVRRa2U4WDJINjNQWEFGUUFoNDNpcUlB?oc=5",
+      "published": "2026-11-10",
+      "ts": "2026-11-10T08:00:00+00:00",
+      "queries": [
+        "AI data center bond issuance"
+      ]
+    },
+    {
+      "title": "SoftBank books $7 billion quarterly loss on US data centre hit, financing costs - Reuters",
+      "source": "Reuters",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPQTRXdUFfbE1YejhTSXgtVUktdnY2bGMzY1MyVElPTEFZR1RtYzRQeHdYN2RoZV9sdjVyNGNVYVRtRGctakhrcUkyOG1uX0F6Z2RYb0JCVk9wdTJmZGVIVjdyTU1YdWFSQTNxTlUzV2xWSjZRSE1NWENKR2M2cEtjdVJFUXNTSnRiZlFVVVowSUJycFNFbFc1ZE1lcXRtSGR4T0c0MFhoOA?oc=5",
+      "published": "2026-11-10",
+      "ts": "2026-11-10T08:00:00+00:00",
+      "queries": [
+        "data center financing billion"
+      ]
+    },
+    {
+      "title": "SoftBank Books $7B Loss on US Data Centres [2026] - shattered.io",
+      "source": "shattered.io",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNalBKalJtRXFjR0dqWi1nMDM0c2JzREN0c1RIZFBrcDhYMWhyVTRHdDBpYTRITTJvSkV3clpDVWU4eEVfdGdKV0NnR2RBZEZ1YTA1My03TkRkR00tRXA2QXFodGN4QzlwRGJiRGNYMzhyamVZNzU4WEhrQTF5aFlyN1libjVXSEk5Wi1IQ3BVYXpvWDNlbVE?oc=5",
+      "published": "2026-11-10",
+      "ts": "2026-11-10T08:00:00+00:00",
+      "queries": [
+        "data center financing billion"
+      ]
+    },
+    {
+      "title": "Alberta's Gigawatt Play: Why Building Data Centers Means Building an Industry - Data Center Frontier",
+      "source": "Data Center Frontier",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPRlBLc1BvckQzYkdYQlJkVC11WjBOaEhhQ2NEVS1FLWF5dzhYYnowaDhhdEJpMDhIZ2c5bEdteVprdW5hR0JrOVlRREhVd0R5NlVxZGtYNjJxcVpwQk5fcURSNEdVSjZqZVpNdXlyN2VvRXBiS2JRZkhXUnFYWnNlNjlmN1NkcC1RUGN1Z3haWnBTTU4yQmh2M0N4U2JiM05sX3E0UjRlWklmV0xRZUpBMG1ucm0xRnVhUXcxY1hsWXMxalItTDR6dElPaEF0ZFZ3RXRYdQ?oc=5",
+      "published": "2026-11-10",
+      "ts": "2026-11-10T08:00:00+00:00",
+      "queries": [
+        "data center construction gigawatt"
+      ]
+    },
+    {
       "title": "Celestica: Sell Because The Market Hates Negative FCF Outlooks (Rating Downgrade) (CLS) - Seeking Alpha",
       "source": "Seeking Alpha",
       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOc2wzb3hJY2ZnSUFXSEh2OEVNSTFQRWFaaU5NaGdWZGc2TWh4S19vQm9jcERJOXFFSXBxZXM1YVRDWW9mNGhoU1owQ1YxZ3hGUWp6cExJbkJVTGk1LXhCeE1lV1BzdUhmd3lVdlBlLVRJM3A0VFRYMGhJZ1p4TlZuRkVnZEtnZm83TmlKdVZvaVJYa0V6d0pHbXkycEc4TDE5SlJIWnItQUxmQTJKZUhGV0ZCd2lIUQ?oc=5",
@@ -421,6 +660,36 @@
       "ts": "2026-11-09T08:00:00+00:00",
       "queries": [
         "hyperscaler capex data center"
+      ]
+    },
+    {
+      "title": "Banks, investors grow wary of AI debt, spooked by market selloff - Reuters",
+      "source": "Reuters",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPUktuREpUZjNlTWxZaER3aXVBUlJvazI5Q2d6STdNekNFVjk0UDYydFNlYS1zQzBlOFdzdk9waFZOeFBvLUhKUG5YOURmWE1xTkFvcFhqTmdTa3dvZ2NFTW12VW15XzA0MW9LWmlDb3BCTGc3ZllkWS1FMU9lbS1JbllDV0FhVGs3elh3azhtYWx0WkVpYnk2eDVSU1NtU2hZQXc4UUJJdkdELXNuVW1mZWJDLWFtZw?oc=5",
+      "published": "2026-11-09",
+      "ts": "2026-11-09T08:00:00+00:00",
+      "queries": [
+        "AI data center bond issuance"
+      ]
+    },
+    {
+      "title": "Thai Bond Sales Set for Rebound in 2027 as AI Investment Surges - Bloomberg.com",
+      "source": "Bloomberg.com",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPdVVVWjBEckpyeTFmeERqbG9zQnZoeFBvS2JLMmlBN0RMQWF2NktKX19OX3Z6czhWZkhBakRpeVA2cXFHNlFpN3A5M3Q5SVl1dk9jaENtelVaUjVjclpuRTI4OElxYjk5TWdqRFp4UFAySGFyTEVlRjFpeTNIcEkxcUNnaXlJY0puNDBMU1VmeGp5V0JkdWV5cTNKVWZJZTBtVFZIWmxSeVpycDlDdjVXS2NjY1M?oc=5",
+      "published": "2026-11-09",
+      "ts": "2026-11-09T08:00:00+00:00",
+      "queries": [
+        "AI data center bond issuance"
+      ]
+    },
+    {
+      "title": "Banks, investors wary of AI debt - Finance & Commerce",
+      "source": "Finance & Commerce",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPSzNFVEtVV3VyRnR0YzFCMUEzbGRiSC1LWU9wQlNua0JUUjg2Tzg3Q0M4Y0tJNjlsMDRyNGpKay1OZFp1TEFUNkR4WWNndURLQmNwejQ1dVUwQnJTdmRseTJRenhUa3ZxbngtQmVTemFmdmRrQXZELTlNanFuWktnN1BoR3dlUQ?oc=5",
+      "published": "2026-11-09",
+      "ts": "2026-11-09T08:00:00+00:00",
+      "queries": [
+        "AI data center bond issuance"
       ]
     },
     {
@@ -434,23 +703,23 @@
       ]
     },
     {
-      "title": "Donald Trump Stocks: 8 Stocks Owned by the President | Investing - US News Money",
-      "source": "US News Money",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1OM0theVZwbDJHb2Y5M2txNkxtajIwaVFMNk55ZlRuWjR0cnVOTEwyRk9CMU9NbnpLSHRtXzc4N1VrR2ZfZkdnTDhEVzVobThVWVZaNURmTExwNGVEMzEtZmkzMS11VTVFWkFPWHBaSlNaemk3T3RzdzNTclk?oc=5",
-      "published": "2026-11-09",
-      "ts": "2026-11-09T08:00:00+00:00",
-      "queries": [
-        "GPU purchase Microsoft Amazon Meta Google Oracle"
-      ]
-    },
-    {
       "title": "CoreWeave Bond Yield Tops 16%, Sounding Alarm on AI Data Center Debt Risk - BigGo Finance",
       "source": "BigGo Finance",
       "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBrcWVqUHlFVjlSUUpRaGMzRFpfUVpDaW1WeFZ4NXRlWmlIellwb1VUV1dWSzBlcDVpYVpFTzR0Tkhna0hWR2VDWExmdndBRFhJMi1Jd2RLMEJYQkxOUEtjcnhnX0ltTS1JNmljNFcxXy1kZ0czN1E?oc=5",
       "published": "2026-11-08",
       "ts": "2026-11-08T08:00:00+00:00",
       "queries": [
-        "Oracle CoreWeave data center debt"
+        "AI data center bond issuance"
+      ]
+    },
+    {
+      "title": "Data Centers Run on Debt. That Was a Problem for Bonds This Year - and It's Only Going to Get Worse. - Moomoo",
+      "source": "Moomoo",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOZHRwOUEwUDN6V2JaOElENWYzVjJMN183cXprX2xNSTZ2U0lOM04xUFNvTV9WUGNHYzA0V0U0eHpIUFM2Nm54TkhZOTF2MHlhcTJsV0JaSHRteDRzVnFxel9yc0ptOEJvdnVVTFM2WUI1U20wOE12WkRQMVNtUU5tZUVzVG9XYWpkUnVqR2xPejQ3NmdMN3c?oc=5",
+      "published": "2026-11-06",
+      "ts": "2026-11-06T21:45:08+00:00",
+      "queries": [
+        "AI data center bond issuance"
       ]
     },
     {
@@ -464,13 +733,53 @@
       ]
     },
     {
-      "title": "A Wall Street Mystery Seller Is Now Trying to Dump $500 Million of Data Center Loans - Yahoo Finance",
-      "source": "Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNWjZYYllZRm1SLXlGNXlKd3c5T29VempvV1RnRVhYaVNUYi1RaGZzNEE5eU1XSjNNSmJEaDNKMmhWd2xoX0RaTURqVUdhVWRkd2tNZlhJLWxsRHozVVhKck1UellweG0wX2M3TThjLV9KTG9JQjg1Z3BWUkZneEVJYXczRUpGdDU5RXJSQThadFczS1lLVVJXVTdmUQ?oc=5",
+      "title": "Data centers run on debt. That was a problem for bonds this year — and it’s only going to get worse. - MarketWatch",
+      "source": "MarketWatch",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPR21ITlM5Q3NUTnN2TXAxQlVNNl81Z3lrQjF4bUpOQ0VQUFRTT1JuRGxXRUMwYVlzSjNkYm8wM3JaQl9MbjNWam9KNElxQ2ZWNmd0aVdEM1pXb09RRXVmU0ZwMjhONGZCMkFUcVlKcmdnX01Ub0RxZk1Nbzc4UVo2VUhJakFxY3BwYTBaQklqM1pxMjh1ZlhmOHAzQ1I5ekQ1MVFfYlNrOXFaT3FzSnlMRkpjZFBGRFVPb1FJbWZMdTFXVGJmMTRfckpMdUpNX1J4N2VJTA?oc=5",
       "published": "2026-11-06",
       "ts": "2026-11-06T08:00:00+00:00",
       "queries": [
-        "Oracle CoreWeave data center debt"
+        "AI data center bond issuance"
+      ]
+    },
+    {
+      "title": "Big Tech set to drive US corporate bond sales to annual record high, data shows - Reuters",
+      "source": "Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPeTdHajhzSUQ2dmFYU1JrOHhzcVRreEV5cEp1NDUxclRGbGllOU9McGVVNkkxa0RNSW5FN1pKd0tJYUlIWlY4YUVzNTVfTWwzNHljLTMyQk1rTllLOGFIa1V2MFYtcWFTMWJzWjVGN1AwOWRRWGFsbXBtbkF6OTkzX0s0cWgzQmtjLUowU2M3dmE0YXd0Tjl1bmZOUHpFaERWaUlNNHdOMS05YS1WX0JQMnlfM1JTUmxSbG5xQjdiR3lVV0k?oc=5",
+      "published": "2026-11-06",
+      "ts": "2026-11-06T08:00:00+00:00",
+      "queries": [
+        "AI data center bond issuance"
+      ]
+    },
+    {
+      "title": "The AI ‘credit card’ is getting costlier as CoreWeave bond yield tops 16% - CNBC",
+      "source": "CNBC",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQZmJ2R19jOTVNbkRoM3U5RWlNUXVuZzdFaWFwR1FEUFBsaTlxZmF4dkdFYjZ1aV9UNzJ3WE54MTFlNnpiR0pXbUZ6ZnYtVG1UdmVSUVNEd1dpbU9zVHdqVlBtOWdZN0pTUjhXdEpya1ZyY2FvTkd6VWZlczhEWVM4R2VONkRGWTdfNmVzV0otYTNIMUVCRXdxemk4QmNjVjjSAaQBQVVfeXFMTjR1MnllbFk3RW1NZ0N4b3ZZR09VV0lrTmpuOTdKclVwMlpsbThLXzRPQy1EUHdBX1NZclJrQ25IWmI5V2RUbDg3SHozeUJmbUZXSXdSWnVlbTZZeGNmemNnY3BsZWJ5c1U0bE00MTJ1U292Qnp1Z1M5S1RjUEpWNDFEZnpNMzN2RG9EMXVOeGRYNk0wa0JmVl9Od2dxUjhkcmF0ZGE?oc=5",
+      "published": "2026-11-06",
+      "ts": "2026-11-06T08:00:00+00:00",
+      "queries": [
+        "AI data center bond issuance"
+      ]
+    },
+    {
+      "title": "Big Tech AI spending drives record bond sales - New Orleans CityBusiness",
+      "source": "New Orleans CityBusiness",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNMW05MVExWGR6TDRTUjZnUGFLVDN1TXJmTWlIRHNvcmd5RGMtd3psaHFGSmlMY2ZmbDBpX0s2SC00UURpSUlZVjV3ZC1WdkhpOFR4NVE3RXZTR21leXJmdnBXMlNsQ1BUWmRrWTFkWF9KMmYtWE5zOUVaZzJBT3N4dTlOV3N5MUtqSmttTlRhR0JScXFhMFE?oc=5",
+      "published": "2026-11-06",
+      "ts": "2026-11-06T08:00:00+00:00",
+      "queries": [
+        "AI data center bond issuance"
+      ]
+    },
+    {
+      "title": "Mystery Seller Seeks to Dump $500 Million of Data Center Loans - Bloomberg.com",
+      "source": "Bloomberg.com",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPc3l0QXB3MW5hNE1uQUpzcUloU0NuckhSWG9ZWUFDeVdLYVp0MmlVR25Lb0c0bnhlbUdzZ09TYzh2RnkxTnJnZ1d6WkFkWkw3TEMzZUlDaWJsb0xCSXBiMXhDTEZyVkhOVzJpR3prSkk1SEQ1bWcwZXN1RnUzNFlRMFNOVDhGZUNiXzVqRGMwVTVybmRkbUZiVWthVGc4aDNHTXMzMDF4SXJyODdFb0syUWRJWWFVNVEzRHlYd2tVOXQ2SzlVVWE0SA?oc=5",
+      "published": "2026-11-06",
+      "ts": "2026-11-06T08:00:00+00:00",
+      "queries": [
+        "data center financing billion"
       ]
     },
     {
@@ -514,11 +823,71 @@
       ]
     },
     {
-      "title": "U.S. Data Center Tracker: Power, Facilities & Growth (2026) - Electric Choice",
-      "source": "Electric Choice",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9acDEzM3A0SWNlUWl6NjN3UXUyZkxpRE9hZ3BtNVJkMUZ2M2dyVWkyQ0RESC1OLWZHY2oxYzlXMW1vSHdXUjNHWjZIMmNLRjhtU2d4dk53?oc=5",
+      "title": "Pure DC secures $1.9 billion financing for data center build-out - Data Center Dynamics",
+      "source": "Data Center Dynamics",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOZWRRVVpuRU42aGNBVGlmYkMtMnpuaDFPd1hOWFpBM2pTeVdUT0txQ19TcFB1UGZnYjZ3dGdiRzFPUWhhdl9qUWpyQm1sTFBvd3MzaUFkLWFsME04SHdqQVMzbFEydHR5b01yaERzUHVNNTFhV3VHdVNHdENOdkM5aG1pWHVBbHFQLWl5MnhmX0drSEVGbFMxNHlwRC02RUpMWTZ0bVN4N21mUQ?oc=5",
       "published": "2026-11-05",
       "ts": "2026-11-05T08:00:00+00:00",
+      "queries": [
+        "data center financing billion"
+      ]
+    },
+    {
+      "title": "Credit Traders Make Big Post-Midterm Bet on Data-Center Slowdown - Bloomberg.com",
+      "source": "Bloomberg.com",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPMjNVS3pNUVdiMFk5UnYwSTBaSGc0S0hKcVhMM1JFeXJfazBWSFZBUVFHbGw3d2QwR0VzS1I2cFMtN3I5eWdOSHcwUGtYWkZxY0k5Rk9yTXRIMi1iNEYxeG0zVHcyQ0twekNPcHpFTjZIVS1CVXgzTFVQM3M2ZnQzN0hzZEFEZTFWM204N3JpeXJKSzlmNVNEVXJ3WGtmZDdORks1ZkpvQ3UzdGdadXNmSXhQQQ?oc=5",
+      "published": "2026-11-04",
+      "ts": "2026-11-04T08:00:00+00:00",
+      "queries": [
+        "AI data center bond issuance"
+      ]
+    },
+    {
+      "title": "Oracle, Alphabet and Meta Tap Bond Markets to Pay for AI Data Centers - Technology Org",
+      "source": "Technology Org",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOSkY5MkctN1FpZExUVFJTdUgwLV9xMDk0MWQ4QnpvQU9wSUNVWGFfODh1VnpBYVQ0bzRJbUw1blVENXhMWkdCbDdTT0EtQWN1T3VOOXozVEtqY0JFdmNsdmVXSmFWTGxka0N2WHJfTVNDN1F1aHVsUFhMQ1R6b3d4YklBWkwzZDJTYk1PZVR5VDlRYlB6SElUT3JKT3A?oc=5",
+      "published": "2026-11-04",
+      "ts": "2026-11-04T08:00:00+00:00",
+      "queries": [
+        "AI data center bond issuance"
+      ]
+    },
+    {
+      "title": "How Investors May Respond To Schneider Electric (ENXTPA:SU) AI Data Center Expansion - Yahoo Finance",
+      "source": "Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOTDJEVlphdXVxdy1Xa3c3RDkyNXlrYXExRko0UG1sdlAtTzctWWh1elJsdVdCaG4wQTYyUmlLWEFpZU5SYjBPZzFfeFY0cXBZaWdMVlhfdGFkbjJKalRERnRpVmJQTTN2dmRfNFB5WlpvMzR2aThPWU1nVFJyWC1oa1o4RDB5QzFRclZMUndpYmpySUlWY0xzb1pVMWJBdDdGVDRfSllsWFY?oc=5",
+      "published": "2026-11-04",
+      "ts": "2026-11-04T08:00:00+00:00",
+      "queries": [
+        "AI data center bond issuance"
+      ]
+    },
+    {
+      "title": "DayOne Secures $237 Million Loan for Hong Kong Data Center - Bloomberg.com",
+      "source": "Bloomberg.com",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQTnBsZWRYcGhGOXlRX1lTbDQtVFdRYnRPd3UyQnhhWHR3dV8xTWxBQVR2ampyLUx2VkFZa2pCcGRiQWZIUXkyc2MxWDhZZUhhbWlRcXF3SW9pRHRPLWlOTFNzMzYwUkRHM2haY09zRnhKVTB5THNKV2huR29uczlMbElEZjhaWWNFV0NfME1JOS1BRi1OeVdpdlJOWThvYlFvbXJEdXF2emF0N2dK?oc=5",
+      "published": "2026-11-04",
+      "ts": "2026-11-04T08:00:00+00:00",
+      "queries": [
+        "data center financing billion"
+      ]
+    },
+    {
+      "title": "13 GW At Immediate Risk As Texas Data Center Developers Face New Power Struggle - Bisnow",
+      "source": "Bisnow",
+      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNVnlKRjNYWThMc2lZYWtHcFVybFNqZnQ4NGVaOU1xT0l1S01oeFJsb01KbTlHN2VkUWhVQTE2emZlNUw0dkx3Zm5vUlpGSVNsVXRQSU1pb1NQRjNWS0Njazh5WUo5Tm9MTTlBR2MycFNINEdqMlhrSHB5OVhBMVBIdjVPdE4zN1lpR0NNTnhuZUFfTGZiWHBjRmo3b243UmJ2UGxBakFnb3JPbWxzZHBVbXNOVy13NDE1OGdQd095dk40eU9oa0ZPTjNmelVOQ3FwbHFWdUFvbnU4UjRqSElWdQ?oc=5",
+      "published": "2026-11-04",
+      "ts": "2026-11-04T08:00:00+00:00",
+      "queries": [
+        "data center construction gigawatt"
+      ]
+    },
+    {
+      "title": "US Midterm Election Upset Could Stall 62.2 GW of Data Center Construction Planned for 2028 - finance.biggo.com",
+      "source": "finance.biggo.com",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9UcXNQbWlWaFotX1pIdFBuaWVPbVN1cVo4QWp3SmxjT1NnbmVKcmpnQ3RnSlBTX0NUc1RPdVRubkRBeHlVWXJYem9VTjZnb0lqaTRneXdiakR2VFV6SDFMcW91ZUptc0N1Tnh5Mk95dU1XUW95emc?oc=5",
+      "published": "2026-11-04",
+      "ts": "2026-11-04T08:00:00+00:00",
       "queries": [
         "data center construction gigawatt"
       ]
@@ -530,7 +899,8 @@
       "published": "2026-11-03",
       "ts": "2026-11-03T08:00:00+00:00",
       "queries": [
-        "hyperscaler capex data center"
+        "hyperscaler capex data center",
+        "AI data center bond issuance"
       ]
     },
     {
@@ -544,13 +914,23 @@
       ]
     },
     {
-      "title": "Adani Group Said to Seek $1.5 Billion for Data Center Financing - Bloomberg.com",
-      "source": "Bloomberg.com",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQUnZhSzFITk9tTW9WQXhYaGtxRDRvemJVMktJOGR4TG1VQkxSZWhicVhyT3p5bHdLeF8tNFV5Tmd5cFMydEtOWUllTHRSb1VraEg4SUl2blpKRlpRY3hVdVdJZEJnODBITEpvYVQ3VDFhMThzZXpYYWRoNnA2aF9DS09sRG5vVk9Ya2JRUXJISkRPUUUwUXRWMkVDVjdCajFGbUVySzFWVEc4UlJZdjUxZkl4cw?oc=5",
+      "title": "Stock Sell-Off, Bond Market Jitters Signal Financing Trouble For AI Data Centers - Bisnow",
+      "source": "Bisnow",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNUlZyaFFFcjBvMG5RZHE4aV9sdTBqYlk0T3haTV9CbXlLcW9yNTBpeDU5Wk1RNm5QZmZZeF9lQ2N6dTFQSFM1ekdyZTdpTkQxdlVNem9qak5zQjVMSE91WVJOR0F0NFVNRk9tWXlMbmFIaV9aNHZKN3lpRXczbmFDV19fSndUSC13NUNjNFg5eFA0TG9hOWZQQWdBNHpMWktUREFBQmR3WHNXTnNod0pLaHZkTWRJRVdlcnc?oc=5",
       "published": "2026-11-03",
       "ts": "2026-11-03T08:00:00+00:00",
       "queries": [
-        "data center financing billion"
+        "AI data center bond issuance"
+      ]
+    },
+    {
+      "title": "US AI giants are offering billions in bonds, competing with European governments for investor capital - DW.com",
+      "source": "DW.com",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOeHE0ODBGekNRVEI4YXZOWWhRTGNjRHRMUG1MaFpYcUUyUnFMUklyMWtpLUhxRFlfY1Nvdm1NUDFiU0xDWGZXVFA3amFpOEdBa1lvcVdscDMtaV9HM3cwMGtQRkI4dURUMk9YTUlDbncyQ2lTTEFEbXdvNTRrVEZJa1RaZEV0N21UYVpRRU5NSFpOT0NX0gGUAUFVX3lxTE4yX0c3SzBFTm5ITmVxaWhqa1VCRWwzbnVKd1FTenBQcjVkY1hORUM3SnhHN0ZvNVBKQTQycEhwdF82TzlxZ0tlSHlMM1g3S0k0RjhUS0J3M1pwN3JndHM2OVNOUW1QUW5UMU1aY3BZT0JjbWNkUW9NallxOGtCQ0EtY0lMLVFQWjBlVldxRF9uVmg2djc?oc=5",
+      "published": "2026-11-03",
+      "ts": "2026-11-03T08:00:00+00:00",
+      "queries": [
+        "AI data center bond issuance"
       ]
     },
     {
@@ -560,7 +940,27 @@
       "published": "2026-11-03",
       "ts": "2026-11-03T08:00:00+00:00",
       "queries": [
-        "Oracle CoreWeave data center debt"
+        "AI data center bond issuance"
+      ]
+    },
+    {
+      "title": "Elon Is Doing It Again: SpaceX Will Be The World’s Biggest AI Cloud - SemiAnalysis",
+      "source": "SemiAnalysis",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBtdXQ2QllwRG1GMm13OW4yM1ZXVXdVcVkwb2lWSnRfeGExWDBYZzdxc1NKNzFicmFNTDRDLV9JLW5pLUZPZXBlRHZxVFFrUWZWY2VnYVo5dVZ2VjdQNUxTRWJVX3lGQklDMGdrNzFTTEJYTFdUY2NrWWlhUjQ?oc=5",
+      "published": "2026-11-03",
+      "ts": "2026-11-03T08:00:00+00:00",
+      "queries": [
+        "data center construction gigawatt"
+      ]
+    },
+    {
+      "title": "£2.5bn Drax Data Center: Brookfield and Qai Targets Gigawatt-Scale AI Construction in Yorkshire - Construction Review",
+      "source": "Construction Review",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQVDEwZ3NSMW43QzFHVnF5NUJSeWtvaExOX2J2c3Q5cWVha0tZaS03a0c1V25jeF9TdHRvZWFRc0hwU0hIaFh0S3RzdWtPZGk3anlpYnNNN0UtalpmWG9PandFRVBWSU9ISXdJZ3BtZDJxWDVrbElQUmhENDVQdUxrekF4WVJXRTdpYlo3VUVYNFNPM2IzQnFpekFOVEVFTW1yaU1PWVAtbHFEQ1h0VThiY21adktuWFRsc3E2WG45RU4yRzJNSGstSFpxQQ?oc=5",
+      "published": "2026-11-03",
+      "ts": "2026-11-03T08:00:00+00:00",
+      "queries": [
+        "data center construction gigawatt"
       ]
     },
     {
@@ -574,6 +974,26 @@
       ]
     },
     {
+      "title": "Prometheus Hyperscale pulls out of gigawatt-scale data center project in Casper, Wyoming - Data Center Dynamics",
+      "source": "Data Center Dynamics",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOeXV2ZzRYRWlid3NNUUgtUGdYU0psenN3ejQ4ZVpBeWJtQjJVQmlweE5ZYWFCY1psLVJpT2xFWGNqMlliY1c0ZFB1bC1sS1JEbjYxOHl1bDlmSVU1dGpUeDBibUJuZFM5YmhycmxRMDUwaE1ZWV9OMnFOcGNZQ1VCbktST2o5YjJMaW1UbHp2N0dxcUNCWlp1amJ0bmZxUWlyelhhT2RubFE1VzV2MXNnSERaRUJsY2VxU2dNcEVJTVBoRk1PMV9kNy11aw?oc=5",
+      "published": "2026-11-02",
+      "ts": "2026-11-02T08:00:00+00:00",
+      "queries": [
+        "data center construction gigawatt"
+      ]
+    },
+    {
+      "title": "Google eyes 1,000 acres for 1.2GW data center in Goochland County, Virginia - Data Center Dynamics",
+      "source": "Data Center Dynamics",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOcHJVUVVmSnB1X1MxZG04X0VLZ3g3ZS1NcUUta3NiUTlNajBQcGMwMThGSDVDUUVBMjZrY0tjcnQtQjJZWng5RndzZ0VHV0lJUGdzc19yQ3dpTHA4NGdZNHhhSEdMTGRCZEhRcXljdmVCcmg5SzhiZGZsbHAzRW9qaW5lYm1SZndzUEo1eklaQlRvRlJUM3R0QjlGc3V6Ry1wZnFTVktrUDB0czY4dnNjc3hFNkNtVkU?oc=5",
+      "published": "2026-11-02",
+      "ts": "2026-11-02T08:00:00+00:00",
+      "queries": [
+        "data center construction gigawatt"
+      ]
+    },
+    {
       "title": "Oracle Declines 4% as $10 Billion Bond Sale Revives AI Debt Worries; CoreWeave Advances 2%, Microsoft Holds Steady - 24/7 Wall St.",
       "source": "24/7 Wall St.",
       "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPNF80VWlicUpTdDRRTkhfREt2R1NUNTdGQTVIdFpBUklHckhEY3BVXzRmb1lDZFQwcno1SkJJbERwYlR6ZnktOHRqaElCMWE4WnNOQmgzODllUW9uc0JBdnE5MGtYLXFlNFdud2wtNEVrN3hwV3dTQ2szMDJIeHUzSWQ0d0pJVGZ0dzUwLWpIWk9oRkJEd1doZUNHdWlzUGw5Q0xBZFI2M2x2blExckc2RGY3TlpXa19Xb2dreTJCVm5fVGZrbUV6c3FUa1NnbjgyWHF6Mzd6YlA5c1h4S2dtSDFKOU1pV0x5?oc=5",
@@ -581,6 +1001,16 @@
       "ts": "2026-11-02T08:00:00+00:00",
       "queries": [
         "Oracle CoreWeave data center debt"
+      ]
+    },
+    {
+      "title": "OpenAI’s flagship Stargate mega campus nears the finish line - fDi Intelligence",
+      "source": "fDi Intelligence",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOUDlibWNwY1pYcjBNVGNnWGtXMWcwSjVZcXotandYUEg4LW1ENWp6QmstQzF5SnB5aW1YMk1BTGZocG1JMk0wY2NLZ0tXeFlPbnd4ems2V1F3N01Vd1BLMzVETjFjNXZCYVcxMXlkSTd3cU1kM1hOeFEyRXA1QjFNczB3?oc=5",
+      "published": "2026-11-02",
+      "ts": "2026-11-02T08:00:00+00:00",
+      "queries": [
+        "Stargate OpenAI data center progress"
       ]
     },
     {
@@ -604,6 +1034,16 @@
       ]
     },
     {
+      "title": "The Datacenter Backlash Goes Bipartisan: Next Week's Midterms and the 2028 Buildout - SemiAnalysis",
+      "source": "SemiAnalysis",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPbEZGenpqNWtWZFk5RkJNT2pVblNXcFNFVjVDM0pjbk5KcWtVNnVkU21TQTVDTmI2ekRNdm9MMFByU3YxdV9NWnJvdlZ0clpoY3VOV3ljM1FYdU9SbF9yOWU4SFRfek1ybU0tRVo4c2hRVWpabnQtZE0weTYtTW1WTjVWOA?oc=5",
+      "published": "2026-11-01",
+      "ts": "2026-11-01T07:00:00+00:00",
+      "queries": [
+        "data center construction gigawatt"
+      ]
+    },
+    {
       "title": "Buy The Hyperscaler Panic (SPX) - Seeking Alpha",
       "source": "Seeking Alpha",
       "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9TdVFvMnp0UHl0d1BqNlNqOW02QTlFdk9nUzlxb1d2YUVjbzh2bktGaEF6bzZ6LWRxS24xN1kyMDV6c1dPWEtXVWNScUx0TVhoeXZ2ZDBBeGtIOWRUZDFxbHhtM05tbVY4cGNRRHFQN1dYRldf?oc=5",
@@ -614,6 +1054,46 @@
       ]
     },
     {
+      "title": "Amazon Is Borrowing Against Its Own Data Center Gear to Fund More Data Centers - 24/7 Wall St.",
+      "source": "24/7 Wall St.",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOQ3FDTU83bk8zYk9rdkRWNnY1SHFrMDdyQTN0V0tJeUd5LWpyb284elA2Znd5SGJaS2Q4SXRQeE9UQWpXMy1KbUZnQmlJODNBckRTaTd5eVJ0VDFzc1hlZ2UyaGtBaEU2UjFFTVpCMUM4WThjRS02amE4b2lENzE1YTBaaEpHLTVBSm90YXk4MFlid2Y0VDVsVjhzSk9FcDJlRWdROFRpS3pRbDkxeEszWEVJN2VIOTBJeUZFS2FrZw?oc=5",
+      "published": "2026-10-31",
+      "ts": "2026-10-31T07:00:00+00:00",
+      "queries": [
+        "data center financing billion"
+      ]
+    },
+    {
+      "title": "Wall Street Is Starting to Call the Shots in America’s AI Build-Out - WSJ",
+      "source": "WSJ",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPYzd0UTk0VHlJYlZiaUJvMEppbkx0dVVTMHowLVJUODlYZzFBZUdGMG1DVWxZbkRWckxnVURTa2FRMzg5VGRJc1JNeExKR0M5dHdRbHdHVTh1dmJDenQ3X3ItR21ua3ZoLWdsc280Q1ItaTJZQ1ViRTQxRlBCR1MtMDdkVnppaGVZcXhOakZOZDhRdllRbHBVdElDMjZTbGVZdkFfS29zS2xaZw?oc=5",
+      "published": "2026-10-30",
+      "ts": "2026-10-30T07:00:00+00:00",
+      "queries": [
+        "AI data center bond issuance"
+      ]
+    },
+    {
+      "title": "Big Tech’s Data Center Blitz Is Burning Through Cash and Scaring Wall St. - The New York Times",
+      "source": "The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNR1hMOFZzQ0lFZmg4ci0xdnpsVkJsU1hmVW5zSjltYWs2OXBWNHpUV2Q2OHVZLWFqQUNxTVo3a0IzdkM4UU40WDZKTDFWNUJLODNlaFFLMVNyWWpKLU5EcFFGMUlyRFdqcUpORzJrQ3NRVTg0TnVPRTN0XzQ2ZWZxUlM1bmZTUWs?oc=5",
+      "published": "2026-10-30",
+      "ts": "2026-10-30T07:00:00+00:00",
+      "queries": [
+        "data center financing billion"
+      ]
+    },
+    {
+      "title": "Nvidia weighs playing the cosigner for Nscale’s AI data center in West Virginia - TechCrunch",
+      "source": "TechCrunch",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNZGNhWVNJR0JZTnVKVlM5RUZFeGdQZDdMMk9yODB0ZTlGSXRnYzNZU2hVbXBLdVdWbGstX3RPYkphd190d0R5N0VKN0RabTd3aW5OSUI1cHVsME9vVno4Nm1LY0lTV25qZE5EejNqNm91c1dvbVk5YnctUUowaUJoYTJwSEhCY3BIYV9kbVZ1U1RKNTk5Y3NqVDR3YTlrdXZDOWd5ekVvaDdGSzV0aVA5OUFxcw?oc=5",
+      "published": "2026-10-30",
+      "ts": "2026-10-30T07:00:00+00:00",
+      "queries": [
+        "data center financing billion"
+      ]
+    },
+    {
       "title": "Who Will Pay the $2.6 Trillion AI Infrastructure Bill? - Boston Consulting Group",
       "source": "Boston Consulting Group",
       "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBaUWhMRXRQQlNleE51dy1lNkY4ekRqRFN6ZG94NDE5MXFXMGF1NjF3ckNpZE15UnhMNGpsVFNPTnktT2hYN0xGRTVGWi1qYXJscXYwa3BTUDlldjh2MFNzbVJTcUEtRHozdHlNQ2tIUk1hb1NRaWNR?oc=5",
@@ -621,6 +1101,56 @@
       "ts": "2026-10-29T07:00:00+00:00",
       "queries": [
         "hyperscaler capex data center"
+      ]
+    },
+    {
+      "title": "Market Intelligence Exclusive research: Who pays for the data center buildout? - Bond Buyer",
+      "source": "Bond Buyer",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNWlhLQk9DdnlidlBXeDQyQzhxaTNGMlJmTUx5eXJBTllLSkFreExFcE5FRWRBMVdrX1dsMUN6dnY2bDlQUFhsaHhZRVpYX1luMTNybzVnMzFxbXg1VWs5OHVjMmd1aGJPbHpZeTRwOWJ1cVY2MlhIaVFCazNVWWNpMy01TDgtME82UGN6eWpMMGZmNUY4?oc=5",
+      "published": "2026-10-29",
+      "ts": "2026-10-29T07:00:00+00:00",
+      "queries": [
+        "AI data center bond issuance"
+      ]
+    },
+    {
+      "title": "Aon CEO warns AI data center insurance risks could threaten financing - CNBC",
+      "source": "CNBC",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPekFhZE9lQ0p5SUFMS3dMN3VhREszZndabm1fRW91TW1OYmFLa1RFVnBsbXI4LUQ1VWJkYl9iVjV6dDRETUJhSzdIcDlabXktRGFJM2VrQmtCbF9IWFhDZk15NkhoUXA0T2NFb2lYX3F5Z0dkSFJOZmd6bHRfMWpYTNIBhgFBVV95cUxNM3AwVEtCaEJ3dXdiTHEzZ0hVUzNfelBlb2ViMWwwckhQNm9jTUpEZC13bDhYb2F2YXVtQ2hoeGxFNzJIRjR6eGFnd3JTY3VwUWlRU0FWeTNnMGNWM0tRcjF3cHdTTHkyd0w5b3ZBWF8wVzIwZi1rYm1rV05Qb2ZsZmVNN29aQQ?oc=5",
+      "published": "2026-10-29",
+      "ts": "2026-10-29T07:00:00+00:00",
+      "queries": [
+        "data center financing billion"
+      ]
+    },
+    {
+      "title": "Barclays Turns to Insurers to Hedge Billions of Data Center Debt - Insurance Journal",
+      "source": "Insurance Journal",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE81dGMzMFZoM0kzdG41UHB0RmNDNHZqdm9GY0RGZzNSaTNGU0hrXzRULTA5QmNtTmFfZ2tGUU5kRUdua0hDenlIajlYZVZIR2lvQVFBWm83dUJ1NW5UOTA4R0Nack9PQnNXQk1BVEZfS3pCdmhzWDNLUkRqX3cwdw?oc=5",
+      "published": "2026-10-29",
+      "ts": "2026-10-29T07:00:00+00:00",
+      "queries": [
+        "data center financing billion"
+      ]
+    },
+    {
+      "title": "HSBC Seeks to Hedge Data Center Debt With Credit Risk Insurance - Bloomberg.com",
+      "source": "Bloomberg.com",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOSFFVa1k4M0piYVUxbnl0RERBMS1XR0NKZ1JpX1NFV3R3em4zNGVGem1xZVV1ZTB3YWR6UkRnYTFqWDZKT1hjTk1VY3RxcHlsaTBjaDRaT2xBQVpjVHpzS0pNY1U2amdZSFB1VDhWdG96YWwxejNxZ1BZUjBxeE5BOUNsUzdEN21qalpmYzBYT1RvODljR0tXd2F6cTRIQWdjZmhQT3FtbmhSUnp3UFRkQUVmNDM?oc=5",
+      "published": "2026-10-29",
+      "ts": "2026-10-29T07:00:00+00:00",
+      "queries": [
+        "data center financing billion"
+      ]
+    },
+    {
+      "title": "EdgeCore secures $521 million in ABS financing - Data Center Dynamics",
+      "source": "Data Center Dynamics",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQYUd3N0JYLWU2UTlmQnJlaGh4a0k1TWVzN2lfYy14cTFxQy10ODR4eGZSb3NEbHVudHFhOHN1cmdyYmp4aktoTDkya3RURGRpVGJXM3UtMHYzZnh2LTVDMEFmUm0zd0M5YjNTaVZ3ZC1uZkFVb1RCV3dvbnB0eTZOWlVDbUo1RFkyTjM0ZFZqdkI3SWc?oc=5",
+      "published": "2026-10-29",
+      "ts": "2026-10-29T07:00:00+00:00",
+      "queries": [
+        "data center financing billion"
       ]
     },
     {
@@ -644,564 +1174,33 @@
       ]
     },
     {
-      "title": "Microsoft blames data centre delays for lower capital expenditure - Financial Times",
-      "source": "Financial Times",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOY2RibWNSVm1SWDJYQ2RfaEplQWNvbFRpNGNwMkdDdGpuSVBCSTQ1WE91RE9BU0tEanFOd21XbnNDNTNYV1FpdXlIV3Fjb1RZTzNIdzFKZE55MG9vNThXZVdPNWljWUpqVzY5UENxVnRZZW5ZU0RXZU10b1YwRjJhSXVfSDQ?oc=5",
+      "title": "AI Data Center Debt Yields Hit Double Digits as Buyers Balk - Yahoo Finance",
+      "source": "Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOZUt5STVMelBJQkRBZXJMYzFISWRhbmREWWcxc0NncXlvNVdONERwMFd5MkVldXBYVkJUQWx2Y0dQZ2pyNlRvUXp0MUdHNGtLbHFPaF92MkxzaVhsSzNnV1hhR3VkRk0tYWJQYUF6YnpmNnVWTzZ0N3VUTWdEVHFmUEhrUzI3NXRqaVlNc2N3dG94Zw?oc=5",
       "published": "2026-10-28",
       "ts": "2026-10-28T07:00:00+00:00",
       "queries": [
-        "Microsoft OR Amazon OR Google OR Meta data center capex"
+        "AI data center bond issuance"
       ]
     },
     {
-      "title": "AI debt fears ease ahead of Oracle, Alphabet and Amazon updates. Here's what to watch. - CNBC",
+      "title": "Looking for yield? This could be one of the best times in recent market history to buy corporate bonds - CNBC",
       "source": "CNBC",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBZNHVhb2N1VHhYN2hEc1pibmFxYUpRc19YazNmd2t2S1UweGJLN0hra1F1S2JHNU1MeDd1VV94N3VleXRaMmxHX0ZZV0doNFFrUkVrY1pJMjFNSVdHSmt6SFBXeGZTU1Z4alp5emxrcW0zN1HSAXhBVV95cUxOVGR4c0JHMzVmajhYcHV6T3djck95TXROZGU4cmRobTJsZ3pRczlQcmVHZ3IzVkIwdTBjTnpwWGJnX0FnZVg2bWh1bGZqd20teXEzR3pZdWVjWXYzTmt4YXhfdnJUNlJYNHJlUFE0R2ZDTDVlSWJwcUc?oc=5",
-      "published": "2026-10-27",
-      "ts": "2026-10-27T07:00:00+00:00",
-      "queries": [
-        "hyperscaler capex data center"
-      ]
-    },
-    {
-      "title": "AI Cloud Stocks Rise as CoreWeave Adds Denmark Capacity: CoreWeave and Nebius Climb 4%, Oracle Ticks Up - 24/7 Wall St.",
-      "source": "24/7 Wall St.",
-      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPUFNTVldRWEtQUy15Z3ducWc3UlkwQk5oVU96NHFMNGNUbkpYYS1kU3ZkTnZxbkNidWdXRmFWMnBZMjBSdGJJeWtVNWV2RDJMRkVsY1VLNEp6Mm1OYXk1QjhyWDUxYmNBZkkyQWs2VFpmOS1ndE5Fa1RUMHlqendPQm5Yb21SZHdhUFVGZVU2U3pIZ19IcFJULXMxWkU3a3Zqbm81cThfN3FrcjdpWHR3RjJKdkxvVmlXa0VPa1NHR0tMbEk4UWhTMUVaMTF5NGxpOGZxa3Nnd1BFYjZY?oc=5",
-      "published": "2026-10-27",
-      "ts": "2026-10-27T07:00:00+00:00",
-      "queries": [
-        "Oracle CoreWeave data center debt"
-      ]
-    },
-    {
-      "title": "Oracle Rises 5% as Google TPUs Come to Oracle Cloud and NVIDIA Deal Expands; Amazon Nudges Higher, Microsoft Treads Water - 24/7 Wall St.",
-      "source": "24/7 Wall St.",
-      "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQbUZPSkFxbExpR25ZVDBtcGxjVUtKbGVFVW1hUnJXVjFlSnFKa2VNSzVkNllxWkRIVTY2NXlYUGlPS3lRUzQ1aHEtTVl4d2Vha2dSWkluYmwtZVhSY2kyLVJqYURtOERSQUZQSkpFeG1UVldtUXlUT3hiS1lQMEZzSm9BVTRqYmRRc0U4ZnktRnJoU0JuVlg5UVAwS1pGc05IREpxMFY2SGJJWnZRUUhqakRSbVFPN1lZWlVZQncxbXhjV3l0Yzh5cWtxRUJXeGF0blpFNEJEN0VlRW9kVl9CV3g4bXAwTUl5Y1pISlY3bnJ2RVVy?oc=5",
-      "published": "2026-10-27",
-      "ts": "2026-10-27T07:00:00+00:00",
-      "queries": [
-        "GPU purchase Microsoft Amazon Meta Google Oracle"
-      ]
-    },
-    {
-      "title": "AI Debt Has Exploded 4X To Nearly $500 Billion: What It Means For NVDA, ORCL And CRWV, According To IO Fund - Yahoo Finance",
-      "source": "Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOZjhHVnZROFhoX3o4VHJxSkJmTzg0Ym9RODRoU3BXRzVxbm1sWC1aMTBtR09DVGpfYWJFczI4OWNFbVZsdnBjcGZvS2IwcTJiSjktVDluTDViN2lycUVPc2JXNUtwZFpsWVptVFBhbWVXTnhVY21GbnhRYmFmQ2Nldjg2VkZldExGa05RY0hPclphSzJZOFE?oc=5",
-      "published": "2026-10-25",
-      "ts": "2026-10-25T07:00:00+00:00",
-      "queries": [
-        "Oracle CoreWeave data center debt"
-      ]
-    },
-    {
-      "title": "Is the AI Bubble About to Burst? Nikhil Kamath Warns of $800 Billion Funding Gap and Tough Times Ahead - The 420.in",
-      "source": "The 420.in",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5wdW5vOHQtcElMTmVBTWxla09iSFZQRVp6Mmd2eDlCLVBYeTBnZE9Mc1g5SFI1MXRoWGdYYVZKZWJ0cVJJOUIyVmlEaTE3V2loekhJcWEzRlNCaUloTUFocWE0clgta29KbFRMb2xvSVZsOEZuV25uWXR3?oc=5",
-      "published": "2026-10-25",
-      "ts": "2026-10-25T07:00:00+00:00",
-      "queries": [
-        "AI infrastructure funding gap"
-      ]
-    },
-    {
-      "title": "No end in sight: How the data center boom is reshaping the industrial ecosystem - RSM US",
-      "source": "RSM US",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOdnBSUFNTSUhqRVpvUG5OYkVPVFlaa29qLXJUR05kNVVGa1M3ajZ5YXlILTNIZUdtYWZIZDhEMjdMcEFwWFp0b0wtckZTZkRpY3JBQzljTVZmQll3SVRpaTZZV1NPRHVHMnZJSkpoR2t5WnpiRVlhWThMZFp3ZE1ua1VvUFFOdFRfUWUyZFJGTVk2WWtDRVBvaWd1eUR5RDJIWFZRdWpR?oc=5",
-      "published": "2026-10-24",
-      "ts": "2026-10-24T15:02:18+00:00",
-      "queries": [
-        "hyperscaler capex data center"
-      ]
-    },
-    {
-      "title": "Morgan Stanley sees $2.9 trillion in data center spending, and a $1.5 trillion hole - Crypto Briefing",
-      "source": "Crypto Briefing",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFAxWjRoVHdwaXZ2d1dkZUo1QnYxc1V0SXVKcjNIVjZCQ3o5aEsxS1hhdEdtWnJQVkJ0eC1YOUhUMDNVT3FXcUFEeUU1OFlXV1ZyWkFoSHd1dmo3c29vVi1meENZTlpQRzlUV0pIZ1NVVkRWa2ZWQmRhVQ?oc=5",
-      "published": "2026-10-24",
-      "ts": "2026-10-24T07:00:00+00:00",
-      "queries": [
-        "hyperscaler capex data center"
-      ]
-    },
-    {
-      "title": "AI Debt Nears $500 Billion in 2026: What It Means for Nvidia, Oracle, CoreWeave and AI Stocks - I/O Fund",
-      "source": "I/O Fund",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQMUZSbS1OQ2tyTVVZenp3YXIyTEFjWDlTeWQ5Z1BaUWlXQS1lSDQzdEZSQmlValo5LXpPX0VNcGRUbC1kMWVsRzVmT1k5MTJHOWFFZ2dBRTI5RTFhemdGRFRYeG1oR0JUNldNZjFzS09hZmNHOWE5aFBwZ3o5RWdycDZPSkFFUQ?oc=5",
-      "published": "2026-10-23",
-      "ts": "2026-10-23T07:00:00+00:00",
-      "queries": [
-        "Oracle CoreWeave data center debt"
-      ]
-    },
-    {
-      "title": "CoreWeave and Oracle Shares Sell Off: Are AI Infrastructure Debt Risks Rising? - TradingKey",
-      "source": "TradingKey",
-      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNRmV2MlNjenVadVhGNzVYR0l3MnlELXhOanRTSHlDcmkwZGd2cmd5RmdkZzBSWHpIeFVTRzVuSkljZXJfZ3EzYlRSa2dsQmF4WUZWZ0o1ekQyT2dTUmhYc2UyY0Z1aDRyaWctX1FXTUtFYWdsOTMzcHhSb3gxdENLTjNBRzZpQUNUSDVXaHU5eXppUUszRXNla3RaQUVDM0hBWDUwS1U5MnBZUmtOWnlCOHBZMzVPcWRjOFJpczNFQXNzQTFUX051TWsweWZyZk0xejg0N0pGRQ?oc=5",
-      "published": "2026-10-23",
-      "ts": "2026-10-23T07:00:00+00:00",
-      "queries": [
-        "Oracle CoreWeave data center debt"
-      ]
-    },
-    {
-      "title": "AI infrastructure: The gap between capex and cash generation (CRWV:NASDAQ) - Seeking Alpha",
-      "source": "Seeking Alpha",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQREhvem92aEZoVnF6U044WUtvQk1HTEJvc1pPWTc0YUNST0ptWXZkTC1abnVwVG9tZ091SjNGdDNHTkhwYUprYUhRRHkyZHJXNjhGOW1qZE90VC1ORHR4U3l6U0dIVnBtRjQ2WGtIcVYyOHp4SGVaUWpFSTZJcDJEbkdBNUdrQTQ1aUdFVzQ3S2Vpc2EyVllEVVpoaV9jQQ?oc=5",
-      "published": "2026-10-23",
-      "ts": "2026-10-23T07:00:00+00:00",
-      "queries": [
-        "AI infrastructure funding gap"
-      ]
-    },
-    {
-      "title": "The Half-Trillion-Dollar Silicon Gamble: Inside The AI Debt Boom - Forbes",
-      "source": "Forbes",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNOHVPT05RNXJBMm9FVHVsVjVHSkR3RUpkVEQ1OWRFUktoNFdwQkpweEdqd0I0QkFMZHlOalJoWnFJU25BLTlGbVpuaFdvMlJBa1FLM3JFbU43SV9BeUo3V0VoWk9FdVR4UE96Qzhuemdtam9TZURteW9JRVpxUXFUSEM4WloxVHpKUlBhWFFDTU96SHA0dFUtQnBlWXVpbnlweDVKX1FUU2pSa3hUcThKVWpmbzdVMnFqaTViajRHdGhEYWRPVTBlcw?oc=5",
-      "published": "2026-10-22",
-      "ts": "2026-10-22T07:00:00+00:00",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE11LXROTGNDRjNfTG9EZkFLNTZYaGdOLWRFUzhENGJHdDM2d0xuMXBLa0pUNVFTdXhXSGEtWExEUVp4R1BMQ0ZNazZVcWlSdWp3Z2xOUEdkNHI5Y1lyb3RESHNEZw?oc=5",
+      "published": "2026-10-28",
+      "ts": "2026-10-28T07:00:00+00:00",
       "queries": [
         "AI data center bond issuance"
       ]
     },
     {
-      "title": "Nonprofits are building responsible AI solutions for communities. But they need infrastructure funding. - Candid",
-      "source": "Candid",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9mU0pDYVJTaDEwUU1tUWdtOWw4eVhTbnNXNVdIc0lqWVBLUWM4MnVsbGJPYmZ6T3hLZHQ0YkRhVHpCcHFMb2wycTYyUzMwV2txSmswYkxubFh6RG1RT25PeEFVRQ?oc=5",
-      "published": "2026-10-22",
-      "ts": "2026-10-22T07:00:00+00:00",
-      "queries": [
-        "AI infrastructure funding gap"
-      ]
-    },
-    {
-      "title": "SA’s infrastructure gap presents an investment opportunity - Moneyweb",
-      "source": "Moneyweb",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNSm9RNF9vcGo5bXRpWExZT05HY041Rmo2SXNpdkRBVzhiVWZSRUNmZDl0Qm9qMERaZndoMzN2TVdSY09rMHotUEtfUm92Z0RSQ0dES3JETlV3RVhYMDJGaUFncFlONU9xNGtOSXFnT2tRUGtkczYySk9rUGdFUVRHNkJzejRQWng5X0VISnBtSDl6NWxLOGhfZkZQRDJ3c1B5ZjBjMGlDWVA?oc=5",
-      "published": "2026-10-22",
-      "ts": "2026-10-22T07:00:00+00:00",
-      "queries": [
-        "AI infrastructure funding gap"
-      ]
-    },
-    {
-      "title": "What unprecedented AI capex means for markets and investors - J.P. Morgan",
-      "source": "J.P. Morgan",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOMUNxWFZKZVpaZk5HUTAyZ015dkpqYVJKUlVUNmZzMUhTLUYydnFoNWF1TGRkRGJKWGNjT3VSYnNiWGF0U1EzbjVUTmtYT0Y1eEU5LVBNaHV4RjdpQks3OU5IcmRudC1KNTFrRi05Zl9kOGRyaGRZNUEzZ1dEcmNNOVlzU1drOG1Rb2c?oc=5",
-      "published": "2026-10-21",
-      "ts": "2026-10-21T23:08:03+00:00",
-      "queries": [
-        "Microsoft OR Amazon OR Google OR Meta data center capex"
-      ]
-    },
-    {
-      "title": "The AI boom is nearly $5 trillion short of paying for itself, Gartner says - Fortune",
-      "source": "Fortune",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNb0pFTTBRSzFOZUF3d2hPZ19MZ1RoQ0J1MEFsMVZpeEVVenV2SHlHX1FrZ1kwZldvRTk4SFZOVk9XWFJ3cllrV0ZPSll6a1g5aWJUczdDX0t2QlZPNUNob0Q0M01vMjJweDRMWWlKaW5oNjRCLV9QbmxRNm1xd3RfX3FoQQ?oc=5",
-      "published": "2026-10-21",
-      "ts": "2026-10-21T07:00:00+00:00",
-      "queries": [
-        "AI infrastructure funding gap"
-      ]
-    },
-    {
-      "title": "Gartner says AI infrastructure spending will outrun revenue by $4.9 trillion - Startup Fortune",
-      "source": "Startup Fortune",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNZTZpNHVnYk05VHZWRnNWRDFJb21YQUZ2MUgtSUJIN2dVb2xCdjhCNDlwSnlaQk8zdGpKcjlnLVBQcHJzeGxnOVRtTkY3b1BSS1NQVFRQTHh6LWxYaVN6dE5QLXdJejNVNnBUaTZUV1l2dDVCM2w1eXVjLVpIbldiclVNLU9fOE5LYlNDUklHSGs1ODFIY0paTWc4dGxJaFJ6Q1VOVw?oc=5",
-      "published": "2026-10-21",
-      "ts": "2026-10-21T07:00:00+00:00",
-      "queries": [
-        "AI infrastructure funding gap"
-      ]
-    },
-    {
-      "title": "Europe Risks AI Startup Exodus as Regulation and Funding Gaps Grow - The 420.in",
-      "source": "The 420.in",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE11UG1qWmNJV1BYc3cyU2ljQXNVZ05JRUhkTDY5VlpVQV9OVkt1Z1ljdU5FOU5hUVBrMW9PbEYwSjhBbTVBZkJpUTF2Z1E2OG1JR002bDNPRTdWenlBMU5lRTdlang3bU4tLVZfWDg0cVhmSU0yVS1ONEExOFVFZw?oc=5",
-      "published": "2026-10-21",
-      "ts": "2026-10-21T07:00:00+00:00",
-      "queries": [
-        "AI infrastructure funding gap"
-      ]
-    },
-    {
-      "title": "CoreWeave Falls 4% as HSBC Reiterates Bearish Call on Debt Risk; Nebius Drops 5%, Oracle Holds Steady - 24/7 Wall St.",
-      "source": "24/7 Wall St.",
-      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOQWJCbUk2SjRSVzFkaGxzX0lMbEFMTklSdXZ2VTVvWTZfTWtkSHRhUE1VbVRXWjlGa0ZUaVBTUF96Zmpyblc2MmlqSlJCOXFaaVJRXzFRei1vNFJ2RnRmb0tZQjBuYXdjOWdNREpjRlczenpqUlZjMkkyYW5uVkNtWFdPb0dES0RscXpsMEl2cHNSYnBPYnk2MW9URTk1OHAyS1J3c2c2SjVmRXFvbWlKNnpPQlZIVzhGTnBzWmFVaUNwekx3WkpuU0VEQTJmX3ZMWlpaVC1UcDg?oc=5",
-      "published": "2026-10-20",
-      "ts": "2026-10-20T07:00:00+00:00",
-      "queries": [
-        "Oracle CoreWeave data center debt"
-      ]
-    },
-    {
-      "title": "Wall Street Split on AI Firms' Default Risks, Buying Opportunities - 조선일보",
-      "source": "조선일보",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNc0toM1NneXhmV1huX1d1WEwwSDg3VmtGcDRiUHBJOVlyak44Q3ZRQ0Rha2QyQU1xaEJGYUpnTGFSS3NraGJHR3JfY3gxTVh2UzhUM25rMTMtV0MzcXdqQWRVTDdyOHpYb1Fack1fbTBId0E2ZzVUTEtnbFdHdTk5TzBaT1lqRmVsV1R3NzRn?oc=5",
-      "published": "2026-10-20",
-      "ts": "2026-10-20T07:00:00+00:00",
-      "queries": [
-        "Oracle CoreWeave data center debt"
-      ]
-    },
-    {
-      "title": "Top hyperscalers likely to have more AI-linked debt than now known, S&P Global warns - Reuters",
-      "source": "Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOR0R4ajM1WGNGNnB0Sms4Uy1aWV8teXNzd0Z5YlllYzE1NlRvSm9oX01Ic1p2SmFDOE5mcmZtSEMtRmh4bU9xZGYyME5NMUdwdmY4cWIwWjU2RXMwUFVmek40YjVSd1E0dElQSmRpSVhNNkJaQndZRnZ4NzZqUWxNbmdxdE9vZTcyUXhKN2trMWVGejRXZldCcWVyTDRBWXJlMXFsRjVDMFZJSGR3N0xIMXVpenZfMHdvcjB4SzlSN3p0UQ?oc=5",
-      "published": "2026-10-19",
-      "ts": "2026-10-19T07:00:00+00:00",
-      "queries": [
-        "hyperscaler capex data center"
-      ]
-    },
-    {
-      "title": "Hyperscaler emissions expected to jump 60 percent in 2026 - Trellis Group",
-      "source": "Trellis Group",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9vWEJfajRNV2hfQUNLb0pURXpZUUNSTWxuZGtfOE9SUVpKSDNIQi1EbG5iNWdTUWhJWWQtS2FjNGRLRjFLZC0tQ3Jza0pXSDhaM3pXVUlQZm9NZmdUWTlQZHNNWWNZZ2Rqdi0wZllrSW9xcWhrLTdFSg?oc=5",
-      "published": "2026-10-19",
-      "ts": "2026-10-19T07:00:00+00:00",
-      "queries": [
-        "hyperscaler capex data center"
-      ]
-    },
-    {
-      "title": "Navigating an Ecosystem of AI Bottlenecks - Goldman Sachs",
-      "source": "Goldman Sachs",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNT1RQZks0cTVlZUtwRGVwMk5jdHJtU1ppT3drODlRU0JOckNwc2RqLUdKTngtTlE1dnVSYVhPX0FURGFoNHVXSW9xaUljOWRGckJ5TlJjOTg3dUoxU0FtTVhpTUwxbWo4ejJ6bmhhYUtGRE1JOG9pT0RDa1ItdGFWTTJJTTNYOEVZdWtnZC02TjM1ZklqS2ZfcFpaLXRzQnhrdGFwek94bXVfWTFhaEJvVjMxT0Q?oc=5",
-      "published": "2026-10-19",
-      "ts": "2026-10-19T07:00:00+00:00",
-      "queries": [
-        "hyperscaler capex data center"
-      ]
-    },
-    {
-      "title": "AI Capex And Earnings: What Happens When Growth Slows - Real Investment Advice",
-      "source": "Real Investment Advice",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQUEstVEpfU0ZQUUN0cjNfeVVrdE1vVzlUbU42T2tqUW5pRkE2aER6VDRIdHdfODh5NElzVERNRjNmQVBTQVhobFFnQklaZjIzeGdobFZURGV2X3lBRzBoT3JJSXpDM1JYbmVNWXdmVWN3SVNJQ0tTSFFHY3pldUJJdDJWUWZwNUxhYzdTaWN6djUwTlJBQm5YZXM1N0RPZUE5bmVr?oc=5",
-      "published": "2026-10-19",
-      "ts": "2026-10-19T07:00:00+00:00",
-      "queries": [
-        "hyperscaler capex data center"
-      ]
-    },
-    {
-      "title": "The Weak Points in AI Bonds Are Becoming Clearer - WSJ",
-      "source": "WSJ",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOWTRKUXNKLTZaS01tUmRWUWQ3RGtiTnRrbU5IQlhIbnY2dFZmaFZNQ1djXzJGYmFLNkVIZVIzV1lNSmU0ZWt1VDdZMXRpbjJBUklvVjZId2o4bG03WmJpbGY0MUc5SUV6TnFHN3FNa2FYc3dPN0dJQjQwN2hEcUgyRkIzcnRMeGUwSmRGMHRkZU8tM3hrWGhpWU9JVQ?oc=5",
-      "published": "2026-10-19",
-      "ts": "2026-10-19T07:00:00+00:00",
+      "title": "AI Infrastructure Borrowing Boom Pushes Global Bond Issuance Past $6.6 Trillion; Amazon Jumps to World's Fourth-Largest Borrower - BigGo Finance",
+      "source": "BigGo Finance",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9jeG5udDJGUFJDaUx1MHlXcnJEeFVxNEdjTFUzdXJNTXRTaThwd1FUTlZHV2YyRE9UVUpXZFJWSU8wSE0yWHV0UUFjSEtnUVJfQXRYMXItSUtSTlduUGsycFhIaHJiUTZhenN1MzZJUUhibGloSVE?oc=5",
+      "published": "2026-10-28",
+      "ts": "2026-10-28T07:00:00+00:00",
       "queries": [
         "AI data center bond issuance"
-      ]
-    },
-    {
-      "title": "Credit stress is threatening to unwind the AI bull. All eyes are on Oracle to hold the line - CNBC",
-      "source": "CNBC",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQMzBVQ2Q5NE5xbnZNV294LUpQZGhfSTBrMEdFa0VybjNBNTlZLUlLb1ozZjIxVllLcHBIazdBMEJvbjNjc3VwZmI4VTdBZ2ViUllFVFlFY3o2enh3bkpKSXlWTWN1c2V2V3laZ2s2YS01UTNIS2xhdXkzYjBUbVJTd0VEckY0eEVEelJOaTY3LXNYc0daYmcxLW9Helh0eFFLeVJ0RXZhRzB4UdIBrwFBVV95cUxOTWVtWGcySXNEMWpIQ1czX1dSbmJJZnZLaU1WYTd3U0Q4M1QwWTNQaTdFVTRNMXVkSXZ4QzJzcklPVFAzejl3RUxQckVkVGh3WkxNWTZ5YUFDYmNkTDAzV081N2lTaXIxTDZ3eXloVV9uSC02RVBab3V3cWgybkgzYnplV2FPNklucFphQUNHMXpJVS1fSHVqUTNkbnpJVU5iVTB3ZG11V290X3JZQVRZ?oc=5",
-      "published": "2026-10-19",
-      "ts": "2026-10-19T07:00:00+00:00",
-      "queries": [
-        "Oracle CoreWeave data center debt"
-      ]
-    },
-    {
-      "title": "CoreWeave Jumps 6% on Goldman Sachs Upgrade; Nebius Rises 7%, Oracle Edges Higher - 24/7 Wall St.",
-      "source": "24/7 Wall St.",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNcnZiYWJTajViOHoxT1Bkb3lnSnROZFR2VTdnNG1PRkZoa0ZQUWZxTWc1azNMYlB2UldrRHd4eHRYYnlTc1gxS2s3ZnQ5bUg5end6bXB1bHB6NnEyekVoS3NFa25lam5UTXB2dUJpUjQtNGhfYXVpV04xZW9TSUFTYUgwZ0owZ2dONVl0NHlqMzdCcHRKV0pPeVdNb1RjelVwZzhqTWFYemN6TllkYTBBeUY0bl9BS3g5Z28zM3Nn?oc=5",
-      "published": "2026-10-19",
-      "ts": "2026-10-19T07:00:00+00:00",
-      "queries": [
-        "Oracle CoreWeave data center debt"
-      ]
-    },
-    {
-      "title": "NYT: 'Weak Links in AI Borrowing Begin to Emerge' - news.sbs.co.kr",
-      "source": "news.sbs.co.kr",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5NS0FYazI1OW53dlpsdDVJU3RwZmZYNmZDd0JUdTBGRE9sc1ViMWh5YnN0Z3dpeV90QmpUUXVmSkx5TWN3Wk9oeGw5X1dYbjRtcGFVVmNDcGZOWm9jTGJfMXlKdHdXVTJTY0p5dFl3?oc=5",
-      "published": "2026-10-19",
-      "ts": "2026-10-19T07:00:00+00:00",
-      "queries": [
-        "Oracle CoreWeave data center debt"
-      ]
-    },
-    {
-      "title": "CoreWeave, Oracle have an interest rate problem - TheStreet",
-      "source": "TheStreet",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQTjJhSE02TTk1elJzVnJzbmIzMG93aW5wN3RGV2otUmQ4WS1PUWRxcVB5aG5rRWVUMVVILWZpcnlnTWNDc3U0N0hwS2FNQ3plcU5vZld4TE01US1zM0FvS001M3VZcl9aaThtODd5WjQtUHYwN0dqbVZZaXN1Y25mSldTSlR6ODZhRmNNVUdVSTFiOVk?oc=5",
-      "published": "2026-10-18",
-      "ts": "2026-10-18T07:00:00+00:00",
-      "queries": [
-        "Oracle CoreWeave data center debt"
-      ]
-    },
-    {
-      "title": "The $10 Trillion AI Buildout Is Starting to Show Cracks in the Financing - Startup Fortune",
-      "source": "Startup Fortune",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNVVpHekdqRUVjNGVrdlpGODM0cWRYN1h2VkpLaHc4M19NSENOS3FYUFZtUVN0TzExZXNRUjlrVW93Yl9fMFJsYzBnYlNLY3FkcHhXSWNQOS02Rm1FcnNaYmZmdEhWUkpmaGluY3RacUtxRWN0Unk2WkxnWUc3Wjc2aXAybWwyTkpWcmtYUElQYXlHb3kwM2I5bUNfRkdxZ01r?oc=5",
-      "published": "2026-10-17",
-      "ts": "2026-10-17T07:00:00+00:00",
-      "queries": [
-        "Oracle CoreWeave data center debt"
-      ]
-    },
-    {
-      "title": "AI spending vs returns: Why CoreWeave, Meta and Oracle face a debt reality check as $4.9 trillion goes into data centres - Livemint",
-      "source": "Livemint",
-      "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPRHA1dEFmSFlacHpzYV85THYya0doNU9rNDJoVmxPbkJDNDNZOWQzWHBUSTQ2UkNSWWJOOFpmRFNvZy1Rajdndk9iTWVxeDVZMzlMd0FEMk9SRTAzMFJnOWQ3RzVRWUQ0ZmRrUkFRM3ZMR25zdnliVF9SMVM3aFN6MzlMMmluLWpKaXdCdVd4Yy1zOTloR2tOUjFLZThHTmZjcEVvbUpVSmJMakRHajM2dnVmSFNQYmhwWlNzdUJqWFpYVXZaOWw5aEZtTHVLdFlJejdsQ2lmOGxQTTllQmRSNFRpamlfbnhxUU4waFBlWS1uNFpmbzhVRNIB_gFBVV95cUxPdXloNXFtZkQ3Q3AzcElOUXlIWXNRT0xrNVM5cFB6RUdkM3A2YjBsSjdWUkNBWUJvZ0JzRFY0LU5CSnV4SnYxZG9DNWtncG54cjdhelg1Vml2V1lycmZ5Zzh2cVVFUXZCM2o0ZGJLRnVDZlhJVGh6bkNxaHlucEcwM19wVU1lbXNNc2duTlRvUW1sUVYyZzB5LS1QdDZjWHZnaXROX0NCa2FmemIyc0dyM0dXYW15bzZtRjc1TlV3cUtNMkRKSVV1WXRpZ3hQaXBMOGdDNHg2ZC1ZaDRqLUNNaTZVdFZDcVE0cUFpay1kdENqXzN5WkVreXJsb3FhZw?oc=5",
-      "published": "2026-10-17",
-      "ts": "2026-10-17T07:00:00+00:00",
-      "queries": [
-        "Oracle CoreWeave data center debt"
-      ]
-    },
-    {
-      "title": "Morgan Stanley Sizes Up $1.58 Trillion in 2027 AI Capex — and Maps Where Every Dollar Lands - Moomoo",
-      "source": "Moomoo",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPVlVXWDVGRUcwdklxSWd0Sk42aW1DVVFhM0pob2I3ZEVzelVXOUlDWHVqQkZZY2xzWnBsU29veDVJSlJQMloyLUJVNFpkeFFTOTd3anZaRVhacWVQRmZDVHZKWmVvSUxwVWRhbG9mODNEcXJHYzF4dHhFMGVBcV9rcVpzanNSeGQtU2NlWE9NOGxjbkZ2aE5aeFR6TTRGN1dHcDI4?oc=5",
-      "published": "2026-10-16",
-      "ts": "2026-10-16T07:00:00+00:00",
-      "queries": [
-        "hyperscaler capex data center"
-      ]
-    },
-    {
-      "title": "Why CoreWeave's 25% Tumble Is A Warning To AI Financiers - Forbes",
-      "source": "Forbes",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOUDd3QnRYVFpoMUxuMXRmLVA3U3Z1WDBjanZMajhIclFoMDdXZ1A4RWtKQ3FVVTEyTDhEVWVRTkJtSHBiSzdQVk9JMGlzV2JkYmUzZTVXSlRTLWp3STVpdERha2wtT3dUSUtXcm9TZFdUTDIwa21OZFZ0TWVLUWxqZWoxcjZUeVhYMi1ZSWJEeTdYU3ZmX3pZaHRPZmx6V2x4U1I4MmYzUTI0akFKNkswelozUU51RlZiV181Nlh3?oc=5",
-      "published": "2026-10-16",
-      "ts": "2026-10-16T07:00:00+00:00",
-      "queries": [
-        "AI data center bond issuance",
-        "Oracle CoreWeave data center debt"
-      ]
-    },
-    {
-      "title": "AI Compute Boom Masks a Trillion-Dollar Gap: Gartner Warns Over $3.5 Trillion in Infrastructure Investment Faces Impairment Risk - finance.biggo.com",
-      "source": "finance.biggo.com",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5tLUZlSjJuQzhFVkEtcTZfdU1fVFUwS2MtVmJRVlNnVFhlUEE2QmZEYTNDcFdSZ3pnZjZ6NGoydkRGZlJXN3d0ZmZ3X0gtNVlYYjJ4WEdoM3NRQlJFSnpWQ3B6YTZBNG5OdlNMR2dBUmJ3Tk5Vcmc?oc=5",
-      "published": "2026-10-16",
-      "ts": "2026-10-16T07:00:00+00:00",
-      "queries": [
-        "AI infrastructure funding gap"
-      ]
-    },
-    {
-      "title": "Investors dump data centre bonds as AI borrowers face ‘Darwin moment’ - Financial Times",
-      "source": "Financial Times",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNeHNjZE1aMG8wWVBHLW9UeG15T3RSZzdSOFR4WGN5SEtyWTI2Y1g1MWtSUFZkYUFKc2QtS01JN2lHSW82bjdqVWNjV0w1WVNMU1B2U1BLZlB6QkpLc1ZSTUE4Ry1EMzVRa3RUT1J3azFYRjZnNVpTY0c5WERPV2thSlp4MkE?oc=5",
-      "published": "2026-10-15",
-      "ts": "2026-10-15T07:00:00+00:00",
-      "queries": [
-        "AI data center bond issuance"
-      ]
-    },
-    {
-      "title": "Gartner warns AI data center capex is ‘unsustainable’ as $3.5T write-down risk looms - Fierce Network",
-      "source": "Fierce Network",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQVTRzZmJyOTZaUFJPMTJ0WmRKaGczck9nX2lRRUJnc1hvMGVHdGpuQ2JfbjRaNzZZazZ2dTROWVg0dHl5bTk3UTVFZFFRdVZFZGRmZFhqQVZ4MXk3clB4S3otTlNLcVhsR0hYOUUzYXNtM0tCUHZFVnhJZl9rN0FFUzVIUE9lRFZHZ0NidHRBRkJmUkRxSWU5N0g3d2lLZVdraGI4Xy1fRmJ4clozb1ZtcQ?oc=5",
-      "published": "2026-10-15",
-      "ts": "2026-10-15T07:00:00+00:00",
-      "queries": [
-        "Microsoft OR Amazon OR Google OR Meta data center capex"
-      ]
-    },
-    {
-      "title": "Banks that financed the AI data center boom now want out of that debt - Startup Fortune",
-      "source": "Startup Fortune",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNRExrSnpEUGFRUUVJalBLUm8yU1ZKUG9vcVhtQlNXaWhVRXFXeGZBTFYyWXU4VkxuOFZVdEJ6QVI4UGtxUFFBTml4ZlJ5NG9GUlZQN3dLYksxQWFZM256QlZzTm5TUFFUUU5OX2QzR1lLWGx2S0tfcGhvNmFYclloWWdoeW5rYmxsbmh5X2dqRkRVMEFkSGNEc0IyRTY2QQ?oc=5",
-      "published": "2026-10-15",
-      "ts": "2026-10-15T07:00:00+00:00",
-      "queries": [
-        "Oracle CoreWeave data center debt"
-      ]
-    },
-    {
-      "title": "How Much CoreWeave and Nebius Owe, and When It Comes Due - Stock Titan",
-      "source": "Stock Titan",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPV25hRmRSNTQzZ2hsZC1DX00xYlBuZXBoODcyOHdsNWYyV0M4clJMZWFZRkZzblJSbjBzWjdua2dlZ2hrVlJhakxOWGtYV3hqNmJKcmZ1eU8xWG1XSk4za2loRUE5ODFsY1FNMTNFanNxd3QxUzZGSk9mMmlfT0h2TGJjb1FKeWJ0dFVYVQ?oc=5",
-      "published": "2026-10-15",
-      "ts": "2026-10-15T07:00:00+00:00",
-      "queries": [
-        "Oracle CoreWeave data center debt"
-      ]
-    },
-    {
-      "title": "CoreWeave's Default Insurance Costs Explode Above 1,000 Basis Points as AI Debt Market Shows Stress - Coinpaper",
-      "source": "Coinpaper",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQTmNwUjRtZjhTb25PcTByUjRiM1NUR3dYSmlPNENhR0VwU0tjaWJxTmZlMkNfa3FMZDYzZEhLeFRxanV0Sl9sYlBoQVZHVlZnTWZaWUtSdnd3U0hia3ZzNUN5eDc1cDFpZkdJcldZekduNmRFZHBEUnJ0ZFkwSkh5Z3ZQamcwaW52anNuS1VBQWVTcFJvYUM1ek1vSUhiMGdISWxWc0Q0a1A1MXVONkdfYVh2eTc1ZWJLN3ZHUVZ6UHVNNWc?oc=5",
-      "published": "2026-10-15",
-      "ts": "2026-10-15T07:00:00+00:00",
-      "queries": [
-        "Oracle CoreWeave data center debt"
-      ]
-    },
-    {
-      "title": "AI Credit Default Insurance Costs Surge as Investors Assess Data Centre Debt Risks - Yahoo Finance",
-      "source": "Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOYTY4czZFUndNUzNqbF9aVUY3a2F2NlBsQ2FIeGdjSk9oNmZqdlRwU09RalRZN1BxTW1HSVVPYTdsdld4dEdWclgtTmdBVnBLempiNHRFQlJYS3Rnamc2dFpfNmFJd3pHVTNTUm9RazI4U0M4MUROU095Tks3V2FVXy16Smdja3FXUTBxR2dQT1JhR3NGb2w4NGJnV180R0E?oc=5",
-      "published": "2026-10-15",
-      "ts": "2026-10-15T07:00:00+00:00",
-      "queries": [
-        "Oracle CoreWeave data center debt"
-      ]
-    },
-    {
-      "title": "CoreWeave Lifted the Kimono. Now Credit Has to Test the Domino Chain - The Dark Side Of The Boom",
-      "source": "The Dark Side Of The Boom",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQR1NFSmZPM0Jma3lBemVJMlFvNlJBNl9vb25GRUljN05QdzRRNXJDQWY2Wi1jR0xjVzdhM3JBdkFwUjgtSHcxNV84U0NXZTN5dkFCd3laOFM1U3lnMjlOOHY3ODJaNFhWV1I4dWFscDQ0Mm5UaUpxVUFfenVCamtIRDViaXVRQ0lLdXc?oc=5",
-      "published": "2026-10-15",
-      "ts": "2026-10-15T07:00:00+00:00",
-      "queries": [
-        "Oracle CoreWeave data center debt"
-      ]
-    },
-    {
-      "title": "Shares of Coreweave, a U.S. cloud company that has borrowed huge amounts of money from artificial in.. - 매일경제",
-      "source": "매일경제",
-      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFA4a3hhVkx5OENUbVFKekF1LW0xWXZnMmlwMUhkY3NTd1g1aWNYSXI3aG5JV050SXpjdExCM3lXb3FPTjRBMjc4eWNoZw?oc=5",
-      "published": "2026-10-15",
-      "ts": "2026-10-15T07:00:00+00:00",
-      "queries": [
-        "Oracle CoreWeave data center debt"
-      ]
-    },
-    {
-      "title": "Memory Is the New Bottleneck in AI Semiconductors - Global X ETFs",
-      "source": "Global X ETFs",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQWFBhUmdGdUhPVlo0ampLV0M1OWJuem5VdjluYUVValhlUXJ6Q00yaFRqTFg0VHB1eWRyYk85NzBnZF9tejFETW85UXJzMW5WVS1WTnl1cDQzWUhsdDBabi1QV085OEN3YnIzcnRLMDJWekRyZVdzT3Z0cFYtQ0J1dzA0Sm1nSTlIb2VpbmFHN0VZX043VVRFQWNrTnNqd3dISVVJM0p3?oc=5",
-      "published": "2026-10-15",
-      "ts": "2026-10-15T00:14:13+00:00",
-      "queries": [
-        "hyperscaler capex data center"
-      ]
-    },
-    {
-      "title": "Shares of Oracle, neoclouds drop on CoreWeave debt concerns - SiliconANGLE",
-      "source": "SiliconANGLE",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOLXhITUJkSDZPOUE5T01hdUFyMGdBT0N0bWFPd2hIYVN4djJ2Q2gzWWJNZTQ2ajc3NkNJSGM2VkhHQ21KT1QyRnRINDZMWTF1SGJoVnE5Z0psaHFCajBZdDlwNTc0REV3RXE2NDA0dW5rbFVZVDVWN2VoVVJLZ0dicHR6dnd3OU5obkVBMTlMb0JSNlkyMXdIVXp0WQ?oc=5",
-      "published": "2026-10-14",
-      "ts": "2026-10-14T07:00:00+00:00",
-      "queries": [
-        "Oracle CoreWeave data center debt"
-      ]
-    },
-    {
-      "title": "CoreWeave Falls 10% as Bond Yield Touches 15% and Elon Musk Says 'Yikes'; Nebius Drops 6%, Oracle Slips - 24/7 Wall St.",
-      "source": "24/7 Wall St.",
-      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNNnBaWkw5dllVZENuU2ZYRUZJcjlZRjB0aDRuWnA2dnpxT2FkX1NyUDhSNjN4NnhlSEhBLUxQTGphSzFNMm00V09XUVpWWDI5RlM0WWRKQzdPMDdMNFpySVNYeEV3WGdGRWVKVWdtNTlUdFpxSjMyV2NhdTJNVUs2S1dvV0JYX0k3dWN6ZDF5SlZfck9mVjUxTVJHQm91eXhERWpoQzVIek9yZFdPak02RWFQU29MaVUxNUF4TlZqZUVsYTA3RFFKSUtFZ09yVnBVSGR2QkdGdw?oc=5",
-      "published": "2026-10-14",
-      "ts": "2026-10-14T07:00:00+00:00",
-      "queries": [
-        "Oracle CoreWeave data center debt"
-      ]
-    },
-    {
-      "title": "The Staggering Costs of a Single Data Center, From Land to Chips｜Bloomberg Businessweek - finance.biggo.com",
-      "source": "finance.biggo.com",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9oQWRBQW5rUWpCd0tWRzROUmJXRXRFdkszN2xURkFRaFlEUmFCQVl4WGFFTE84TGRMNW9FSGRBYWVtbUs0VHpPY29FVkN3R0FiNm1DQktod0Y2MXJ3TzQ4?oc=5",
-      "published": "2026-10-12",
-      "ts": "2026-10-12T22:20:21+00:00",
-      "queries": [
-        "hyperscaler capex data center"
-      ]
-    },
-    {
-      "title": "Bitcoin miners face widening AI financing costs as lenders scrutinize deals - TradingView",
-      "source": "TradingView",
-      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQOXZ0WXJqc0VvS3BsMXByaFNVd2E2eTBSSmdlR2Y2bWNPQW9Za0EtdzJkTy1JUWtJcXBPQnNyRjkzekJscnpOX292aVVheWdhWkpHT0o3c2JhTUc0VkZEVF8waXhLZTNQM3lQa2JxbjVYSk9MZXlmbjFtVFVMZXhzMlpiOXJ2ZTlodEdwcl9PVVFpVXhJVTNYczlUd2NPdjRvZ295YmdsaUsxU3ltVTNfQU43bEF1aWpMTTJic3hKQjZlWDlqT2F4cWl5Z2F5SnFrV1RsejV3?oc=5",
-      "published": "2026-10-12",
-      "ts": "2026-10-12T07:00:00+00:00",
-      "queries": [
-        "AI infrastructure funding gap"
-      ]
-    },
-    {
-      "title": "Bitcoin miners face a $50B funding gap to upgra... - Pluang",
-      "source": "Pluang",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNUEZIeEUyRjkxZzBuZmlsbXc4X0pUVlJDSkxPVk1fU3AwU2x0R1d0NFl6UUV0c0pEd1duc2VSbl8wY3JVTEFWeEtrOU0tQ3hpNFJZYUJxODd2bElxcUdpaTl2c1NISmJ5X0gxN19oMmJpQ0hmdHFpTDBXWUVnOXNoRkdmTmtJdEhEalFiUk9HVzUta3ZLUUFuQXltTE5mYkxfdjJqbg?oc=5",
-      "published": "2026-10-12",
-      "ts": "2026-10-12T07:00:00+00:00",
-      "queries": [
-        "AI infrastructure funding gap"
-      ]
-    },
-    {
-      "title": "Nvidia Stock: Finding New Ways To Extend The AI Growth Runway (NASDAQ:NVDA) - Seeking Alpha",
-      "source": "Seeking Alpha",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNMndobzRCTHpzOWJTYUhfQktHQ1JlRzdzYzV5V1ZfbjB0M2RiM0lLYTBaaW92ODRUWFc5VjYyTldyVFVMVHBQZWUteUN5dGZDdVZqMXVkN1c3SGhUcjVreFNwYnRkU29oWHNUVTBIMlVPVE1icmUtd3MwWFdLRExNWjR2cXpibXp0ZkRpREQ2NDJlTHhKQnEzYXdXSkw4Tlc2Vzcw?oc=5",
-      "published": "2026-10-11",
-      "ts": "2026-10-11T07:00:00+00:00",
-      "queries": [
-        "AI infrastructure funding gap"
-      ]
-    },
-    {
-      "title": "AI borrowing slows as investors grow wary of debt binge - Financial Times",
-      "source": "Financial Times",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPSmdMU0RnR2ZKMjcyckU0andTM3BtOV92NTQxZndtVjVva0JsUzRSRkR4a0JaRUZUTVlGNTBxa3k4N1pfU2kyRlQ3aGFrbHhpVTNlRVd5d213RThxbUV1OThHRFJVLXdNMWgtWE9waGs4UXBPRFRfVlQ4V3FiVmd2RVVzcDM?oc=5",
-      "published": "2026-10-10",
-      "ts": "2026-10-10T07:00:00+00:00",
-      "queries": [
-        "AI data center bond issuance"
-      ]
-    },
-    {
-      "title": "Banks are now trying to offload the AI data center debt they just underwrote - Startup Fortune",
-      "source": "Startup Fortune",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQNFhIM0RHa21tNXF4WExhRmRUNHFWWG1NWFhUZzZ5Zm1LLTl4VmhRUld0R053dThYRjZUM0M5UDBhcmxNQXpKTzdJeFFtcUc1bmQ0MU1zNTY3YWhmbGR6Q0lKNEhqV242WlRFdF9LUHBFREpKRFVxUC04dDcybzlTZVl5ZUVZN1M5TXBDLUVVTEtZeVRmVm5fYk15UUVFMDhwV2FXYkpSdw?oc=5",
-      "published": "2026-10-10",
-      "ts": "2026-10-10T07:00:00+00:00",
-      "queries": [
-        "Oracle CoreWeave data center debt"
-      ]
-    },
-    {
-      "title": "CoreWeave’s Debt is Substantiated By Clear Demand So I Keep Adding - 24/7 Wall St.",
-      "source": "24/7 Wall St.",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNdGIyRlFsd0hKSUMwTVBnbE1rZ1J2OWNfSkFWelUtV2F3Z1dNdTJFS3hhd0RnWFoxX2dDWDk5R3dHcTkweHFyUnJEakhCN0FJSUh5ekdVXzdPUkIxMFFGbFhGTGNLQ2Q2RW00Mjkwd2N4WFp6b09QV0xvRHdHa09wMDM4SHRxblRvSlpNY2J6WmZ5eTFBRWpWTUV5U1Qya2RaT3pCOW5zclBOeGlKTGc?oc=5",
-      "published": "2026-10-09",
-      "ts": "2026-10-09T07:00:00+00:00",
-      "queries": [
-        "Oracle CoreWeave data center debt"
-      ]
-    },
-    {
-      "title": "AI Capex Efficiency Should Guide Your Capital Into These Two Hyperscalers - 24/7 Wall St.",
-      "source": "24/7 Wall St.",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOQ0FWU2cwdnZIeEVITm1tR21rVlhwRTZfS2xwS0p2V2g1NUFEaDNJVUNram1tNVZRRGhEalhnS1MtQmNycFg1OGg3TVBiQTNCX2xXdXN6SEpFbmxNbnNiNWNEblMzQkozaXl5eXRxRW0teF91QmR2Yk1IclUtekFpcm0yd1lhNmpBVlctTDRETjJoRXo0RmxqU2ctVnlWS2pFSk1Ecm9aa2FmRU5HUXFuQW1aZkJoZFVJ?oc=5",
-      "published": "2026-10-08",
-      "ts": "2026-10-08T07:00:00+00:00",
-      "queries": [
-        "hyperscaler capex data center"
-      ]
-    },
-    {
-      "title": "The Stock Market Is Facing a \"Capex Pickle\" - The Motley Fool",
-      "source": "The Motley Fool",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOT2t4TGJVTmlyN0JKX09JUHYyLTN2LVBzVnlRYXl3YnJ4V0o3Vm8wcmFtWDV4X0ZFX2lOVkhaOWdWanhaem81NXNPR1lVd3hoR0hTX0w3ZjVzMlo4WHh0ZDdHeXdGQXRSUDVkb3RvVEFHeERjSl8zVmpnTnZzeUp0U1QtdVFnUTdxSkJRQw?oc=5",
-      "published": "2026-10-08",
-      "ts": "2026-10-08T07:00:00+00:00",
-      "queries": [
-        "hyperscaler capex data center"
-      ]
-    },
-    {
-      "title": "CoreWeave Sinks 7% as Financed AI Buildout Names Sell Off Apart From Cloud Software; Nebius Drops 6%, Oracle Falls 5% - 24/7 Wall St.",
-      "source": "24/7 Wall St.",
-      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQdjBvX1lnZEV0bElIakhrak1CalpaUW1FdzdaRXQ4U3pxeHg4dEJ2d3A2UkJmUUxXVU9XMkE1THFXdF9IbEs2elhDQ2Jsc1lRc19tenBicGV3V1FuNDVkLTFEQ2FRTWJ6RVBUbXlCaGhZNjRYcmlCekxKeUYxMGtJRDVhTmxOUDVuaHVyeUtIUVh1WUdpU2VFWE42aEw2cG9GR1E3dk5LVWFmVmRWaXcyLXcydWkzdmJ0RVM1ZmV3Y1RmeTRPUlY2LVlyMGhla1I3a1dTaTJXZFp4MWZlaDdDdmRndjNTc2RlalMxZg?oc=5",
-      "published": "2026-10-08",
-      "ts": "2026-10-08T07:00:00+00:00",
-      "queries": [
-        "Oracle CoreWeave data center debt"
-      ]
-    },
-    {
-      "title": "The AI Capex Wall: Why Financing Constraints Will Trigger A Slowdown - Seeking Alpha",
-      "source": "Seeking Alpha",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNT1MzdHlSblNaN0tFTHlXLXByMEMxMzE4U2hCVV83TkhMYXJaakRDMUxjWlM5M0k0TmhRSnRWWnhQM1ZIVl9XbTNjUklhb2dZeFI2Nk5fN0pXamZLSFJRdDkyY3V1VGF0dnlWMXdlM0luN0F0YXNoelFGRmt4UktUZ1Atc3hrZW90TENXWDNHQkJnTEpnRHlTLW00UnprMkpYMDZ5S05YZmxzX0wy?oc=5",
-      "published": "2026-10-07",
-      "ts": "2026-10-07T07:00:00+00:00",
-      "queries": [
-        "hyperscaler capex data center"
       ]
     }
   ]
